@@ -1,0 +1,34 @@
+﻿Installing assembly 'E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.InstallLog
+   assemblypath = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.exe
+Installing service ULIMS GIS Service...
+Service ULIMS GIS Service has been successfully installed.
+Creating EventLog source ULIMS GIS Service in log Application...
+Committing assembly 'E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.InstallLog
+   assemblypath = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.exe
+Uninstalling assembly 'E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.InstallLog
+   assemblypath = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.exe
+Removing EventLog source ULIMS GIS Service.
+Service ULIMS GIS Service is being removed from the system...
+Service ULIMS GIS Service was successfully removed from the system.
+Installing assembly 'E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.InstallLog
+   assemblypath = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.exe
+Installing service ULIMS GIS Service...
+Service ULIMS GIS Service has been successfully installed.
+Creating EventLog source ULIMS GIS Service in log Application...
+Committing assembly 'E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.InstallLog
+   assemblypath = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\ULIMSGISService.exe
