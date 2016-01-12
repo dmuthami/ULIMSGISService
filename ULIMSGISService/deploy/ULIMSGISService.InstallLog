@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\ULIMSGISService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\ULIMSGISService.InstallLog
+   assemblypath = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\ULIMSGISService.exe
+Installing service ULIMS GIS Synch Service...
+Service ULIMS GIS Synch Service has been successfully installed.
+Creating EventLog source ULIMS GIS Synch Service in log Application...
+Committing assembly 'E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\ULIMSGISService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\ULIMSGISService.InstallLog
+   assemblypath = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\ULIMSGISService.exe
