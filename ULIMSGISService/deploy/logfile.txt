@@ -1,1 +1,1235 @@
 12/01/2016 04:15:46: ULIMS GIS Synchonization Service started
+12/01/2016 04:35:46: Timer ticked and executePythonCode()  method or 
+                job has been done fired
+12/01/2016 04:36:16: 
+[1] - ERROR: PYTHON ERRORS:
+[2] - Traceback Info:
+[3] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[4] -     arcpy.AcceptConnections(connSDE, True)
+[5] - Error Info:
+[6] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[7] - ERROR: Geoprocessing  Errors :
+[8] - ------------------------------------------------------------------
+[9] - Start Time : -16-01-12_04-35-53
+[10] - ------------------------------------------------------------------
+[11] -  Local Authority : otjiwarongo
+[12] - PYTHON ERRORS:
+[13] - Traceback Info:
+[14] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[15] -     arcpy.AcceptConnections(connSDE, True)
+[16] - Error Info:
+[17] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[18] - Geoprocessing  Errors :
+[19] - Failed 
+[20] - ------------------------------------------------------------------
+[21] - End Time : -16-01-12_04-36-16
+[22] - ------------------------------------------------------------------
+12/01/2016 04:36:39: 
+[23] - ERROR: PYTHON ERRORS:
+[24] - Traceback Info:
+[25] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[26] -     arcpy.AcceptConnections(connSDE, True)
+[27] - Error Info:
+[28] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[29] - ERROR: Geoprocessing  Errors :
+[30] - ------------------------------------------------------------------
+[31] - Start Time : -16-01-12_04-36-22
+[32] - ------------------------------------------------------------------
+[33] -  Local Authority : outapi
+[34] - PYTHON ERRORS:
+[35] - Traceback Info:
+[36] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[37] -     arcpy.AcceptConnections(connSDE, True)
+[38] - Error Info:
+[39] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[40] - Geoprocessing  Errors :
+[41] - Failed 
+[42] - ------------------------------------------------------------------
+[43] - End Time : -16-01-12_04-36-39
+[44] - ------------------------------------------------------------------
+12/01/2016 04:37:03: 
+[45] - ERROR: PYTHON ERRORS:
+[46] - Traceback Info:
+[47] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[48] -     arcpy.AcceptConnections(connSDE, True)
+[49] - Error Info:
+[50] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[51] - ERROR: Geoprocessing  Errors :
+[52] - ------------------------------------------------------------------
+[53] - Start Time : -16-01-12_04-36-46
+[54] - ------------------------------------------------------------------
+[55] -  Local Authority : keetmanshoop
+[56] - PYTHON ERRORS:
+[57] - Traceback Info:
+[58] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[59] -     arcpy.AcceptConnections(connSDE, True)
+[60] - Error Info:
+[61] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[62] - Geoprocessing  Errors :
+[63] - Failed 
+[64] - ------------------------------------------------------------------
+[65] - End Time : -16-01-12_04-37-03
+[66] - ------------------------------------------------------------------
+12/01/2016 04:37:29: 
+[67] - ERROR: PYTHON ERRORS:
+[68] - Traceback Info:
+[69] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[70] -     arcpy.AcceptConnections(connSDE, True)
+[71] - Error Info:
+[72] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[73] - ERROR: Geoprocessing  Errors :
+[74] - ------------------------------------------------------------------
+[75] - Start Time : -16-01-12_04-37-10
+[76] - ------------------------------------------------------------------
+[77] -  Local Authority : oshakati
+[78] - PYTHON ERRORS:
+[79] - Traceback Info:
+[80] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[81] -     arcpy.AcceptConnections(connSDE, True)
+[82] - Error Info:
+[83] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[84] - Geoprocessing  Errors :
+[85] - Failed 
+[86] - ------------------------------------------------------------------
+[87] - End Time : -16-01-12_04-37-29
+[88] - ------------------------------------------------------------------
+12/01/2016 04:37:55: 
+[89] - ERROR: PYTHON ERRORS:
+[90] - Traceback Info:
+[91] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[92] -     arcpy.AcceptConnections(connSDE, True)
+[93] - Error Info:
+[94] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[95] - ERROR: Geoprocessing  Errors :
+[96] - ------------------------------------------------------------------
+[97] - Start Time : -16-01-12_04-37-37
+[98] - ------------------------------------------------------------------
+[99] -  Local Authority : walvis_bay
+[100] - PYTHON ERRORS:
+[101] - Traceback Info:
+[102] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[103] -     arcpy.AcceptConnections(connSDE, True)
+[104] - Error Info:
+[105] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[106] - Geoprocessing  Errors :
+[107] - Failed 
+[108] - ------------------------------------------------------------------
+[109] - End Time : -16-01-12_04-37-55
+[110] - ------------------------------------------------------------------
+12/01/2016 04:38:20: 
+[111] - ERROR: PYTHON ERRORS:
+[112] - Traceback Info:
+[113] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[114] -     arcpy.AcceptConnections(connSDE, True)
+[115] - Error Info:
+[116] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[117] - ERROR: Geoprocessing  Errors :
+[118] - ------------------------------------------------------------------
+[119] - Start Time : -16-01-12_04-38-03
+[120] - ------------------------------------------------------------------
+[121] -  Local Authority : helao_nafidi
+[122] - PYTHON ERRORS:
+[123] - Traceback Info:
+[124] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[125] -     arcpy.AcceptConnections(connSDE, True)
+[126] - Error Info:
+[127] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[128] - Geoprocessing  Errors :
+[129] - Failed 
+[130] - ------------------------------------------------------------------
+[131] - End Time : -16-01-12_04-38-19
+[132] - ------------------------------------------------------------------
+12/01/2016 04:38:43: 
+[133] - ERROR: PYTHON ERRORS:
+[134] - Traceback Info:
+[135] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[136] -     arcpy.AcceptConnections(connSDE, True)
+[137] - Error Info:
+[138] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[139] - ERROR: Geoprocessing  Errors :
+[140] - ------------------------------------------------------------------
+[141] - Start Time : -16-01-12_04-38-26
+[142] - ------------------------------------------------------------------
+[143] -  Local Authority : katima_mulilo
+[144] - PYTHON ERRORS:
+[145] - Traceback Info:
+[146] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[147] -     arcpy.AcceptConnections(connSDE, True)
+[148] - Error Info:
+[149] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[150] - Geoprocessing  Errors :
+[151] - Failed 
+[152] - ------------------------------------------------------------------
+[153] - End Time : -16-01-12_04-38-43
+[154] - ------------------------------------------------------------------
+12/01/2016 04:39:07: 
+[155] - ERROR: PYTHON ERRORS:
+[156] - Traceback Info:
+[157] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[158] -     arcpy.AcceptConnections(connSDE, True)
+[159] - Error Info:
+[160] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[161] - ERROR: Geoprocessing  Errors :
+[162] - ------------------------------------------------------------------
+[163] - Start Time : -16-01-12_04-38-50
+[164] - ------------------------------------------------------------------
+[165] -  Local Authority : tsumeb
+[166] - PYTHON ERRORS:
+[167] - Traceback Info:
+[168] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[169] -     arcpy.AcceptConnections(connSDE, True)
+[170] - Error Info:
+[171] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[172] - Geoprocessing  Errors :
+[173] - Failed 
+[174] - ------------------------------------------------------------------
+[175] - End Time : -16-01-12_04-39-07
+[176] - ------------------------------------------------------------------
+12/01/2016 04:39:30: 
+[177] - ERROR: PYTHON ERRORS:
+[178] - Traceback Info:
+[179] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[180] -     arcpy.AcceptConnections(connSDE, True)
+[181] - Error Info:
+[182] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[183] - ERROR: Geoprocessing  Errors :
+[184] - ------------------------------------------------------------------
+[185] - Start Time : -16-01-12_04-39-13
+[186] - ------------------------------------------------------------------
+[187] -  Local Authority : rundu
+[188] - PYTHON ERRORS:
+[189] - Traceback Info:
+[190] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[191] -     arcpy.AcceptConnections(connSDE, True)
+[192] - Error Info:
+[193] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[194] - Geoprocessing  Errors :
+[195] - Failed 
+[196] - ------------------------------------------------------------------
+[197] - End Time : -16-01-12_04-39-30
+[198] - ------------------------------------------------------------------
+12/01/2016 04:39:54: 
+[199] - ERROR: PYTHON ERRORS:
+[200] - Traceback Info:
+[201] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[202] -     arcpy.AcceptConnections(connSDE, True)
+[203] - Error Info:
+[204] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[205] - ERROR: Geoprocessing  Errors :
+[206] - ------------------------------------------------------------------
+[207] - Start Time : -16-01-12_04-39-37
+[208] - ------------------------------------------------------------------
+[209] -  Local Authority : okahandja
+[210] - PYTHON ERRORS:
+[211] - Traceback Info:
+[212] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[213] -     arcpy.AcceptConnections(connSDE, True)
+[214] - Error Info:
+[215] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[216] - Geoprocessing  Errors :
+[217] - Failed 
+[218] - ------------------------------------------------------------------
+[219] - End Time : -16-01-12_04-39-54
+[220] - ------------------------------------------------------------------
+12/01/2016 04:39:54: Timer ticked and executePythonCode()  method or 
+                job has successfully completed(But with a pinch of salt-There could be errors)
+12/01/2016 04:55:46: Timer ticked and executePythonCode()  method or 
+                job has been done fired
+12/01/2016 04:56:09: 
+[221] - ERROR: PYTHON ERRORS:
+[222] - Traceback Info:
+[223] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[224] -     arcpy.AcceptConnections(connSDE, True)
+[225] - Error Info:
+[226] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[227] - ERROR: Geoprocessing  Errors :
+[228] - ------------------------------------------------------------------
+[229] - Start Time : -16-01-12_04-55-52
+[230] - ------------------------------------------------------------------
+[231] -  Local Authority : otjiwarongo
+[232] - PYTHON ERRORS:
+[233] - Traceback Info:
+[234] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[235] -     arcpy.AcceptConnections(connSDE, True)
+[236] - Error Info:
+[237] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[238] - Geoprocessing  Errors :
+[239] - Failed 
+[240] - ------------------------------------------------------------------
+[241] - End Time : -16-01-12_04-56-09
+[242] - ------------------------------------------------------------------
+12/01/2016 04:56:32: 
+[243] - ERROR: PYTHON ERRORS:
+[244] - Traceback Info:
+[245] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[246] -     arcpy.AcceptConnections(connSDE, True)
+[247] - Error Info:
+[248] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[249] - ERROR: Geoprocessing  Errors :
+[250] - ------------------------------------------------------------------
+[251] - Start Time : -16-01-12_04-56-15
+[252] - ------------------------------------------------------------------
+[253] -  Local Authority : outapi
+[254] - PYTHON ERRORS:
+[255] - Traceback Info:
+[256] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[257] -     arcpy.AcceptConnections(connSDE, True)
+[258] - Error Info:
+[259] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[260] - Geoprocessing  Errors :
+[261] - Failed 
+[262] - ------------------------------------------------------------------
+[263] - End Time : -16-01-12_04-56-32
+[264] - ------------------------------------------------------------------
+12/01/2016 04:56:54: 
+[265] - ERROR: PYTHON ERRORS:
+[266] - Traceback Info:
+[267] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[268] -     arcpy.AcceptConnections(connSDE, True)
+[269] - Error Info:
+[270] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[271] - ERROR: Geoprocessing  Errors :
+[272] - ------------------------------------------------------------------
+[273] - Start Time : -16-01-12_04-56-37
+[274] - ------------------------------------------------------------------
+[275] -  Local Authority : keetmanshoop
+[276] - PYTHON ERRORS:
+[277] - Traceback Info:
+[278] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[279] -     arcpy.AcceptConnections(connSDE, True)
+[280] - Error Info:
+[281] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[282] - Geoprocessing  Errors :
+[283] - Failed 
+[284] - ------------------------------------------------------------------
+[285] - End Time : -16-01-12_04-56-54
+[286] - ------------------------------------------------------------------
+12/01/2016 04:57:17: 
+[287] - ERROR: PYTHON ERRORS:
+[288] - Traceback Info:
+[289] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[290] -     arcpy.AcceptConnections(connSDE, True)
+[291] - Error Info:
+[292] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[293] - ERROR: Geoprocessing  Errors :
+[294] - ------------------------------------------------------------------
+[295] - Start Time : -16-01-12_04-57-00
+[296] - ------------------------------------------------------------------
+[297] -  Local Authority : oshakati
+[298] - PYTHON ERRORS:
+[299] - Traceback Info:
+[300] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[301] -     arcpy.AcceptConnections(connSDE, True)
+[302] - Error Info:
+[303] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[304] - Geoprocessing  Errors :
+[305] - Failed 
+[306] - ------------------------------------------------------------------
+[307] - End Time : -16-01-12_04-57-17
+[308] - ------------------------------------------------------------------
+12/01/2016 04:57:40: 
+[309] - ERROR: PYTHON ERRORS:
+[310] - Traceback Info:
+[311] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[312] -     arcpy.AcceptConnections(connSDE, True)
+[313] - Error Info:
+[314] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[315] - ERROR: Geoprocessing  Errors :
+[316] - ------------------------------------------------------------------
+[317] - Start Time : -16-01-12_04-57-23
+[318] - ------------------------------------------------------------------
+[319] -  Local Authority : walvis_bay
+[320] - PYTHON ERRORS:
+[321] - Traceback Info:
+[322] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[323] -     arcpy.AcceptConnections(connSDE, True)
+[324] - Error Info:
+[325] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[326] - Geoprocessing  Errors :
+[327] - Failed 
+[328] - ------------------------------------------------------------------
+[329] - End Time : -16-01-12_04-57-40
+[330] - ------------------------------------------------------------------
+12/01/2016 04:58:03: 
+[331] - ERROR: PYTHON ERRORS:
+[332] - Traceback Info:
+[333] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[334] -     arcpy.AcceptConnections(connSDE, True)
+[335] - Error Info:
+[336] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[337] - ERROR: Geoprocessing  Errors :
+[338] - ------------------------------------------------------------------
+[339] - Start Time : -16-01-12_04-57-46
+[340] - ------------------------------------------------------------------
+[341] -  Local Authority : helao_nafidi
+[342] - PYTHON ERRORS:
+[343] - Traceback Info:
+[344] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[345] -     arcpy.AcceptConnections(connSDE, True)
+[346] - Error Info:
+[347] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[348] - Geoprocessing  Errors :
+[349] - Failed 
+[350] - ------------------------------------------------------------------
+[351] - End Time : -16-01-12_04-58-03
+[352] - ------------------------------------------------------------------
+12/01/2016 04:58:26: 
+[353] - ERROR: PYTHON ERRORS:
+[354] - Traceback Info:
+[355] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[356] -     arcpy.AcceptConnections(connSDE, True)
+[357] - Error Info:
+[358] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[359] - ERROR: Geoprocessing  Errors :
+[360] - ------------------------------------------------------------------
+[361] - Start Time : -16-01-12_04-58-09
+[362] - ------------------------------------------------------------------
+[363] -  Local Authority : katima_mulilo
+[364] - PYTHON ERRORS:
+[365] - Traceback Info:
+[366] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[367] -     arcpy.AcceptConnections(connSDE, True)
+[368] - Error Info:
+[369] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[370] - Geoprocessing  Errors :
+[371] - Failed 
+[372] - ------------------------------------------------------------------
+[373] - End Time : -16-01-12_04-58-26
+[374] - ------------------------------------------------------------------
+12/01/2016 04:58:48: 
+[375] - ERROR: PYTHON ERRORS:
+[376] - Traceback Info:
+[377] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[378] -     arcpy.AcceptConnections(connSDE, True)
+[379] - Error Info:
+[380] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[381] - ERROR: Geoprocessing  Errors :
+[382] - ------------------------------------------------------------------
+[383] - Start Time : -16-01-12_04-58-31
+[384] - ------------------------------------------------------------------
+[385] -  Local Authority : tsumeb
+[386] - PYTHON ERRORS:
+[387] - Traceback Info:
+[388] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[389] -     arcpy.AcceptConnections(connSDE, True)
+[390] - Error Info:
+[391] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[392] - Geoprocessing  Errors :
+[393] - Failed 
+[394] - ------------------------------------------------------------------
+[395] - End Time : -16-01-12_04-58-48
+[396] - ------------------------------------------------------------------
+12/01/2016 04:59:11: 
+[397] - ERROR: PYTHON ERRORS:
+[398] - Traceback Info:
+[399] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[400] -     arcpy.AcceptConnections(connSDE, True)
+[401] - Error Info:
+[402] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[403] - ERROR: Geoprocessing  Errors :
+[404] - ------------------------------------------------------------------
+[405] - Start Time : -16-01-12_04-58-54
+[406] - ------------------------------------------------------------------
+[407] -  Local Authority : rundu
+[408] - PYTHON ERRORS:
+[409] - Traceback Info:
+[410] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[411] -     arcpy.AcceptConnections(connSDE, True)
+[412] - Error Info:
+[413] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[414] - Geoprocessing  Errors :
+[415] - Failed 
+[416] - ------------------------------------------------------------------
+[417] - End Time : -16-01-12_04-59-11
+[418] - ------------------------------------------------------------------
+12/01/2016 04:59:34: 
+[419] - ERROR: PYTHON ERRORS:
+[420] - Traceback Info:
+[421] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[422] -     arcpy.AcceptConnections(connSDE, True)
+[423] - Error Info:
+[424] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[425] - ERROR: Geoprocessing  Errors :
+[426] - ------------------------------------------------------------------
+[427] - Start Time : -16-01-12_04-59-17
+[428] - ------------------------------------------------------------------
+[429] -  Local Authority : okahandja
+[430] - PYTHON ERRORS:
+[431] - Traceback Info:
+[432] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[433] -     arcpy.AcceptConnections(connSDE, True)
+[434] - Error Info:
+[435] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[436] - Geoprocessing  Errors :
+[437] - Failed 
+[438] - ------------------------------------------------------------------
+[439] - End Time : -16-01-12_04-59-34
+[440] - ------------------------------------------------------------------
+12/01/2016 04:59:34: Timer ticked and executePythonCode()  method or 
+                job has successfully completed(But with a pinch of salt-There could be errors)
+12/01/2016 05:15:46: Timer ticked and executePythonCode()  method or 
+                job has been done fired
+12/01/2016 05:16:09: 
+[441] - ERROR: PYTHON ERRORS:
+[442] - Traceback Info:
+[443] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[444] -     arcpy.AcceptConnections(connSDE, True)
+[445] - Error Info:
+[446] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[447] - ERROR: Geoprocessing  Errors :
+[448] - ------------------------------------------------------------------
+[449] - Start Time : -16-01-12_05-15-52
+[450] - ------------------------------------------------------------------
+[451] -  Local Authority : otjiwarongo
+[452] - PYTHON ERRORS:
+[453] - Traceback Info:
+[454] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[455] -     arcpy.AcceptConnections(connSDE, True)
+[456] - Error Info:
+[457] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[458] - Geoprocessing  Errors :
+[459] - Failed 
+[460] - ------------------------------------------------------------------
+[461] - End Time : -16-01-12_05-16-09
+[462] - ------------------------------------------------------------------
+12/01/2016 05:16:31: 
+[463] - ERROR: PYTHON ERRORS:
+[464] - Traceback Info:
+[465] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[466] -     arcpy.AcceptConnections(connSDE, True)
+[467] - Error Info:
+[468] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[469] - ERROR: Geoprocessing  Errors :
+[470] - ------------------------------------------------------------------
+[471] - Start Time : -16-01-12_05-16-14
+[472] - ------------------------------------------------------------------
+[473] -  Local Authority : outapi
+[474] - PYTHON ERRORS:
+[475] - Traceback Info:
+[476] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[477] -     arcpy.AcceptConnections(connSDE, True)
+[478] - Error Info:
+[479] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[480] - Geoprocessing  Errors :
+[481] - Failed 
+[482] - ------------------------------------------------------------------
+[483] - End Time : -16-01-12_05-16-31
+[484] - ------------------------------------------------------------------
+12/01/2016 05:16:53: 
+[485] - ERROR: PYTHON ERRORS:
+[486] - Traceback Info:
+[487] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[488] -     arcpy.AcceptConnections(connSDE, True)
+[489] - Error Info:
+[490] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[491] - ERROR: Geoprocessing  Errors :
+[492] - ------------------------------------------------------------------
+[493] - Start Time : -16-01-12_05-16-36
+[494] - ------------------------------------------------------------------
+[495] -  Local Authority : keetmanshoop
+[496] - PYTHON ERRORS:
+[497] - Traceback Info:
+[498] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[499] -     arcpy.AcceptConnections(connSDE, True)
+[500] - Error Info:
+[501] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[502] - Geoprocessing  Errors :
+[503] - Failed 
+[504] - ------------------------------------------------------------------
+[505] - End Time : -16-01-12_05-16-53
+[506] - ------------------------------------------------------------------
+12/01/2016 05:17:16: 
+[507] - ERROR: PYTHON ERRORS:
+[508] - Traceback Info:
+[509] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[510] -     arcpy.AcceptConnections(connSDE, True)
+[511] - Error Info:
+[512] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[513] - ERROR: Geoprocessing  Errors :
+[514] - ------------------------------------------------------------------
+[515] - Start Time : -16-01-12_05-16-59
+[516] - ------------------------------------------------------------------
+[517] -  Local Authority : oshakati
+[518] - PYTHON ERRORS:
+[519] - Traceback Info:
+[520] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[521] -     arcpy.AcceptConnections(connSDE, True)
+[522] - Error Info:
+[523] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[524] - Geoprocessing  Errors :
+[525] - Failed 
+[526] - ------------------------------------------------------------------
+[527] - End Time : -16-01-12_05-17-16
+[528] - ------------------------------------------------------------------
+12/01/2016 05:17:39: 
+[529] - ERROR: PYTHON ERRORS:
+[530] - Traceback Info:
+[531] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[532] -     arcpy.AcceptConnections(connSDE, True)
+[533] - Error Info:
+[534] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[535] - ERROR: Geoprocessing  Errors :
+[536] - ------------------------------------------------------------------
+[537] - Start Time : -16-01-12_05-17-22
+[538] - ------------------------------------------------------------------
+[539] -  Local Authority : walvis_bay
+[540] - PYTHON ERRORS:
+[541] - Traceback Info:
+[542] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[543] -     arcpy.AcceptConnections(connSDE, True)
+[544] - Error Info:
+[545] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[546] - Geoprocessing  Errors :
+[547] - Failed 
+[548] - ------------------------------------------------------------------
+[549] - End Time : -16-01-12_05-17-39
+[550] - ------------------------------------------------------------------
+12/01/2016 05:18:01: 
+[551] - ERROR: PYTHON ERRORS:
+[552] - Traceback Info:
+[553] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[554] -     arcpy.AcceptConnections(connSDE, True)
+[555] - Error Info:
+[556] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[557] - ERROR: Geoprocessing  Errors :
+[558] - ------------------------------------------------------------------
+[559] - Start Time : -16-01-12_05-17-44
+[560] - ------------------------------------------------------------------
+[561] -  Local Authority : helao_nafidi
+[562] - PYTHON ERRORS:
+[563] - Traceback Info:
+[564] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[565] -     arcpy.AcceptConnections(connSDE, True)
+[566] - Error Info:
+[567] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[568] - Geoprocessing  Errors :
+[569] - Failed 
+[570] - ------------------------------------------------------------------
+[571] - End Time : -16-01-12_05-18-01
+[572] - ------------------------------------------------------------------
+12/01/2016 05:18:24: 
+[573] - ERROR: PYTHON ERRORS:
+[574] - Traceback Info:
+[575] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[576] -     arcpy.AcceptConnections(connSDE, True)
+[577] - Error Info:
+[578] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[579] - ERROR: Geoprocessing  Errors :
+[580] - ------------------------------------------------------------------
+[581] - Start Time : -16-01-12_05-18-07
+[582] - ------------------------------------------------------------------
+[583] -  Local Authority : katima_mulilo
+[584] - PYTHON ERRORS:
+[585] - Traceback Info:
+[586] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[587] -     arcpy.AcceptConnections(connSDE, True)
+[588] - Error Info:
+[589] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[590] - Geoprocessing  Errors :
+[591] - Failed 
+[592] - ------------------------------------------------------------------
+[593] - End Time : -16-01-12_05-18-24
+[594] - ------------------------------------------------------------------
+12/01/2016 05:18:46: 
+[595] - ERROR: PYTHON ERRORS:
+[596] - Traceback Info:
+[597] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[598] -     arcpy.AcceptConnections(connSDE, True)
+[599] - Error Info:
+[600] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[601] - ERROR: Geoprocessing  Errors :
+[602] - ------------------------------------------------------------------
+[603] - Start Time : -16-01-12_05-18-29
+[604] - ------------------------------------------------------------------
+[605] -  Local Authority : tsumeb
+[606] - PYTHON ERRORS:
+[607] - Traceback Info:
+[608] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[609] -     arcpy.AcceptConnections(connSDE, True)
+[610] - Error Info:
+[611] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[612] - Geoprocessing  Errors :
+[613] - Failed 
+[614] - ------------------------------------------------------------------
+[615] - End Time : -16-01-12_05-18-46
+[616] - ------------------------------------------------------------------
+12/01/2016 05:19:08: 
+[617] - ERROR: PYTHON ERRORS:
+[618] - Traceback Info:
+[619] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[620] -     arcpy.AcceptConnections(connSDE, True)
+[621] - Error Info:
+[622] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[623] - ERROR: Geoprocessing  Errors :
+[624] - ------------------------------------------------------------------
+[625] - Start Time : -16-01-12_05-18-51
+[626] - ------------------------------------------------------------------
+[627] -  Local Authority : rundu
+[628] - PYTHON ERRORS:
+[629] - Traceback Info:
+[630] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[631] -     arcpy.AcceptConnections(connSDE, True)
+[632] - Error Info:
+[633] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[634] - Geoprocessing  Errors :
+[635] - Failed 
+[636] - ------------------------------------------------------------------
+[637] - End Time : -16-01-12_05-19-08
+[638] - ------------------------------------------------------------------
+12/01/2016 05:19:31: 
+[639] - ERROR: PYTHON ERRORS:
+[640] - Traceback Info:
+[641] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[642] -     arcpy.AcceptConnections(connSDE, True)
+[643] - Error Info:
+[644] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[645] - ERROR: Geoprocessing  Errors :
+[646] - ------------------------------------------------------------------
+[647] - Start Time : -16-01-12_05-19-14
+[648] - ------------------------------------------------------------------
+[649] -  Local Authority : okahandja
+[650] - PYTHON ERRORS:
+[651] - Traceback Info:
+[652] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[653] -     arcpy.AcceptConnections(connSDE, True)
+[654] - Error Info:
+[655] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[656] - Geoprocessing  Errors :
+[657] - Failed 
+[658] - ------------------------------------------------------------------
+[659] - End Time : -16-01-12_05-19-31
+[660] - ------------------------------------------------------------------
+12/01/2016 05:19:31: Timer ticked and executePythonCode()  method or 
+                job has successfully completed(But with a pinch of salt-There could be errors)
+12/01/2016 05:35:46: Timer ticked and executePythonCode()  method or 
+                job has been done fired
+12/01/2016 05:36:08: 
+[661] - ERROR: PYTHON ERRORS:
+[662] - Traceback Info:
+[663] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[664] -     arcpy.AcceptConnections(connSDE, True)
+[665] - Error Info:
+[666] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[667] - ERROR: Geoprocessing  Errors :
+[668] - ------------------------------------------------------------------
+[669] - Start Time : -16-01-12_05-35-51
+[670] - ------------------------------------------------------------------
+[671] -  Local Authority : otjiwarongo
+[672] - PYTHON ERRORS:
+[673] - Traceback Info:
+[674] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[675] -     arcpy.AcceptConnections(connSDE, True)
+[676] - Error Info:
+[677] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[678] - Geoprocessing  Errors :
+[679] - Failed 
+[680] - ------------------------------------------------------------------
+[681] - End Time : -16-01-12_05-36-08
+[682] - ------------------------------------------------------------------
+12/01/2016 05:36:31: 
+[683] - ERROR: PYTHON ERRORS:
+[684] - Traceback Info:
+[685] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[686] -     arcpy.AcceptConnections(connSDE, True)
+[687] - Error Info:
+[688] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[689] - ERROR: Geoprocessing  Errors :
+[690] - ------------------------------------------------------------------
+[691] - Start Time : -16-01-12_05-36-14
+[692] - ------------------------------------------------------------------
+[693] -  Local Authority : outapi
+[694] - PYTHON ERRORS:
+[695] - Traceback Info:
+[696] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[697] -     arcpy.AcceptConnections(connSDE, True)
+[698] - Error Info:
+[699] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[700] - Geoprocessing  Errors :
+[701] - Failed 
+[702] - ------------------------------------------------------------------
+[703] - End Time : -16-01-12_05-36-31
+[704] - ------------------------------------------------------------------
+12/01/2016 05:36:54: 
+[705] - ERROR: PYTHON ERRORS:
+[706] - Traceback Info:
+[707] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[708] -     arcpy.AcceptConnections(connSDE, True)
+[709] - Error Info:
+[710] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[711] - ERROR: Geoprocessing  Errors :
+[712] - ------------------------------------------------------------------
+[713] - Start Time : -16-01-12_05-36-36
+[714] - ------------------------------------------------------------------
+[715] -  Local Authority : keetmanshoop
+[716] - PYTHON ERRORS:
+[717] - Traceback Info:
+[718] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[719] -     arcpy.AcceptConnections(connSDE, True)
+[720] - Error Info:
+[721] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[722] - Geoprocessing  Errors :
+[723] - Failed 
+[724] - ------------------------------------------------------------------
+[725] - End Time : -16-01-12_05-36-54
+[726] - ------------------------------------------------------------------
+12/01/2016 05:37:31: 
+[727] - ERROR: PYTHON ERRORS:
+[728] - Traceback Info:
+[729] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[730] -     arcpy.AcceptConnections(connSDE, True)
+[731] - Error Info:
+[732] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[733] - ERROR: Geoprocessing  Errors :
+[734] - ------------------------------------------------------------------
+[735] - Start Time : -16-01-12_05-37-15
+[736] - ------------------------------------------------------------------
+[737] -  Local Authority : oshakati
+[738] - PYTHON ERRORS:
+[739] - Traceback Info:
+[740] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[741] -     arcpy.AcceptConnections(connSDE, True)
+[742] - Error Info:
+[743] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[744] - Geoprocessing  Errors :
+[745] - Failed 
+[746] - ------------------------------------------------------------------
+[747] - End Time : -16-01-12_05-37-31
+[748] - ------------------------------------------------------------------
+12/01/2016 05:37:56: 
+[749] - ERROR: PYTHON ERRORS:
+[750] - Traceback Info:
+[751] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[752] -     arcpy.AcceptConnections(connSDE, True)
+[753] - Error Info:
+[754] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[755] - ERROR: Geoprocessing  Errors :
+[756] - ------------------------------------------------------------------
+[757] - Start Time : -16-01-12_05-37-38
+[758] - ------------------------------------------------------------------
+[759] -  Local Authority : walvis_bay
+[760] - PYTHON ERRORS:
+[761] - Traceback Info:
+[762] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\local_authorities\python_code\AutoReconcileAndPost.py", line 114, in <module>
+[763] -     arcpy.AcceptConnections(connSDE, True)
+[764] - Error Info:
+[765] -     <type 'exceptions.TypeError'>: Could not open SDE workspace.
+[766] - Geoprocessing  Errors :
+[767] - Failed 
+[768] - ------------------------------------------------------------------
+[769] - End Time : -16-01-12_05-37-56
+[770] - ------------------------------------------------------------------
+12/01/2016 09:26:19: ULIMS GIS Synchonization Service started
+12/01/2016 09:46:19: Timer ticked and executePythonCode()  method or 
+                job has been done fired
+12/01/2016 09:47:55: 
+[1] - ------------------------------------------------------------------
+[2] - Start Time : -16-01-12_09-46-33
+[3] - ------------------------------------------------------------------
+[4] -  Local Authority : otjiwarongo
+[5] - Exited with Spectacular Success 
+[6] - ------------------------------------------------------------------
+[7] - End Time : -16-01-12_09-47-53
+[8] - ------------------------------------------------------------------
+12/01/2016 09:48:35: 
+[9] - ------------------------------------------------------------------
+[10] - Start Time : -16-01-12_09-48-01
+[11] - ------------------------------------------------------------------
+[12] -  Local Authority : outapi
+[13] - Exited with Spectacular Success 
+[14] - ------------------------------------------------------------------
+[15] - End Time : -16-01-12_09-48-34
+[16] - ------------------------------------------------------------------
+12/01/2016 09:49:19: 
+[17] - ------------------------------------------------------------------
+[18] - Start Time : -16-01-12_09-48-42
+[19] - ------------------------------------------------------------------
+[20] -  Local Authority : keetmanshoop
+[21] - Exited with Spectacular Success 
+[22] - ------------------------------------------------------------------
+[23] - End Time : -16-01-12_09-49-18
+[24] - ------------------------------------------------------------------
+12/01/2016 09:49:55: 
+[25] - ------------------------------------------------------------------
+[26] - Start Time : -16-01-12_09-49-24
+[27] - ------------------------------------------------------------------
+[28] -  Local Authority : oshakati
+[29] - Exited with Spectacular Success 
+[30] - ------------------------------------------------------------------
+[31] - End Time : -16-01-12_09-49-54
+[32] - ------------------------------------------------------------------
+12/01/2016 09:52:03: 
+[33] - ------------------------------------------------------------------
+[34] - Start Time : -16-01-12_09-50-00
+[35] - ------------------------------------------------------------------
+[36] -  Local Authority : walvis_bay
+[37] - Exited with Spectacular Success 
+[38] - ------------------------------------------------------------------
+[39] - End Time : -16-01-12_09-52-02
+[40] - ------------------------------------------------------------------
+12/01/2016 09:52:35: 
+[41] - ------------------------------------------------------------------
+[42] - Start Time : -16-01-12_09-52-10
+[43] - ------------------------------------------------------------------
+[44] -  Local Authority : helao_nafidi
+[45] - Exited with Spectacular Success 
+[46] - ------------------------------------------------------------------
+[47] - End Time : -16-01-12_09-52-34
+[48] - ------------------------------------------------------------------
+12/01/2016 09:53:18: 
+[49] - ------------------------------------------------------------------
+[50] - Start Time : -16-01-12_09-52-40
+[51] - ------------------------------------------------------------------
+[52] -  Local Authority : katima_mulilo
+[53] - Exited with Spectacular Success 
+[54] - ------------------------------------------------------------------
+[55] - End Time : -16-01-12_09-53-17
+[56] - ------------------------------------------------------------------
+12/01/2016 09:54:02: 
+[57] - ------------------------------------------------------------------
+[58] - Start Time : -16-01-12_09-53-23
+[59] - ------------------------------------------------------------------
+[60] -  Local Authority : tsumeb
+[61] - Exited with Spectacular Success 
+[62] - ------------------------------------------------------------------
+[63] - End Time : -16-01-12_09-54-01
+[64] - ------------------------------------------------------------------
+12/01/2016 09:55:42: 
+[65] - ------------------------------------------------------------------
+[66] - Start Time : -16-01-12_09-54-07
+[67] - ------------------------------------------------------------------
+[68] -  Local Authority : rundu
+[69] - Exited with Spectacular Success 
+[70] - ------------------------------------------------------------------
+[71] - End Time : -16-01-12_09-55-41
+[72] - ------------------------------------------------------------------
+12/01/2016 09:56:30: 
+[73] - ------------------------------------------------------------------
+[74] - Start Time : -16-01-12_09-55-47
+[75] - ------------------------------------------------------------------
+[76] -  Local Authority : okahandja
+[77] - Exited with Spectacular Success 
+[78] - ------------------------------------------------------------------
+[79] - End Time : -16-01-12_09-56-29
+[80] - ------------------------------------------------------------------
+12/01/2016 09:56:30: Timer ticked and executePythonCode()  method or 
+                job has successfully completed(But with a pinch of salt-There could be errors)
+12/01/2016 10:06:19: Timer ticked and executePythonCode()  method or 
+                job has been done fired
+12/01/2016 10:06:59: 
+[81] - ------------------------------------------------------------------
+[82] - Start Time : -16-01-12_10-06-24
+[83] - ------------------------------------------------------------------
+[84] -  Local Authority : otjiwarongo
+[85] - Exited with Spectacular Success 
+[86] - ------------------------------------------------------------------
+[87] - End Time : -16-01-12_10-06-58
+[88] - ------------------------------------------------------------------
+12/01/2016 10:07:26: 
+[89] - ------------------------------------------------------------------
+[90] - Start Time : -16-01-12_10-07-04
+[91] - ------------------------------------------------------------------
+[92] -  Local Authority : outapi
+[93] - Exited with Spectacular Success 
+[94] - ------------------------------------------------------------------
+[95] - End Time : -16-01-12_10-07-25
+[96] - ------------------------------------------------------------------
+12/01/2016 10:07:55: 
+[97] - ------------------------------------------------------------------
+[98] - Start Time : -16-01-12_10-07-31
+[99] - ------------------------------------------------------------------
+[100] -  Local Authority : keetmanshoop
+[101] - Exited with Spectacular Success 
+[102] - ------------------------------------------------------------------
+[103] - End Time : -16-01-12_10-07-54
+[104] - ------------------------------------------------------------------
+12/01/2016 10:08:21: 
+[105] - ------------------------------------------------------------------
+[106] - Start Time : -16-01-12_10-08-00
+[107] - ------------------------------------------------------------------
+[108] -  Local Authority : oshakati
+[109] - Exited with Spectacular Success 
+[110] - ------------------------------------------------------------------
+[111] - End Time : -16-01-12_10-08-20
+[112] - ------------------------------------------------------------------
+12/01/2016 10:09:54: 
+[113] - ------------------------------------------------------------------
+[114] - Start Time : -16-01-12_10-08-26
+[115] - ------------------------------------------------------------------
+[116] -  Local Authority : walvis_bay
+[117] - Exited with Spectacular Success 
+[118] - ------------------------------------------------------------------
+[119] - End Time : -16-01-12_10-09-53
+[120] - ------------------------------------------------------------------
+12/01/2016 10:10:20: 
+[121] - ------------------------------------------------------------------
+[122] - Start Time : -16-01-12_10-09-59
+[123] - ------------------------------------------------------------------
+[124] -  Local Authority : helao_nafidi
+[125] - Exited with Spectacular Success 
+[126] - ------------------------------------------------------------------
+[127] - End Time : -16-01-12_10-10-18
+[128] - ------------------------------------------------------------------
+12/01/2016 10:10:51: 
+[129] - ------------------------------------------------------------------
+[130] - Start Time : -16-01-12_10-10-24
+[131] - ------------------------------------------------------------------
+[132] -  Local Authority : katima_mulilo
+[133] - Exited with Spectacular Success 
+[134] - ------------------------------------------------------------------
+[135] - End Time : -16-01-12_10-10-50
+[136] - ------------------------------------------------------------------
+12/01/2016 10:11:19: 
+[137] - ------------------------------------------------------------------
+[138] - Start Time : -16-01-12_10-10-56
+[139] - ------------------------------------------------------------------
+[140] -  Local Authority : tsumeb
+[141] - Exited with Spectacular Success 
+[142] - ------------------------------------------------------------------
+[143] - End Time : -16-01-12_10-11-18
+[144] - ------------------------------------------------------------------
+12/01/2016 10:12:30: 
+[145] - ------------------------------------------------------------------
+[146] - Start Time : -16-01-12_10-11-25
+[147] - ------------------------------------------------------------------
+[148] -  Local Authority : rundu
+[149] - Exited with Spectacular Success 
+[150] - ------------------------------------------------------------------
+[151] - End Time : -16-01-12_10-12-29
+[152] - ------------------------------------------------------------------
+12/01/2016 10:13:00: 
+[153] - ------------------------------------------------------------------
+[154] - Start Time : -16-01-12_10-12-35
+[155] - ------------------------------------------------------------------
+[156] -  Local Authority : okahandja
+[157] - Exited with Spectacular Success 
+[158] - ------------------------------------------------------------------
+[159] - End Time : -16-01-12_10-12-59
+[160] - ------------------------------------------------------------------
+12/01/2016 10:13:00: Timer ticked and executePythonCode()  method or 
+                job has successfully completed(But with a pinch of salt-There could be errors)
+12/01/2016 10:26:19: Timer ticked and executePythonCode()  method or 
+                job has been done fired
+12/01/2016 10:27:24: 
+[161] - ------------------------------------------------------------------
+[162] - Start Time : -16-01-12_10-26-39
+[163] - ------------------------------------------------------------------
+[164] -  Local Authority : otjiwarongo
+[165] - Exited with Spectacular Success 
+[166] - ------------------------------------------------------------------
+[167] - End Time : -16-01-12_10-27-23
+[168] - ------------------------------------------------------------------
+12/01/2016 10:27:59: 
+[169] - ------------------------------------------------------------------
+[170] - Start Time : -16-01-12_10-27-33
+[171] - ------------------------------------------------------------------
+[172] -  Local Authority : outapi
+[173] - Exited with Spectacular Success 
+[174] - ------------------------------------------------------------------
+[175] - End Time : -16-01-12_10-27-58
+[176] - ------------------------------------------------------------------
+12/01/2016 10:28:37: 
+[177] - ------------------------------------------------------------------
+[178] - Start Time : -16-01-12_10-28-06
+[179] - ------------------------------------------------------------------
+[180] -  Local Authority : keetmanshoop
+[181] - Exited with Spectacular Success 
+[182] - ------------------------------------------------------------------
+[183] - End Time : -16-01-12_10-28-35
+[184] - ------------------------------------------------------------------
+12/01/2016 10:29:09: 
+[185] - ------------------------------------------------------------------
+[186] - Start Time : -16-01-12_10-28-43
+[187] - ------------------------------------------------------------------
+[188] -  Local Authority : oshakati
+[189] - Exited with Spectacular Success 
+[190] - ------------------------------------------------------------------
+[191] - End Time : -16-01-12_10-29-08
+[192] - ------------------------------------------------------------------
+12/01/2016 10:31:22: 
+[193] - ------------------------------------------------------------------
+[194] - Start Time : -16-01-12_10-29-16
+[195] - ------------------------------------------------------------------
+[196] -  Local Authority : walvis_bay
+[197] - Exited with Spectacular Success 
+[198] - ------------------------------------------------------------------
+[199] - End Time : -16-01-12_10-31-21
+[200] - ------------------------------------------------------------------
+12/01/2016 10:31:55: 
+[201] - ------------------------------------------------------------------
+[202] - Start Time : -16-01-12_10-31-30
+[203] - ------------------------------------------------------------------
+[204] -  Local Authority : helao_nafidi
+[205] - Exited with Spectacular Success 
+[206] - ------------------------------------------------------------------
+[207] - End Time : -16-01-12_10-31-54
+[208] - ------------------------------------------------------------------
+12/01/2016 10:32:35: 
+[209] - ------------------------------------------------------------------
+[210] - Start Time : -16-01-12_10-32-03
+[211] - ------------------------------------------------------------------
+[212] -  Local Authority : katima_mulilo
+[213] - Exited with Spectacular Success 
+[214] - ------------------------------------------------------------------
+[215] - End Time : -16-01-12_10-32-34
+[216] - ------------------------------------------------------------------
+12/01/2016 10:33:14: 
+[217] - ------------------------------------------------------------------
+[218] - Start Time : -16-01-12_10-32-42
+[219] - ------------------------------------------------------------------
+[220] -  Local Authority : tsumeb
+[221] - Exited with Spectacular Success 
+[222] - ------------------------------------------------------------------
+[223] - End Time : -16-01-12_10-33-13
+[224] - ------------------------------------------------------------------
+12/01/2016 10:34:57: 
+[225] - ------------------------------------------------------------------
+[226] - Start Time : -16-01-12_10-33-22
+[227] - ------------------------------------------------------------------
+[228] -  Local Authority : rundu
+[229] - Exited with Spectacular Success 
+[230] - ------------------------------------------------------------------
+[231] - End Time : -16-01-12_10-34-56
+[232] - ------------------------------------------------------------------
+12/01/2016 10:35:34: 
+[233] - ------------------------------------------------------------------
+[234] - Start Time : -16-01-12_10-35-04
+[235] - ------------------------------------------------------------------
+[236] -  Local Authority : okahandja
+[237] - Exited with Spectacular Success 
+[238] - ------------------------------------------------------------------
+[239] - End Time : -16-01-12_10-35-33
+[240] - ------------------------------------------------------------------
+12/01/2016 10:35:34: Timer ticked and executePythonCode()  method or 
+                job has successfully completed(But with a pinch of salt-There could be errors)
+12/01/2016 10:46:19: Timer ticked and executePythonCode()  method or 
+                job has been done fired
+12/01/2016 10:46:59: 
+[241] - ------------------------------------------------------------------
+[242] - Start Time : -16-01-12_10-46-24
+[243] - ------------------------------------------------------------------
+[244] -  Local Authority : otjiwarongo
+[245] - Exited with Spectacular Success 
+[246] - ------------------------------------------------------------------
+[247] - End Time : -16-01-12_10-46-58
+[248] - ------------------------------------------------------------------
+12/01/2016 10:47:26: 
+[249] - ------------------------------------------------------------------
+[250] - Start Time : -16-01-12_10-47-04
+[251] - ------------------------------------------------------------------
+[252] -  Local Authority : outapi
+[253] - Exited with Spectacular Success 
+[254] - ------------------------------------------------------------------
+[255] - End Time : -16-01-12_10-47-25
+[256] - ------------------------------------------------------------------
+12/01/2016 10:47:56: 
+[257] - ------------------------------------------------------------------
+[258] - Start Time : -16-01-12_10-47-31
+[259] - ------------------------------------------------------------------
+[260] -  Local Authority : keetmanshoop
+[261] - Exited with Spectacular Success 
+[262] - ------------------------------------------------------------------
+[263] - End Time : -16-01-12_10-47-55
+[264] - ------------------------------------------------------------------
+12/01/2016 10:48:24: 
+[265] - ------------------------------------------------------------------
+[266] - Start Time : -16-01-12_10-48-01
+[267] - ------------------------------------------------------------------
+[268] -  Local Authority : oshakati
+[269] - Exited with Spectacular Success 
+[270] - ------------------------------------------------------------------
+[271] - End Time : -16-01-12_10-48-22
+[272] - ------------------------------------------------------------------
+12/01/2016 10:49:59: 
+[273] - ------------------------------------------------------------------
+[274] - Start Time : -16-01-12_10-48-29
+[275] - ------------------------------------------------------------------
+[276] -  Local Authority : walvis_bay
+[277] - Exited with Spectacular Success 
+[278] - ------------------------------------------------------------------
+[279] - End Time : -16-01-12_10-49-58
+[280] - ------------------------------------------------------------------
+12/01/2016 10:50:25: 
+[281] - ------------------------------------------------------------------
+[282] - Start Time : -16-01-12_10-50-05
+[283] - ------------------------------------------------------------------
+[284] -  Local Authority : helao_nafidi
+[285] - Exited with Spectacular Success 
+[286] - ------------------------------------------------------------------
+[287] - End Time : -16-01-12_10-50-24
+[288] - ------------------------------------------------------------------
+12/01/2016 10:50:56: 
+[289] - ------------------------------------------------------------------
+[290] - Start Time : -16-01-12_10-50-31
+[291] - ------------------------------------------------------------------
+[292] -  Local Authority : katima_mulilo
+[293] - Exited with Spectacular Success 
+[294] - ------------------------------------------------------------------
+[295] - End Time : -16-01-12_10-50-55
+[296] - ------------------------------------------------------------------
+12/01/2016 10:51:25: 
+[297] - ------------------------------------------------------------------
+[298] - Start Time : -16-01-12_10-51-01
+[299] - ------------------------------------------------------------------
+[300] -  Local Authority : tsumeb
+[301] - Exited with Spectacular Success 
+[302] - ------------------------------------------------------------------
+[303] - End Time : -16-01-12_10-51-23
+[304] - ------------------------------------------------------------------
+12/01/2016 10:52:39: 
+[305] - ------------------------------------------------------------------
+[306] - Start Time : -16-01-12_10-51-31
+[307] - ------------------------------------------------------------------
+[308] -  Local Authority : rundu
+[309] - Exited with Spectacular Success 
+[310] - ------------------------------------------------------------------
+[311] - End Time : -16-01-12_10-52-37
+[312] - ------------------------------------------------------------------
+12/01/2016 10:53:23: 
+[313] - ------------------------------------------------------------------
+[314] - Start Time : -16-01-12_10-52-55
+[315] - ------------------------------------------------------------------
+[316] -  Local Authority : okahandja
+[317] - Exited with Spectacular Success 
+[318] - ------------------------------------------------------------------
+[319] - End Time : -16-01-12_10-53-22
+[320] - ------------------------------------------------------------------
+12/01/2016 10:53:23: Timer ticked and executePythonCode()  method or 
+                job has successfully completed(But with a pinch of salt-There could be errors)
+12/01/2016 11:06:19: Timer ticked and executePythonCode()  method or 
+                job has been done fired
+12/01/2016 11:07:03: 
+[321] - ------------------------------------------------------------------
+[322] - Start Time : -16-01-12_11-06-26
+[323] - ------------------------------------------------------------------
+[324] -  Local Authority : otjiwarongo
+[325] - Exited with Spectacular Success 
+[326] - ------------------------------------------------------------------
+[327] - End Time : -16-01-12_11-07-02
+[328] - ------------------------------------------------------------------
+12/01/2016 11:07:30: 
+[329] - ------------------------------------------------------------------
+[330] - Start Time : -16-01-12_11-07-08
+[331] - ------------------------------------------------------------------
+[332] -  Local Authority : outapi
+[333] - Exited with Spectacular Success 
+[334] - ------------------------------------------------------------------
+[335] - End Time : -16-01-12_11-07-29
+[336] - ------------------------------------------------------------------
+12/01/2016 11:08:00: 
+[337] - ------------------------------------------------------------------
+[338] - Start Time : -16-01-12_11-07-35
+[339] - ------------------------------------------------------------------
+[340] -  Local Authority : keetmanshoop
+[341] - Exited with Spectacular Success 
+[342] - ------------------------------------------------------------------
+[343] - End Time : -16-01-12_11-07-58
+[344] - ------------------------------------------------------------------
+12/01/2016 11:08:27: 
+[345] - ------------------------------------------------------------------
+[346] - Start Time : -16-01-12_11-08-05
+[347] - ------------------------------------------------------------------
+[348] -  Local Authority : oshakati
+[349] - Exited with Spectacular Success 
+[350] - ------------------------------------------------------------------
+[351] - End Time : -16-01-12_11-08-26
+[352] - ------------------------------------------------------------------
