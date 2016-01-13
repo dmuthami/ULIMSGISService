@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Configuration;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -9,12 +10,23 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Timers;
 
+
 namespace ULIMSGISService
 {
     public partial class Scheduler : ServiceBase
     {
         //Create a pointer to a timer as a member variable named mTimer
         private Timer mTimer = null;
+        private Library library = null;
+
+        /// <summary>
+        /// Get and Setter Methods
+        /// </summary>
+        internal Library MLibrary
+        {
+            get { return library; }
+            set { library = value; }
+        }
         /// <summary>
         /// Constructor
         /// </summary>
@@ -22,7 +34,6 @@ namespace ULIMSGISService
         {
             InitializeComponent();
         }
-
         /// <summary>
         /// Method: OnStart
         /// Triggers when the windows service starts
@@ -35,10 +46,10 @@ namespace ULIMSGISService
                 //Initialize anew instance of the timer class
                 mTimer = new Timer();
 
-                //Set timer to 20 minutes or three hundred thousand milliseconds . The rate at which to raise the elapsed event
-
-                //Set timer to 5 minutes or three hundred thousand milliseconds . The rate at which to raise the elapsed event
-                this.mTimer.Interval = 300000;
+                //Get timer interval from app.config
+                double timerInterval;
+                timerInterval = Convert.ToDouble(ConfigurationManager.AppSettings["timer_interval"].ToString());
+                this.mTimer.Interval = timerInterval;
                 /*
                  * Wire timer elapsed event to the timer tick handler
                  * Occurs when the interval elapses
@@ -48,31 +59,36 @@ namespace ULIMSGISService
                 //Enable the timer to whether to raise the elapsed event
                 mTimer.Enabled = true;
 
+                /*
+                 * Get instance of Library class
+                 * Contains propoerties and methods to help with execution
+                 */
+                MLibrary = new Library();
+
                 //Write to log file indicating GIS service has started successfully.
-                Library.WriteErrorLog("ULIMS GIS Synchonization Service started");
+                library.WriteErrorLog("ULIMS GIS Synchonization Service started");
 
             }
             catch (Exception ex)
             {
 
-                Library.WriteErrorLog(ex);//Write error to log file
+                library.WriteErrorLog(ex);//Write error to log file
             }
         }
-
         private void mTimer_Tick(object sender, ElapsedEventArgs e)
         {
             //Check that elapsed event raises this event handler and executes code in it 
             //  if and only if the previous execution has completed
-            if (Library.mEexecuting)
+            if (library.mEexecuting)
                 return;
 
             //Set library is executing as true
-            Library.mEexecuting = true;
+            library.mEexecuting = true;
 
             try
             {
                 //Indicate and write to log file shouting that execution of python code is firing from all cylinders
-                Library.WriteErrorLog(@"Timer ticked and executePythonCode()  method or 
+                library.WriteErrorLog(@"Timer ticked and executePythonCode()  method or 
                 job has been done fired");
 
                 //Call method that executes python code
@@ -80,13 +96,13 @@ namespace ULIMSGISService
             }
             catch (Exception ex)
             {
-                Library.WriteErrorLog(ex);//Write error to log file
+                library.WriteErrorLog(ex);//Write error to log file
             }
             finally
             {
-                Library.WriteErrorLog(@"Timer ticked and executePythonCode()  method or 
+                library.WriteErrorLog(@"Timer ticked and executePythonCode()  method or 
                 job has successfully completed(But with a pinch of salt-There could be errors)");
-                Library.mEexecuting = false;
+                library.mEexecuting = false;
             }
         }
         /// <summary>
@@ -102,12 +118,12 @@ namespace ULIMSGISService
 
                 //Write to log file indicating that service could have stopped for whatever reasons
                 // Possible reason could be user action on services.msc stopping this particular service
-                Library.WriteErrorLog("ULIMS GIS Synchronize Service Stopped");
+                library.WriteErrorLog("ULIMS GIS Synchronize Service Stopped");
             }
             catch (Exception ex)
             {
 
-                Library.WriteErrorLog(ex);//Write error to log file
+                library.WriteErrorLog(ex);//Write error to log file
             }
         }
         /// <summary>
@@ -117,14 +133,19 @@ namespace ULIMSGISService
         {
             try
             {
-                //Call function to execute python process for otjiwarongo town
-                Library.mPythonCodeFolder = "python_code";
+                //Load config settings from app.config file               
+                library.mPythonCodeFolder = ConfigurationManager.AppSettings["python_folder"];
 
                 //Call function to execute python process for all towns
-                Library.executePythonProcess();
+                library.executePythonProcess();
 
-                //Wait for key press
-                //Console.ReadLine(); //Comment this line for the release version
+                /*
+                 * Add code to call .Net Synch Service that performs write to SharePoint Lists
+                 * Add new Erfs to SharePoint Lists
+                 * Update to SharePoint lists
+                 * Flag deleted erfs in SharePoint List
+                 */
+
             }
             catch (Exception)
             {

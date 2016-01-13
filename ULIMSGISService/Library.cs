@@ -14,7 +14,7 @@ namespace ULIMSGISService
         /// Create a log method (WriteErrorLog) to log the exceptions
         /// </summary>
         /// <param name="ex"></param>
-        public static void WriteErrorLog(Exception ex)
+        public  void WriteErrorLog(Exception ex)
         {
             StreamWriter streamWriter = null;
             try
@@ -41,7 +41,7 @@ namespace ULIMSGISService
         /// Create a log method (WriteErrorLog) to log the custom messages
         /// </summary>
         /// <param name="Message"></param>
-        public static void WriteErrorLog(string Message)
+        public  void WriteErrorLog(string Message)
         {
             StreamWriter streamWriter = null;
             try
@@ -68,7 +68,7 @@ namespace ULIMSGISService
         /// Loops through a dictionary object listing the 10 piloting towns
         ///     For each town launches a process to perfom automatic reconcile and post
         /// </summary>
-        public static void executePythonProcess()
+        public  void executePythonProcess()
         {
             try
             {
@@ -111,7 +111,7 @@ namespace ULIMSGISService
         /// Stdout from the python script is read asynchronously and captured into the .net log file
         /// </summary>
         /// <param name="townName"></param>      
-        public static void executePythonProcess(String townName)
+        public  void executePythonProcess(String townName)
         {
             try
             {
@@ -122,7 +122,7 @@ namespace ULIMSGISService
                 String configFilePath = "\"" + mExecutableRootDirectory + String.Format("\\local_authorities\\{0}\\Config.ini", townName) + "\"";
 
                 //Get path of main python file
-                String pathToPythonMainFile = "\"" + mExecutableRootDirectory + String.Format("\\local_authorities\\{0}\\AutoReconcileAndPost.py", Library.mPythonCodeFolder) + "\"";
+                String pathToPythonMainFile = "\"" + mExecutableRootDirectory + String.Format("\\local_authorities\\{0}\\AutoReconcileAndPost.py", mPythonCodeFolder) + "\"";
 
                 //Get path of reconcile log file
                 String reconcileLogFilePath = "\"" + mExecutableRootDirectory + String.Format("\\local_authorities\\{0}\\{0}_reconcile.log", townName) + "\"";
@@ -133,10 +133,14 @@ namespace ULIMSGISService
                 //Create an instance of Python Process class
                 Process process = new Process();
 
-                //We execute python code
-                process.StartInfo.FileName = "python.exe"; // Ensure python path is referenced in the Environment variables
+                /*
+                 * We execute python code
+                 * Ensure python path is referenced in the Environment variables
+                 */
+                process.StartInfo.FileName = "python.exe"; 
 
-                process.StartInfo.UseShellExecute = false;//make sure we can read output from stdout
+                //make sure we can read output from stdout
+                process.StartInfo.UseShellExecute = false;
 
                 // Redirect the standard output of the sort command.  
                 // This stream is read asynchronously using an event handler.
@@ -168,9 +172,7 @@ namespace ULIMSGISService
                 //Wait for the python process
                 process.WaitForExit();
 
-                Library.WriteErrorLog(mSortOutput.ToString());//Write to dotnet log file
-
-                //Console.WriteLine(mSortOutput); //Write output to console
+                WriteErrorLog(mSortOutput.ToString());//Write to dotnet log file
 
                 //Releases all resources by the component
                 process.Close();
@@ -189,7 +191,7 @@ namespace ULIMSGISService
         /// </summary>
         /// <param name="sendingProcess"></param>
         /// <param name="outLine"></param> 
-        private static void sortOutputHandler(object sendingProcess, DataReceivedEventArgs outLine)
+        private  void sortOutputHandler(object sendingProcess, DataReceivedEventArgs outLine)
         {
             try
             {
@@ -213,7 +215,7 @@ namespace ULIMSGISService
         /// Method : getPaths()
         /// Retuns path and directory of the exutable file and stores in member variables
         /// </summary>        
-        private static void getPaths()
+        private  void getPaths()
         {
             try
             {
@@ -230,31 +232,31 @@ namespace ULIMSGISService
         /// Property : mExecutablePath
         /// Wrapped up in a getter and setter
         /// </summary>
-        public static string mExecutablePath { get; set; }
+        public  string mExecutablePath { get; set; }
         /// <summary>
         /// Property : mExecutableRootDirectory
         /// Wrapped up in a getter and setter
         /// </summary>
-        public static string mExecutableRootDirectory { get; set; }
+        public  string mExecutableRootDirectory { get; set; }
         /// <summary>
         /// Property : mSortOutput
         /// Wrapped up in a getter and setter
         /// </summary>
-        public static StringBuilder mSortOutput { get; set; }
+        public  StringBuilder mSortOutput { get; set; }
         /// <summary>
         /// Property : mNumOutputLines
         /// Wrapped up in a getter and setter
         /// </summary>
-        public static int mNumOutputLines { get; set; }
+        public  int mNumOutputLines { get; set; }
         /// <summary>
         /// Property : mPythonCodeFolder
         /// Wrapped up in a getter and setter
         /// </summary>
-        public static string mPythonCodeFolder { get; set; }
+        public  string mPythonCodeFolder { get; set; }
         /// <summary>
         /// Property : mEexecuting
         /// Wrapped up in a getter and setter
         /// </summary>       
-        public static bool mEexecuting { get; set; }
+        public  bool mEexecuting { get; set; }
     }
 }
