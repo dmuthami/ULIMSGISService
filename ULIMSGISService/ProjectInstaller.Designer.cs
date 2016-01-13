@@ -39,7 +39,7 @@
             // 
             // serviceInstaller1
             // 
-            this.serviceInstaller1.ServiceName = "ULIMS GIS Synch Service";
+            this.serviceInstaller1.ServiceName = "ULIMS GIS Synch Service Test";
             // 
             // ProjectInstaller
             // 

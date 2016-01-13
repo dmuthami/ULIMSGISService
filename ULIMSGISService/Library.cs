@@ -124,21 +124,17 @@ namespace ULIMSGISService
                 //Get path of main python file
                 String pathToPythonMainFile = "\"" + mExecutableRootDirectory + String.Format("\\local_authorities\\{0}\\AutoReconcileAndPost.py", Library.mPythonCodeFolder) + "\"";
 
-
                 //Get path of reconcile log file
                 String reconcileLogFilePath = "\"" + mExecutableRootDirectory + String.Format("\\local_authorities\\{0}\\{0}_reconcile.log", townName) + "\"";
 
-
                 //Set path for current directory or strictly speaking directory of interest that you want to make current
                 String currDirPath = "\"" + mExecutableRootDirectory + String.Format("\\local_authorities", "") + "\"";
-
 
                 //Create an instance of Python Process class
                 Process process = new Process();
 
                 //We execute python code
                 process.StartInfo.FileName = "python.exe"; // Ensure python path is referenced in the Environment variables
-
 
                 process.StartInfo.UseShellExecute = false;//make sure we can read output from stdout
 
@@ -148,7 +144,6 @@ namespace ULIMSGISService
 
                 //intialize pointer to memory location storing a Stringbuilder object
                 mSortOutput = new StringBuilder("");
-
 
                 // Set our event handler to asynchronously read the sort output.
                 process.OutputDataReceived += new DataReceivedEventHandler(sortOutputHandler);
@@ -175,7 +170,7 @@ namespace ULIMSGISService
 
                 Library.WriteErrorLog(mSortOutput.ToString());//Write to dotnet log file
 
-                Console.WriteLine(mSortOutput); //Write output to console
+                //Console.WriteLine(mSortOutput); //Write output to console
 
                 //Releases all resources by the component
                 process.Close();

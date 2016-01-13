@@ -36,7 +36,9 @@ namespace ULIMSGISService
                 mTimer = new Timer();
 
                 //Set timer to 20 minutes or three hundred thousand milliseconds . The rate at which to raise the elapsed event
-                this.mTimer.Interval = 1200000;
+
+                //Set timer to 5 minutes or three hundred thousand milliseconds . The rate at which to raise the elapsed event
+                this.mTimer.Interval = 300000;
                 /*
                  * Wire timer elapsed event to the timer tick handler
                  * Occurs when the interval elapses
@@ -74,7 +76,7 @@ namespace ULIMSGISService
                 job has been done fired");
 
                 //Call method that executes python code
-                executePythonCode(); 
+                executePythonCode();
             }
             catch (Exception ex)
             {
@@ -100,7 +102,7 @@ namespace ULIMSGISService
 
                 //Write to log file indicating that service could have stopped for whatever reasons
                 // Possible reason could be user action on services.msc stopping this particular service
-                Library.WriteErrorLog("ULIMS GIS synchronize Service stopped");
+                Library.WriteErrorLog("ULIMS GIS Synchronize Service Stopped");
             }
             catch (Exception ex)
             {
@@ -122,7 +124,7 @@ namespace ULIMSGISService
                 Library.executePythonProcess();
 
                 //Wait for key press
-                Console.ReadLine(); //Comment this line for the release version
+                //Console.ReadLine(); //Comment this line for the release version
             }
             catch (Exception)
             {
