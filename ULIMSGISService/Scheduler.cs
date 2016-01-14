@@ -17,15 +17,15 @@ namespace ULIMSGISService
     {
         //Create a pointer to a timer as a member variable named mTimer
         private Timer mTimer = null;
-        private Library library = null;
+        private PythonLibrary pythonLibrary = null;
 
         /// <summary>
         /// Get and Setter Methods
         /// </summary>
-        internal Library MLibrary
+        internal PythonLibrary MLibrary
         {
-            get { return library; }
-            set { library = value; }
+            get { return pythonLibrary; }
+            set { pythonLibrary = value; }
         }
         /// <summary>
         /// Constructor
@@ -60,35 +60,35 @@ namespace ULIMSGISService
                 mTimer.Enabled = true;
 
                 /*
-                 * Get instance of Library class
+                 * Get instance of PythonLibrary class
                  * Contains propoerties and methods to help with execution
                  */
-                MLibrary = new Library();
+                MLibrary = new PythonLibrary();
 
                 //Write to log file indicating GIS service has started successfully.
-                library.WriteErrorLog("ULIMS GIS Synchonization Service started");
+                pythonLibrary.WriteErrorLog("ULIMS GIS Synchonization Service started");
 
             }
             catch (Exception ex)
             {
 
-                library.WriteErrorLog(ex);//Write error to log file
+                pythonLibrary.WriteErrorLog(ex);//Write error to log file
             }
         }
         private void mTimer_Tick(object sender, ElapsedEventArgs e)
         {
             //Check that elapsed event raises this event handler and executes code in it 
             //  if and only if the previous execution has completed
-            if (library.mEexecuting)
+            if (pythonLibrary.mEexecuting)
                 return;
 
-            //Set library is executing as true
-            library.mEexecuting = true;
+            //Set pythonLibrary is executing as true
+            pythonLibrary.mEexecuting = true;
 
             try
             {
                 //Indicate and write to log file shouting that execution of python code is firing from all cylinders
-                library.WriteErrorLog(@"Timer ticked and executePythonCode()  method or 
+                pythonLibrary.WriteErrorLog(@"Timer ticked and executePythonCode()  method or 
                 job has been done fired");
 
                 //Call method that executes python code
@@ -96,13 +96,13 @@ namespace ULIMSGISService
             }
             catch (Exception ex)
             {
-                library.WriteErrorLog(ex);//Write error to log file
+                pythonLibrary.WriteErrorLog(ex);//Write error to log file
             }
             finally
             {
-                library.WriteErrorLog(@"Timer ticked and executePythonCode()  method or 
+                pythonLibrary.WriteErrorLog(@"Timer ticked and executePythonCode()  method or 
                 job has successfully completed(But with a pinch of salt-There could be errors)");
-                library.mEexecuting = false;
+                pythonLibrary.mEexecuting = false;
             }
         }
         /// <summary>
@@ -118,12 +118,12 @@ namespace ULIMSGISService
 
                 //Write to log file indicating that service could have stopped for whatever reasons
                 // Possible reason could be user action on services.msc stopping this particular service
-                library.WriteErrorLog("ULIMS GIS Synchronize Service Stopped");
+                pythonLibrary.WriteErrorLog("ULIMS GIS Synchronize Service Stopped");
             }
             catch (Exception ex)
             {
 
-                library.WriteErrorLog(ex);//Write error to log file
+                pythonLibrary.WriteErrorLog(ex);//Write error to log file
             }
         }
         /// <summary>
@@ -134,10 +134,10 @@ namespace ULIMSGISService
             try
             {
                 //Load config settings from app.config file               
-                library.mPythonCodeFolder = ConfigurationManager.AppSettings["python_folder"];
+                pythonLibrary.mPythonCodeFolder = ConfigurationManager.AppSettings["python_folder"];
 
                 //Call function to execute python process for all towns
-                library.executePythonProcess();
+                pythonLibrary.executePythonProcess();
 
                 /*
                  * Add code to call .Net Synch Service that performs write to SharePoint Lists

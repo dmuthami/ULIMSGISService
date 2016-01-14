@@ -8,7 +8,7 @@ using System.Diagnostics;//Process
 
 namespace ULIMSGISService
 {
-    class Library
+    class PythonLibrary
     {
         /// <summary>
         /// Create a log method (WriteErrorLog) to log the exceptions
@@ -75,28 +75,17 @@ namespace ULIMSGISService
                 //Create a dictionary object with all the 10 piloting sites
                 Dictionary<string, string> dictionary = new Dictionary<string, string>();
 
-                /*
-                 * Add a key value pair of the 10 towns
-                 * 
-                 * This may be updated to be read externally say from XML, config file or wherever desired
-                 */
-                dictionary.Add("otjiwarongo", "otjiwarongo");
-                dictionary.Add("outapi", "outapi");
-                dictionary.Add("keetmanshoop", "keetmanshoop");
-                dictionary.Add("oshakati", "oshakati");
-                dictionary.Add("walvis_bay", "walvis_bay");
-                dictionary.Add("helao_nafidi", "helao_nafidi");
-                dictionary.Add("katima_mulilo", "katima_mulilo");
-                dictionary.Add("tsumeb", "tsumeb");
-                dictionary.Add("rundu", "rundu");
-                dictionary.Add("okahandja", "okahandja");
+                //Read towns from config file
+                ConfigReader configReader = new ConfigReader(this);
+
+                //Method returns listof towns as a dictionary
+                dictionary = configReader.readNamibiaLocalAuthoritiesSection();
 
                 //Loop over pairs with foreach loop
                 foreach (KeyValuePair<string, string> townpair in dictionary)
                 {
                     //Call function to execute python process for each town         
                     executePythonProcess((String)townpair.Value);
-
                 }
             }
             catch (Exception)
