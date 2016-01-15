@@ -11,3 +11,11 @@ Affected parameters are:
    logtoconsole = 
    logfile = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\ULIMSGISService.InstallLog
    assemblypath = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\ULIMSGISService.exe
+Uninstalling assembly 'E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\ULIMSGISService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\ULIMSGISService.InstallLog
+   assemblypath = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\deploy\ULIMSGISService.exe
+Removing EventLog source ULIMS GIS Synch Service.
+Service ULIMS GIS Synch Service is being removed from the system...
+Service ULIMS GIS Synch Service was successfully removed from the system.

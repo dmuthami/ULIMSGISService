@@ -1,0 +1,11 @@
+﻿Uninstalling assembly 'E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Release\ULIMSGISService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Release\ULIMSGISService.InstallLog
+   assemblypath = E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Release\ULIMSGISService.exe
+Removing EventLog source ULIMS GIS Synch Service.
+Warning: The source ULIMS GIS Synch Service is not registered on the local machine.
+Service ULIMS GIS Synch Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.

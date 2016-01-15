@@ -46,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConfigReader.cs" />
+    <Compile Include="IConfigReader.cs" />
+    <Compile Include="IPythonLibrary.cs" />
     <Compile Include="PythonLibrary.cs" />
     <Compile Include="ProjectInstaller.cs">
       <SubType>Component</SubType>

@@ -8,7 +8,7 @@ using System.Diagnostics;//Process
 
 namespace ULIMSGISService
 {
-    class PythonLibrary
+    class PythonLibrary : ULIMSGISService.IPythonLibrary
     {
         /// <summary>
         /// Create a log method (WriteErrorLog) to log the exceptions
@@ -76,10 +76,10 @@ namespace ULIMSGISService
                 Dictionary<string, string> dictionary = new Dictionary<string, string>();
 
                 //Read towns from config file
-                ConfigReader configReader = new ConfigReader(this);
+                IConfigReader iConfigReader = new ConfigReader(this);
 
                 //Method returns listof towns as a dictionary
-                dictionary = configReader.readNamibiaLocalAuthoritiesSection();
+                dictionary = iConfigReader.readNamibiaLocalAuthoritiesSection();
 
                 //Loop over pairs with foreach loop
                 foreach (KeyValuePair<string, string> townpair in dictionary)
