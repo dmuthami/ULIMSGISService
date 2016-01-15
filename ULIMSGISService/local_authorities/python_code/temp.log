@@ -1,0 +1,59 @@
+2016-01-15 23:37:09,766 INFO 
+------------------------------------------------------------------
+Start Time : -16-01-15_23-37-09
+------------------------------------------------------------------
+
+2016-01-15 23:37:09,769 INFO 
+ Local Authority : okahandja
+2016-01-15 23:37:09,773 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\local_authorities\okahandja\Config.ini
+2016-01-15 23:37:09,773 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\local_authorities
+
+2016-01-15 23:37:09,773 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\local_authorities\okahandja\connection_files\sde@okahandja@localhost.sde
+
+2016-01-15 23:37:09,773 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\local_authorities\okahandja\okahandja_reconcile.log
+2016-01-15 23:37:22,818 INFO autoReconcileAndPost.py : arcpy.RebuildIndexes_management(connGISADMIN, 'NO_SYSTEM', dataList, 'ALL')PYTHON ERRORS:
+Traceback Info:
+  File "AutoReconcileAndPost.py", line 307, in <module>
+    arcpy.RebuildIndexes_management(env.workspace, "NO_SYSTEM", dataList2, "ALL")
+
+Error Info:
+    <class 'arcgisscripting.ExecuteError'>: Function had no effect.
+Failed to execute (RebuildIndexes).
+
+
+2016-01-15 23:37:22,818 INFO autoReconcileAndPost.py Geoprocessing  Errors :
+Function had no effect.
+Failed to execute (RebuildIndexes).
+
+
+2016-01-15 23:37:22,842 INFO 
+Failed 
+------------------------------------------------------------------
+End Time : -16-01-15_23-37-22
+------------------------------------------------------------------
+
+2016-01-15 23:37:22,913 INFO autoReconcileAndPost.py PYTHON ERRORS:
+Traceback Info:
+  File "AutoReconcileAndPost.py", line 334, in <module>
+    arcpy.AnalyzeDatasets_management(env.workspace, "NO_SYSTEM", dataList2, "ANALYZE_BASE", "ANALYZE_DELTA", "ANALYZE_ARCHIVE")
+
+Error Info:
+    <class 'arcgisscripting.ExecuteError'>: Function had no effect.
+Failed to execute (AnalyzeDatasets).
+
+
+2016-01-15 23:37:22,913 INFO autoReconcileAndPost.py Geoprocessing  Errors :
+Function had no effect.
+Failed to execute (AnalyzeDatasets).
+
+
+2016-01-15 23:37:22,920 INFO 
+Failed 
+------------------------------------------------------------------
+End Time : -16-01-15_23-37-22
+------------------------------------------------------------------
+

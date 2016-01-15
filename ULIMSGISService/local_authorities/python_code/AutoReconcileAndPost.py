@@ -7,6 +7,7 @@ from datetime import datetime
 
 ##Custom module containing functions
 import Configurations
+import Compute_Stand_No
 
 #Set-up logging
 logger = logging.getLogger('myapp')
@@ -25,8 +26,12 @@ print msg
 logger.info(msg)
 
 try:
+    #Move from current working directory one level up
     os.chdir("..")
+
+    #Store current directory of interest for use later
     currDir = os.getcwd()
+
     ##Obtain script parameter values
     ##location for configuration file
     ##Acquire it as a parameter either from terminal, console or via application
@@ -34,7 +39,7 @@ try:
     if configFileLocation =='': #Checks if supplied parameter is null
         #Defaults to below hard coded path if the parameter is not supplied. NB. May throw exceptions if it defaults to path below
         # since path below might not  be existing in your system with the said file name required
-        configFileLocation=os.path.join(currDir, 'otjiwarongo','Config.ini')
+        configFileLocation=os.path.join(currDir, 'okahandja','Config.ini')
 
     ##Read from config file
     #If for any reason an exception is thrown here then subsequent code will not be executed
@@ -98,6 +103,11 @@ try:
     #output location of reconcile log file
     logger.info("\n Reconcile Log File Path : "+ reconcilelogfile)
 
+    ### Set Parameters for the Compute Stand No Module
+    ### ---------------------------------------------
+    ###---------------------------------------------
+
+
     # set the workspace
     env.workspace = connSDE
 
@@ -112,6 +122,33 @@ try:
 
     #Accept new connections to the database.
     arcpy.AcceptConnections(connSDE, True)
+
+
+    ##----------------------------------------------------------
+    ##-------------------------Call code to compute stand number
+    ##----------------------------------------------------------
+    print "\n Data owner(GIS Admin) connection file path : "+connGISADMIN
+    print "\n Reference Number/Stand No : "+Configurations.Configurations_standNo_fieldName
+    print "\n Feature Class to compute stand number : "+Configurations.Configurations_featureClass
+    print "\n Object ID Field Name : "+Configurations.Configurations_objectID_fieldName
+    print "\n Local Authority ID Field Name : "+Configurations.Configurations_local_authority_id_fieldName
+
+    ##-----------Set workspace again to GIS admin so as to compute stand no
+    ##------------
+
+    env.workspace = connGISADMIN
+
+    # Call to compute
+    Compute_Stand_No.mainMethod(connGISADMIN,\
+    Configurations.Configurations_featureClass,
+    Configurations.Configurations_objectID_fieldName,\
+    Configurations.Configurations_standNo_fieldName,\
+    Configurations.Configurations_local_authority_id_fieldName)
+
+    ##---- Re-set the workspace
+    ##------
+    env.workspace = connSDE
+    wrkspc = env.workspace #workspace variable
 
     ##---
     ##---Find Connected Users
@@ -164,9 +201,10 @@ try:
 
     ##---
     ##---Pause the script for a minute
+    ##--- Time is in seconds boss
     ##---
-    import time
-    time.sleep(10)#time is specified in seconds
+    #import time
+    #time.sleep(10)#time is specified in seconds
 
 
     ##---
@@ -208,6 +246,7 @@ try:
 
     # set the workspace
     env.workspace = connSDE
+    wrkspc = env.workspace #workspace variable
 
     # Get the user name for the workspace
     # this assumes you are using database authentication.
@@ -238,6 +277,9 @@ try:
     ###-------------------------------------------------------------
 
     # set the workspace
+    env.workspace = None
+
+    #reset the worksapce
     env.workspace = connGISADMIN
 
     # Get the user name for the workspace
@@ -247,12 +289,12 @@ try:
 
     # Get a list of all the datasets the user has access to.
     # First, get all the stand alone tables, feature classes and rasters owned by the current user.
-    dataList = arcpy.ListTables('*.' + userName + '.*') + arcpy.ListFeatureClasses('*.' + userName + '.*') + arcpy.ListRasters('*.' + userName + '.*')
+    dataList2 = arcpy.ListTables('*.' + userName + '.*') + arcpy.ListFeatureClasses('*.' + userName + '.*') + arcpy.ListRasters('*.' + userName + '.*')
 
     # Next, for feature datasets owned by the current user
     # get all of the featureclasses and add them to the master list.
     for dataset in arcpy.ListDatasets('*.' + userName + '.*'):
-        dataList += arcpy.ListFeatureClasses(feature_dataset=dataset)
+        dataList2 += arcpy.ListFeatureClasses(feature_dataset=dataset)
 
 
     # Execute rebuild indexes and analyze datasets
@@ -260,9 +302,36 @@ try:
 
     #workspace = "Database Connections/user1.sde"
 
-    arcpy.RebuildIndexes_management(connGISADMIN, "NO_SYSTEM", dataList, "ALL")
+    try:
 
-    arcpy.AnalyzeDatasets_management(connGISADMIN, "NO_SYSTEM", dataList, "ANALYZE_BASE", "ANALYZE_DELTA", "ANALYZE_ARCHIVE")
+        arcpy.RebuildIndexes_management(env.workspace, "NO_SYSTEM", dataList2, "ALL")
+    except:
+        ## Return any Python specific errors and any error returned by the geoprocessor
+        ##
+        tb = sys.exc_info()[2]
+        tbinfo = traceback.format_tb(tb)[0]
+        pymsg = "PYTHON ERRORS:\nTraceback Info:\n" + tbinfo + "\nError Info:\n    " + \
+                str(sys.exc_type)+ ": " + str(sys.exc_value) + "\n"
+        msgs = "Geoprocessing  Errors :\n" + arcpy.GetMessages(2) + "\n"
+
+        ##Add custom informative message to the Python script tool
+        arcpy.AddError(pymsg) #Add error message to the Python script tool(Progress dialog box, Results windows and Python Window).
+        arcpy.AddError(msgs)  #Add error message to the Python script tool(Progress dialog box, Results windows and Python Window).
+
+        ##For debugging purposes only
+        ##To be commented on python script scheduling in Windows _log
+        print pymsg
+        print "\n" +msgs
+        logger.info("autoReconcileAndPost.py : arcpy.RebuildIndexes_management(connGISADMIN, 'NO_SYSTEM', dataList, 'ALL')"+pymsg)
+        logger.info("autoReconcileAndPost.py "+msgs)
+        msg ="\nFailed \n------------------------------------------------------------------\n"+"End Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
+        print msg
+
+        #Logging
+        logger.info(msg)
+
+    #Try the below
+    arcpy.AnalyzeDatasets_management(env.workspace, "NO_SYSTEM", dataList2, "ANALYZE_BASE", "ANALYZE_DELTA", "ANALYZE_ARCHIVE")
 
     ##---------END--------------------------------------------------------------------------
     ##---------End of Rebuild indexes  and update statistics -------------------------------
