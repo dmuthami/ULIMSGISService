@@ -7,6 +7,7 @@ from datetime import datetime
 
 ##Custom module containing functions
 import Configurations
+#import Compute_Stand_No
 
 #Set-up logging
 logger = logging.getLogger('myapp')
@@ -19,14 +20,18 @@ logger.addHandler(hdlr)
 logger.setLevel(logging.INFO)
 
 #start time
-msg ="\n------------------------------------------------------------------\n"+"Start Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
+msg ="\n--------------------------------Auto Reconcile and Post----------------------------------\n"+"Start Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
 print msg
 #Logging
 logger.info(msg)
 
 try:
+    #Move from current working directory one level up
     os.chdir("..")
+
+    #Store current directory of interest for use later
     currDir = os.getcwd()
+
     ##Obtain script parameter values
     ##location for configuration file
     ##Acquire it as a parameter either from terminal, console or via application
@@ -34,7 +39,7 @@ try:
     if configFileLocation =='': #Checks if supplied parameter is null
         #Defaults to below hard coded path if the parameter is not supplied. NB. May throw exceptions if it defaults to path below
         # since path below might not  be existing in your system with the said file name required
-        configFileLocation=os.path.join(currDir, 'otjiwarongo','Config.ini')
+        configFileLocation=os.path.join(currDir, 'okahandja','Config.ini')
 
     ##Read from config file
     #If for any reason an exception is thrown here then subsequent code will not be executed
@@ -66,7 +71,7 @@ try:
     else:
         #Output path for currDir
         msg=  "\n"+currDir+"\n"
-        logger.info("currDirDotNet path : "+msg)
+        logger.info("currDir path : "+msg)
         #print msg
 
     # Get the Connection to the geodatabase administrator
@@ -98,6 +103,11 @@ try:
     #output location of reconcile log file
     logger.info("\n Reconcile Log File Path : "+ reconcilelogfile)
 
+    ### Set Parameters for the Compute Stand No Module
+    ### ---------------------------------------------
+    ###---------------------------------------------
+
+
     # set the workspace
     env.workspace = connSDE
 
@@ -112,6 +122,34 @@ try:
 
     #Accept new connections to the database.
     arcpy.AcceptConnections(connSDE, True)
+
+
+    ##----------------------------------------------------------
+    ##-------------------------Call code to compute stand number
+    ##----------------------------------------------------------
+##    print "\n Data owner(GIS Admin) connection file path : "+connGISADMIN
+##    print "\n Reference Number/Stand No : "+Configurations.Configurations_standNo_fieldName
+##    print "\n Feature Class to compute stand number : "+Configurations.Configurations_featureClass
+##    print "\n Object ID Field Name : "+Configurations.Configurations_objectID_fieldName
+##    print "\n Local Authority ID Field Name : "+Configurations.Configurations_local_authority_id_fieldName
+
+    ##-----------Set workspace again to GIS admin so as to compute stand no
+    ##------------
+
+##    env.workspace = connGISADMIN
+
+    ## Call to compute stand no
+    ##------------------------
+##    Compute_Stand_No.mainMethod(connGISADMIN,\
+##    Configurations.Configurations_featureClass,
+##    Configurations.Configurations_objectID_fieldName,\
+##    Configurations.Configurations_standNo_fieldName,\
+##    Configurations.Configurations_local_authority_id_fieldName)
+
+    ##---- Re-set the workspace
+    ##------
+    env.workspace = connSDE
+    wrkspc = env.workspace #workspace variable
 
     ##---
     ##---Find Connected Users
@@ -159,14 +197,15 @@ try:
     ##---Block connections to the geodatabase
     ##---
 
-    #block new connections to the database.
+    #Block new connections to the database.
     arcpy.AcceptConnections(connSDE, False)
 
     ##---
     ##---Pause the script for a minute
+    ##--- Time is in seconds boss
     ##---
-    import time
-    time.sleep(10)#time is specified in seconds
+    #import time
+    #time.sleep(10)#time is specified in seconds
 
 
     ##---
@@ -208,6 +247,7 @@ try:
 
     # set the workspace
     env.workspace = connSDE
+    wrkspc = env.workspace #workspace variable
 
     # Get the user name for the workspace
     # this assumes you are using database authentication.
@@ -223,11 +263,8 @@ try:
     for dataset in arcpy.ListDatasets('*.' + userName + '.*'):
         dataList += arcpy.ListFeatureClasses(feature_dataset=dataset)
 
-
     # Execute rebuild indexes and analyze datasets
     # Note: to use the "SYSTEM" option, the user must be an administrator.
-
-    #workspace = "Database Connections/user1.sde"
 
     arcpy.RebuildIndexes_management(connSDE, "SYSTEM", dataList, "ALL")
 
@@ -237,7 +274,7 @@ try:
     ### Rebuild indices and update statistics for second data owner gisadmin user
     ###-------------------------------------------------------------
 
-    # set the workspace
+    #reset the workspace
     env.workspace = connGISADMIN
 
     # Get the user name for the workspace
@@ -258,19 +295,45 @@ try:
     # Execute rebuild indexes and analyze datasets
     # Note: to use the "SYSTEM" option, the user must be an administrator.
 
-    #workspace = "Database Connections/user1.sde"
+    try:
+        arcpy.RebuildIndexes_management(env.workspace, "NO_SYSTEM", dataList, "ALL")
+        #Try the below as well
+        arcpy.AnalyzeDatasets_management(env.workspace, "NO_SYSTEM", dataList, "ANALYZE_BASE", "ANALYZE_DELTA", "ANALYZE_ARCHIVE")
 
-    arcpy.RebuildIndexes_management(connGISADMIN, "NO_SYSTEM", dataList, "ALL")
+    except:
+        ## Return any Python specific errors and any error returned by the geoprocessor
+        ##
+        tb = sys.exc_info()[2]
+        tbinfo = traceback.format_tb(tb)[0]
+        pymsg = "PYTHON ERRORS:\nTraceback Info:\n" + tbinfo + "\nError Info:\n    " + \
+                str(sys.exc_type)+ ": " + str(sys.exc_value) + "\n"
+        msgs = "Geoprocessing  Errors :\n" + arcpy.GetMessages(2) + "\n"
 
-    arcpy.AnalyzeDatasets_management(connGISADMIN, "NO_SYSTEM", dataList, "ANALYZE_BASE", "ANALYZE_DELTA", "ANALYZE_ARCHIVE")
+        ##Add custom informative message to the Python script tool
+        arcpy.AddError(pymsg) #Add error message to the Python script tool(Progress dialog box, Results windows and Python Window).
+        arcpy.AddError(msgs)  #Add error message to the Python script tool(Progress dialog box, Results windows and Python Window).
+
+        ##For debugging purposes only
+        ##To be commented on python script scheduling in Windows _log
+        print pymsg
+        print "\n" +msgs
+        logger.info("autoReconcileAndPost.py : arcpy.RebuildIndexes_management(connGISADMIN, 'NO_SYSTEM', dataList, 'ALL')"+pymsg)
+        logger.info("autoReconcileAndPost.py "+msgs)
+        msg ="\nFailed \n----------------------Auto Reconcile and Post--------------------------------------------\n"+"End Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
+        print msg
+
+        #Logging
+        logger.info(msg)
 
     ##---------END--------------------------------------------------------------------------
     ##---------End of Rebuild indexes  and update statistics -------------------------------
     ##--------------------------------------------------------------------------------------
     ##--------------------------------------------------------------------------------------
 
-    msg ="\nExited with Spectacular Success \n------------------------------------------------------------------\n"+"End Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
 
+    msg ="\nExited with Spectacular Success \n------------------Auto Reconcile and Post------------------------------------------------\n"+"End Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
+
+    #Write to Console
     print msg
     #Logging
     logger.info(msg)
@@ -293,8 +356,8 @@ except:
     print "\n" +msgs
     logger.info("autoReconcileAndPost.py "+pymsg)
     logger.info("autoReconcileAndPost.py "+msgs)
-    msg ="\nFailed \n------------------------------------------------------------------\n"+"End Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
+    msg ="\nFailed \n----------------Auto Reconcile and Post--------------------------------------------------\n"+"End Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
+    #Write to Console
     print msg
-
     #Logging
     logger.info(msg)

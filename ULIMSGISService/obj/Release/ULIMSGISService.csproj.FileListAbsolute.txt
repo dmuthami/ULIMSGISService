@@ -28,6 +28,8 @@ E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Release\local
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Release\local_authorities\walvis_bay\Config.ini
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Release\local_authorities\walvis_bay\connection_files\gisadmin_walvis_bay@walvis_bay@localhost.sde
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Release\local_authorities\walvis_bay\connection_files\sde@walvis_bay@localhost.sde
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Release\local_authorities\python_code\Compute_Stand_No.py
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Release\local_authorities\python_code\InvokeComputeStandNo.py
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Release\local_authorities\python_code\AutoReconcileAndPost.py
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Release\local_authorities\python_code\Configurations.py
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Release\ULIMSGISService.exe.config

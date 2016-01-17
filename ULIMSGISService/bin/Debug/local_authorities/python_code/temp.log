@@ -1,1311 +1,1997 @@
-2016-01-15 14:08:39,107 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-08-39
+2016-01-17 17:55:03,407 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_17-55-03
 ------------------------------------------------------------------
 
-2016-01-15 14:08:39,109 INFO 
+2016-01-17 17:55:03,408 INFO 
  Local Authority : otjiwarongo
-2016-01-15 14:08:39,109 INFO 
+2016-01-17 17:55:03,408 INFO 
  Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
-2016-01-15 14:08:39,109 INFO currDirDotNet path : 
+2016-01-17 17:55:03,408 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:08:39,111 INFO ConnSDE path : 
+2016-01-17 17:55:03,408 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\sde@otjiwarongo@localhost.sde
 
-2016-01-15 14:08:39,111 INFO 
+2016-01-17 17:55:03,410 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\otjiwarongo_reconcile.log
-2016-01-15 14:09:33,905 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-09-33
-------------------------------------------------------------------
-
-2016-01-15 14:09:41,723 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-09-41
+2016-01-17 17:55:09,296 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_17-55-09
 ------------------------------------------------------------------
 
-2016-01-15 14:09:41,726 INFO 
- Local Authority : outapi
-2016-01-15 14:09:41,726 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
-2016-01-15 14:09:41,727 INFO currDirDotNet path : 
+2016-01-17 17:55:15,654 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_17-55-15
+------------------------------------------------------------------
+
+2016-01-17 17:55:15,654 INFO 
+ Local Authority : otjiwarongo
+2016-01-17 17:55:15,654 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
+2016-01-17 17:55:15,655 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:09:41,727 INFO ConnSDE path : 
+2016-01-17 17:55:15,655 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\sde@otjiwarongo@localhost.sde
+
+2016-01-17 17:55:15,655 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\otjiwarongo_reconcile.log
+2016-01-17 17:55:48,493 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_17-55-48
+------------------------------------------------------------------
+
+2016-01-17 17:55:55,630 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_17-55-55
+------------------------------------------------------------------
+
+2016-01-17 17:55:55,631 INFO 
+ Local Authority : outapi
+2016-01-17 17:55:55,631 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
+2016-01-17 17:55:55,631 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 17:55:55,631 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\sde@outapi@localhost.sde
 
-2016-01-15 14:09:41,727 INFO 
+2016-01-17 17:55:55,631 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\outapi_reconcile.log
-2016-01-15 14:10:07,668 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-10-07
-------------------------------------------------------------------
-
-2016-01-15 14:10:14,842 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-10-14
+2016-01-17 17:55:59,141 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_17-55-59
 ------------------------------------------------------------------
 
-2016-01-15 14:10:14,845 INFO 
- Local Authority : keetmanshoop
-2016-01-15 14:10:14,845 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
-2016-01-15 14:10:14,845 INFO currDirDotNet path : 
+2016-01-17 17:56:05,598 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_17-56-05
+------------------------------------------------------------------
+
+2016-01-17 17:56:05,598 INFO 
+ Local Authority : outapi
+2016-01-17 17:56:05,598 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
+2016-01-17 17:56:05,599 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:10:14,845 INFO ConnSDE path : 
+2016-01-17 17:56:05,599 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\sde@outapi@localhost.sde
+
+2016-01-17 17:56:05,599 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\outapi_reconcile.log
+2016-01-17 17:56:19,933 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_17-56-19
+------------------------------------------------------------------
+
+2016-01-17 17:56:26,950 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_17-56-26
+------------------------------------------------------------------
+
+2016-01-17 17:56:26,950 INFO 
+ Local Authority : keetmanshoop
+2016-01-17 17:56:26,950 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
+2016-01-17 17:56:26,950 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 17:56:26,950 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\sde@keetmanshoop@localhost.sde
 
-2016-01-15 14:10:14,845 INFO 
+2016-01-17 17:56:26,950 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\keetmanshoop_reconcile.log
-2016-01-15 14:10:46,118 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-10-46
-------------------------------------------------------------------
-
-2016-01-15 14:10:52,733 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-10-52
+2016-01-17 17:56:31,130 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_17-56-31
 ------------------------------------------------------------------
 
-2016-01-15 14:10:52,736 INFO 
- Local Authority : oshakati
-2016-01-15 14:10:52,736 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
-2016-01-15 14:10:52,736 INFO currDirDotNet path : 
+2016-01-17 17:56:37,441 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_17-56-37
+------------------------------------------------------------------
+
+2016-01-17 17:56:37,443 INFO 
+ Local Authority : keetmanshoop
+2016-01-17 17:56:37,443 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
+2016-01-17 17:56:37,443 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:10:52,736 INFO ConnSDE path : 
+2016-01-17 17:56:37,443 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\sde@keetmanshoop@localhost.sde
+
+2016-01-17 17:56:37,443 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\keetmanshoop_reconcile.log
+2016-01-17 17:56:55,454 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_17-56-55
+------------------------------------------------------------------
+
+2016-01-17 17:57:02,293 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_17-57-02
+------------------------------------------------------------------
+
+2016-01-17 17:57:02,295 INFO 
+ Local Authority : oshakati
+2016-01-17 17:57:02,295 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
+2016-01-17 17:57:02,295 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 17:57:02,295 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\sde@oshakati@localhost.sde
 
-2016-01-15 14:10:52,736 INFO 
+2016-01-17 17:57:02,295 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\oshakati_reconcile.log
-2016-01-15 14:11:18,154 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-11-18
-------------------------------------------------------------------
-
-2016-01-15 14:11:24,206 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-11-24
+2016-01-17 17:57:06,210 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_17-57-06
 ------------------------------------------------------------------
 
-2016-01-15 14:11:24,207 INFO 
- Local Authority : walvis_bay
-2016-01-15 14:11:24,209 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
-2016-01-15 14:11:24,209 INFO currDirDotNet path : 
+2016-01-17 17:57:12,605 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_17-57-12
+------------------------------------------------------------------
+
+2016-01-17 17:57:12,607 INFO 
+ Local Authority : oshakati
+2016-01-17 17:57:12,607 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
+2016-01-17 17:57:12,607 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:11:24,209 INFO ConnSDE path : 
+2016-01-17 17:57:12,607 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\sde@oshakati@localhost.sde
+
+2016-01-17 17:57:12,607 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\oshakati_reconcile.log
+2016-01-17 17:57:30,022 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_17-57-30
+------------------------------------------------------------------
+
+2016-01-17 17:57:36,780 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_17-57-36
+------------------------------------------------------------------
+
+2016-01-17 17:57:36,782 INFO 
+ Local Authority : walvis_bay
+2016-01-17 17:57:36,782 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
+2016-01-17 17:57:36,782 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 17:57:36,782 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\sde@walvis_bay@localhost.sde
 
-2016-01-15 14:11:24,209 INFO 
+2016-01-17 17:57:36,782 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\walvis_bay_reconcile.log
-2016-01-15 14:13:05,882 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-13-05
-------------------------------------------------------------------
-
-2016-01-15 14:13:12,029 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-13-12
+2016-01-17 17:57:40,723 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_17-57-40
 ------------------------------------------------------------------
 
-2016-01-15 14:13:12,032 INFO 
- Local Authority : helao_nafidi
-2016-01-15 14:13:12,032 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
-2016-01-15 14:13:12,032 INFO currDirDotNet path : 
+2016-01-17 17:57:47,190 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_17-57-47
+------------------------------------------------------------------
+
+2016-01-17 17:57:47,190 INFO 
+ Local Authority : walvis_bay
+2016-01-17 17:57:47,190 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
+2016-01-17 17:57:47,190 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:13:12,032 INFO ConnSDE path : 
+2016-01-17 17:57:47,190 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\sde@walvis_bay@localhost.sde
+
+2016-01-17 17:57:47,191 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\walvis_bay_reconcile.log
+2016-01-17 17:59:46,881 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_17-59-46
+------------------------------------------------------------------
+
+2016-01-17 17:59:53,941 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_17-59-53
+------------------------------------------------------------------
+
+2016-01-17 17:59:53,943 INFO 
+ Local Authority : helao_nafidi
+2016-01-17 17:59:53,943 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
+2016-01-17 17:59:53,943 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 17:59:53,944 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\sde@helao_nafidi@localhost.sde
 
-2016-01-15 14:13:12,032 INFO 
+2016-01-17 17:59:53,944 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\helao_nafidi_reconcile.log
-2016-01-15 14:13:38,387 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-13-38
-------------------------------------------------------------------
-
-2016-01-15 14:13:44,701 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-13-44
+2016-01-17 17:59:57,256 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_17-59-57
 ------------------------------------------------------------------
 
-2016-01-15 14:13:44,704 INFO 
- Local Authority : katima_mulilo
-2016-01-15 14:13:44,704 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
-2016-01-15 14:13:44,704 INFO currDirDotNet path : 
+2016-01-17 18:00:03,753 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_18-00-03
+------------------------------------------------------------------
+
+2016-01-17 18:00:03,755 INFO 
+ Local Authority : helao_nafidi
+2016-01-17 18:00:03,755 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
+2016-01-17 18:00:03,755 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:13:44,704 INFO ConnSDE path : 
+2016-01-17 18:00:03,755 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\sde@helao_nafidi@localhost.sde
+
+2016-01-17 18:00:03,755 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\helao_nafidi_reconcile.log
+2016-01-17 18:00:16,421 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_18-00-16
+------------------------------------------------------------------
+
+2016-01-17 18:00:23,158 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_18-00-23
+------------------------------------------------------------------
+
+2016-01-17 18:00:23,160 INFO 
+ Local Authority : katima_mulilo
+2016-01-17 18:00:23,160 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
+2016-01-17 18:00:23,160 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 18:00:23,160 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\sde@katima_mulilo@localhost.sde
 
-2016-01-15 14:13:44,706 INFO 
+2016-01-17 18:00:23,161 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\katima_mulilo_reconcile.log
-2016-01-15 14:14:17,246 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-14-17
+2016-01-17 18:00:25,994 INFO InvokeComputeStandNo.py PYTHON ERRORS:
+Traceback Info:
+  File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\InvokeComputeStandNo.py", line 147, in <module>
+    Configurations.Configurations_local_authority_id_fieldName)
+
+Error Info:
+    <type 'exceptions.NameError'>: global name 'logger' is not defined
+
+2016-01-17 18:00:26,019 INFO InvokeComputeStandNo.py Geoprocessing  Errors :
+
+
+2016-01-17 18:00:26,020 INFO 
+Failed 
+-------------------------------Compute Stand No-----------------------------------
+End Time : -16-01-17_18-00-26
 ------------------------------------------------------------------
 
-2016-01-15 14:14:24,788 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-14-24
+2016-01-17 18:00:32,911 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_18-00-32
 ------------------------------------------------------------------
 
-2016-01-15 14:14:24,790 INFO 
- Local Authority : tsumeb
-2016-01-15 14:14:24,790 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\Config.ini
-2016-01-15 14:14:24,790 INFO currDirDotNet path : 
+2016-01-17 18:00:32,911 INFO 
+ Local Authority : katima_mulilo
+2016-01-17 18:00:32,911 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
+2016-01-17 18:00:32,913 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:14:24,790 INFO ConnSDE path : 
+2016-01-17 18:00:32,913 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\sde@katima_mulilo@localhost.sde
+
+2016-01-17 18:00:32,913 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\katima_mulilo_reconcile.log
+2016-01-17 18:00:53,578 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_18-00-53
+------------------------------------------------------------------
+
+2016-01-17 18:01:00,339 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_18-01-00
+------------------------------------------------------------------
+
+2016-01-17 18:01:00,341 INFO 
+ Local Authority : tsumeb
+2016-01-17 18:01:00,341 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\Config.ini
+2016-01-17 18:01:00,341 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 18:01:00,341 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\connection_files\sde@tsumeb@localhost.sde
 
-2016-01-15 14:14:24,790 INFO 
+2016-01-17 18:01:00,341 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\tsumeb_reconcile.log
-2016-01-15 14:15:01,661 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-15-01
-------------------------------------------------------------------
-
-2016-01-15 14:15:08,247 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-15-08
+2016-01-17 18:01:04,160 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_18-01-04
 ------------------------------------------------------------------
 
-2016-01-15 14:15:08,250 INFO 
- Local Authority : rundu
-2016-01-15 14:15:08,250 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\Config.ini
-2016-01-15 14:15:08,250 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:15:08,250 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\connection_files\sde@rundu@localhost.sde
-
-2016-01-15 14:15:08,250 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\rundu_reconcile.log
-2016-01-15 14:16:51,461 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-16-51
+2016-01-17 18:01:10,420 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_18-01-10
 ------------------------------------------------------------------
 
-2016-01-15 14:16:57,661 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-16-57
-------------------------------------------------------------------
-
-2016-01-15 14:16:57,664 INFO 
- Local Authority : okahandja
-2016-01-15 14:16:57,664 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\Config.ini
-2016-01-15 14:16:57,664 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:16:57,664 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\connection_files\sde@okahandja@localhost.sde
-
-2016-01-15 14:16:57,665 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\okahandja_reconcile.log
-2016-01-15 14:17:29,963 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-17-29
-------------------------------------------------------------------
-
-2016-01-15 14:18:35,224 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-18-35
-------------------------------------------------------------------
-
-2016-01-15 14:18:35,226 INFO 
- Local Authority : otjiwarongo
-2016-01-15 14:18:35,226 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
-2016-01-15 14:18:35,226 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:18:35,226 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\sde@otjiwarongo@localhost.sde
-
-2016-01-15 14:18:35,226 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\otjiwarongo_reconcile.log
-2016-01-15 14:19:08,970 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-19-08
-------------------------------------------------------------------
-
-2016-01-15 14:19:15,053 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-19-15
-------------------------------------------------------------------
-
-2016-01-15 14:19:15,055 INFO 
- Local Authority : outapi
-2016-01-15 14:19:15,055 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
-2016-01-15 14:19:15,055 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:19:15,055 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\sde@outapi@localhost.sde
-
-2016-01-15 14:19:15,055 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\outapi_reconcile.log
-2016-01-15 14:19:36,118 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-19-36
-------------------------------------------------------------------
-
-2016-01-15 14:19:42,543 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-19-42
-------------------------------------------------------------------
-
-2016-01-15 14:19:42,545 INFO 
- Local Authority : keetmanshoop
-2016-01-15 14:19:42,545 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
-2016-01-15 14:19:42,545 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:19:42,545 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\sde@keetmanshoop@localhost.sde
-
-2016-01-15 14:19:42,545 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\keetmanshoop_reconcile.log
-2016-01-15 14:20:06,825 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-20-06
-------------------------------------------------------------------
-
-2016-01-15 14:20:13,776 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-20-13
-------------------------------------------------------------------
-
-2016-01-15 14:20:13,776 INFO 
- Local Authority : oshakati
-2016-01-15 14:20:13,776 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
-2016-01-15 14:20:13,776 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:20:13,776 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\sde@oshakati@localhost.sde
-
-2016-01-15 14:20:13,776 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\oshakati_reconcile.log
-2016-01-15 14:20:34,971 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-20-34
-------------------------------------------------------------------
-
-2016-01-15 14:20:42,230 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-20-42
-------------------------------------------------------------------
-
-2016-01-15 14:20:42,230 INFO 
- Local Authority : walvis_bay
-2016-01-15 14:20:42,230 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
-2016-01-15 14:20:42,230 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:20:42,230 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\sde@walvis_bay@localhost.sde
-
-2016-01-15 14:20:42,230 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\walvis_bay_reconcile.log
-2016-01-15 14:22:09,223 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-22-09
-------------------------------------------------------------------
-
-2016-01-15 14:22:15,799 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-22-15
-------------------------------------------------------------------
-
-2016-01-15 14:22:15,799 INFO 
- Local Authority : helao_nafidi
-2016-01-15 14:22:15,799 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
-2016-01-15 14:22:15,801 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:22:15,801 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\sde@helao_nafidi@localhost.sde
-
-2016-01-15 14:22:15,801 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\helao_nafidi_reconcile.log
-2016-01-15 14:22:35,713 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-22-35
-------------------------------------------------------------------
-
-2016-01-15 14:22:43,479 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-22-43
-------------------------------------------------------------------
-
-2016-01-15 14:22:43,480 INFO 
- Local Authority : katima_mulilo
-2016-01-15 14:22:43,480 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
-2016-01-15 14:22:43,480 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:22:43,480 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\sde@katima_mulilo@localhost.sde
-
-2016-01-15 14:22:43,480 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\katima_mulilo_reconcile.log
-2016-01-15 14:23:09,720 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-23-09
-------------------------------------------------------------------
-
-2016-01-15 14:23:17,321 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-23-17
-------------------------------------------------------------------
-
-2016-01-15 14:23:17,321 INFO 
+2016-01-17 18:01:10,421 INFO 
  Local Authority : tsumeb
-2016-01-15 14:23:17,344 INFO 
+2016-01-17 18:01:10,421 INFO 
  Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\Config.ini
-2016-01-15 14:23:17,345 INFO currDirDotNet path : 
+2016-01-17 18:01:10,421 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:23:17,345 INFO ConnSDE path : 
+2016-01-17 18:01:10,421 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\connection_files\sde@tsumeb@localhost.sde
 
-2016-01-15 14:23:17,345 INFO 
+2016-01-17 18:01:10,421 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\tsumeb_reconcile.log
-2016-01-15 14:23:40,647 INFO 
+2016-01-17 18:01:27,430 INFO 
 Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-23-40
-------------------------------------------------------------------
-
-2016-01-15 14:23:47,246 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-23-47
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_18-01-27
 ------------------------------------------------------------------
 
-2016-01-15 14:23:47,246 INFO 
+2016-01-17 18:01:34,622 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_18-01-34
+------------------------------------------------------------------
+
+2016-01-17 18:01:34,624 INFO 
  Local Authority : rundu
-2016-01-15 14:23:47,246 INFO 
+2016-01-17 18:01:34,624 INFO 
  Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\Config.ini
-2016-01-15 14:23:47,246 INFO currDirDotNet path : 
+2016-01-17 18:01:34,625 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:23:47,246 INFO ConnSDE path : 
+2016-01-17 18:01:34,625 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\connection_files\sde@rundu@localhost.sde
 
-2016-01-15 14:23:47,246 INFO 
+2016-01-17 18:01:34,625 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\rundu_reconcile.log
-2016-01-15 14:24:52,217 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-24-52
-------------------------------------------------------------------
-
-2016-01-15 14:24:58,651 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-24-58
+2016-01-17 18:01:40,184 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_18-01-40
 ------------------------------------------------------------------
 
-2016-01-15 14:24:58,651 INFO 
- Local Authority : okahandja
-2016-01-15 14:24:58,651 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\Config.ini
-2016-01-15 14:24:58,651 INFO currDirDotNet path : 
+2016-01-17 18:01:46,984 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_18-01-46
+------------------------------------------------------------------
+
+2016-01-17 18:01:46,986 INFO 
+ Local Authority : rundu
+2016-01-17 18:01:46,986 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\Config.ini
+2016-01-17 18:01:46,986 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:24:58,653 INFO ConnSDE path : 
+2016-01-17 18:01:46,986 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\connection_files\sde@rundu@localhost.sde
+
+2016-01-17 18:01:46,986 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\rundu_reconcile.log
+2016-01-17 18:03:04,743 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_18-03-04
+------------------------------------------------------------------
+
+2016-01-17 18:03:11,522 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_18-03-11
+------------------------------------------------------------------
+
+2016-01-17 18:03:11,523 INFO 
+ Local Authority : okahandja
+2016-01-17 18:03:11,523 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\Config.ini
+2016-01-17 18:03:11,523 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 18:03:11,523 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\connection_files\sde@okahandja@localhost.sde
 
-2016-01-15 14:24:58,653 INFO 
+2016-01-17 18:03:11,523 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\okahandja_reconcile.log
-2016-01-15 14:25:22,793 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-25-22
-------------------------------------------------------------------
-
-2016-01-15 14:28:36,529 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-28-36
+2016-01-17 18:03:15,456 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_18-03-15
 ------------------------------------------------------------------
 
-2016-01-15 14:28:36,530 INFO 
- Local Authority : otjiwarongo
-2016-01-15 14:28:36,530 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
-2016-01-15 14:28:36,530 INFO currDirDotNet path : 
+2016-01-17 18:03:21,546 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_18-03-21
+------------------------------------------------------------------
+
+2016-01-17 18:03:21,548 INFO 
+ Local Authority : okahandja
+2016-01-17 18:03:21,548 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\Config.ini
+2016-01-17 18:03:21,548 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:28:36,530 INFO ConnSDE path : 
+2016-01-17 18:03:21,548 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\connection_files\sde@okahandja@localhost.sde
+
+2016-01-17 18:03:21,548 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\okahandja_reconcile.log
+2016-01-17 18:03:42,612 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_18-03-42
+------------------------------------------------------------------
+
+2016-01-17 18:05:03,523 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_18-05-03
+------------------------------------------------------------------
+
+2016-01-17 18:05:03,523 INFO 
+ Local Authority : otjiwarongo
+2016-01-17 18:05:03,525 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
+2016-01-17 18:05:03,525 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 18:05:03,525 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\sde@otjiwarongo@localhost.sde
 
-2016-01-15 14:28:36,530 INFO 
+2016-01-17 18:05:03,525 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\otjiwarongo_reconcile.log
-2016-01-15 14:29:12,552 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-29-12
-------------------------------------------------------------------
-
-2016-01-15 14:29:24,631 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-29-24
+2016-01-17 18:05:36,167 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_18-05-36
 ------------------------------------------------------------------
 
-2016-01-15 14:29:24,634 INFO 
- Local Authority : outapi
-2016-01-15 14:29:24,634 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
-2016-01-15 14:29:24,634 INFO currDirDotNet path : 
+2016-01-17 18:06:40,190 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_18-06-40
+------------------------------------------------------------------
+
+2016-01-17 18:06:40,191 INFO 
+ Local Authority : otjiwarongo
+2016-01-17 18:06:40,191 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
+2016-01-17 18:06:40,193 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:29:24,634 INFO ConnSDE path : 
+2016-01-17 18:06:40,193 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\sde@otjiwarongo@localhost.sde
+
+2016-01-17 18:06:40,193 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\otjiwarongo_reconcile.log
+2016-01-17 19:39:15,582 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_19-39-15
+------------------------------------------------------------------
+
+2016-01-17 19:39:22,631 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_19-39-22
+------------------------------------------------------------------
+
+2016-01-17 19:39:22,632 INFO 
+ Local Authority : outapi
+2016-01-17 19:39:22,632 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
+2016-01-17 19:39:22,634 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 19:39:22,634 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\sde@outapi@localhost.sde
 
-2016-01-15 14:29:24,634 INFO 
+2016-01-17 19:39:22,634 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\outapi_reconcile.log
-2016-01-15 14:29:45,476 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-29-45
-------------------------------------------------------------------
-
-2016-01-15 14:29:52,078 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-29-52
+2016-01-17 19:39:31,459 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_19-39-31
 ------------------------------------------------------------------
 
-2016-01-15 14:29:52,082 INFO 
- Local Authority : keetmanshoop
-2016-01-15 14:29:52,082 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
-2016-01-15 14:29:52,082 INFO currDirDotNet path : 
+2016-01-17 19:39:38,680 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_19-39-38
+------------------------------------------------------------------
+
+2016-01-17 19:39:38,680 INFO 
+ Local Authority : outapi
+2016-01-17 19:39:38,680 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
+2016-01-17 19:39:38,680 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:29:52,082 INFO ConnSDE path : 
+2016-01-17 19:39:38,680 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\sde@outapi@localhost.sde
+
+2016-01-17 19:39:38,680 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\outapi_reconcile.log
+2016-01-17 19:40:01,894 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_19-40-01
+------------------------------------------------------------------
+
+2016-01-17 19:40:08,667 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_19-40-08
+------------------------------------------------------------------
+
+2016-01-17 19:40:08,667 INFO 
+ Local Authority : keetmanshoop
+2016-01-17 19:40:08,667 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
+2016-01-17 19:40:08,668 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 19:40:08,668 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\sde@keetmanshoop@localhost.sde
 
-2016-01-15 14:29:52,082 INFO 
+2016-01-17 19:40:08,668 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\keetmanshoop_reconcile.log
-2016-01-15 14:30:15,618 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-30-15
-------------------------------------------------------------------
-
-2016-01-15 14:30:22,201 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-30-22
+2016-01-17 19:40:17,109 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_19-40-17
 ------------------------------------------------------------------
 
-2016-01-15 14:30:22,204 INFO 
- Local Authority : oshakati
-2016-01-15 14:30:22,204 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
-2016-01-15 14:30:22,204 INFO currDirDotNet path : 
+2016-01-17 19:40:23,448 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_19-40-23
+------------------------------------------------------------------
+
+2016-01-17 19:40:23,450 INFO 
+ Local Authority : keetmanshoop
+2016-01-17 19:40:23,450 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
+2016-01-17 19:40:23,450 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:30:22,204 INFO ConnSDE path : 
+2016-01-17 19:40:23,450 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\sde@keetmanshoop@localhost.sde
+
+2016-01-17 19:40:23,450 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\keetmanshoop_reconcile.log
+2016-01-17 19:40:44,842 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_19-40-44
+------------------------------------------------------------------
+
+2016-01-17 19:40:58,260 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_19-40-58
+------------------------------------------------------------------
+
+2016-01-17 19:40:58,262 INFO 
+ Local Authority : oshakati
+2016-01-17 19:40:58,262 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
+2016-01-17 19:40:58,262 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 19:40:58,262 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\sde@oshakati@localhost.sde
 
-2016-01-15 14:30:22,206 INFO 
+2016-01-17 19:40:58,263 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\oshakati_reconcile.log
-2016-01-15 14:30:42,658 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-30-42
-------------------------------------------------------------------
-
-2016-01-15 14:30:48,950 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-30-48
+2016-01-17 19:41:07,224 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_19-41-07
 ------------------------------------------------------------------
 
-2016-01-15 14:30:48,953 INFO 
- Local Authority : walvis_bay
-2016-01-15 14:30:48,953 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
-2016-01-15 14:30:48,953 INFO currDirDotNet path : 
+2016-01-17 19:41:13,783 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_19-41-13
+------------------------------------------------------------------
+
+2016-01-17 19:41:13,785 INFO 
+ Local Authority : oshakati
+2016-01-17 19:41:13,785 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
+2016-01-17 19:41:13,785 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:30:48,953 INFO ConnSDE path : 
+2016-01-17 19:41:13,786 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\sde@oshakati@localhost.sde
+
+2016-01-17 19:41:13,786 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\oshakati_reconcile.log
+2016-01-17 19:41:41,933 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_19-41-41
+------------------------------------------------------------------
+
+2016-01-17 19:41:48,726 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_19-41-48
+------------------------------------------------------------------
+
+2016-01-17 19:41:48,726 INFO 
+ Local Authority : walvis_bay
+2016-01-17 19:41:48,726 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
+2016-01-17 19:41:48,726 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 19:41:48,726 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\sde@walvis_bay@localhost.sde
 
-2016-01-15 14:30:48,953 INFO 
+2016-01-17 19:41:48,727 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\walvis_bay_reconcile.log
-2016-01-15 14:32:16,220 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-32-16
-------------------------------------------------------------------
-
-2016-01-15 14:32:23,085 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-32-23
+2016-01-17 19:41:57,503 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_19-41-57
 ------------------------------------------------------------------
 
-2016-01-15 14:32:23,085 INFO 
- Local Authority : helao_nafidi
-2016-01-15 14:32:23,085 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
-2016-01-15 14:32:23,085 INFO currDirDotNet path : 
+2016-01-17 19:42:04,029 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_19-42-04
+------------------------------------------------------------------
+
+2016-01-17 19:42:04,030 INFO 
+ Local Authority : walvis_bay
+2016-01-17 19:42:04,030 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
+2016-01-17 19:42:04,030 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:32:23,085 INFO ConnSDE path : 
+2016-01-17 19:42:04,030 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\sde@walvis_bay@localhost.sde
+
+2016-01-17 19:42:04,032 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\walvis_bay_reconcile.log
+2016-01-17 19:44:11,582 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_19-44-11
+------------------------------------------------------------------
+
+2016-01-17 19:44:18,707 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_19-44-18
+------------------------------------------------------------------
+
+2016-01-17 19:44:18,707 INFO 
+ Local Authority : helao_nafidi
+2016-01-17 19:44:18,707 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
+2016-01-17 19:44:18,707 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 19:44:18,707 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\sde@helao_nafidi@localhost.sde
 
-2016-01-15 14:32:23,085 INFO 
+2016-01-17 19:44:18,707 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\helao_nafidi_reconcile.log
-2016-01-15 14:32:42,632 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-32-42
-------------------------------------------------------------------
-
-2016-01-15 14:32:48,970 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-32-48
+2016-01-17 19:44:26,101 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_19-44-26
 ------------------------------------------------------------------
 
-2016-01-15 14:32:48,973 INFO 
- Local Authority : katima_mulilo
-2016-01-15 14:32:48,973 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
-2016-01-15 14:32:48,973 INFO currDirDotNet path : 
+2016-01-17 19:44:32,884 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_19-44-32
+------------------------------------------------------------------
+
+2016-01-17 19:44:32,884 INFO 
+ Local Authority : helao_nafidi
+2016-01-17 19:44:32,884 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
+2016-01-17 19:44:32,884 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:32:48,973 INFO ConnSDE path : 
+2016-01-17 19:44:32,884 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\sde@helao_nafidi@localhost.sde
+
+2016-01-17 19:44:32,885 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\helao_nafidi_reconcile.log
+2016-01-17 19:44:48,400 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_19-44-48
+------------------------------------------------------------------
+
+2016-01-17 19:44:55,506 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_19-44-55
+------------------------------------------------------------------
+
+2016-01-17 19:44:55,507 INFO 
+ Local Authority : katima_mulilo
+2016-01-17 19:44:55,507 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
+2016-01-17 19:44:55,507 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 19:44:55,509 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\sde@katima_mulilo@localhost.sde
 
-2016-01-15 14:32:48,973 INFO 
+2016-01-17 19:44:55,509 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\katima_mulilo_reconcile.log
-2016-01-15 14:33:14,448 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-33-14
+2016-01-17 19:44:59,253 INFO InvokeComputeStandNo.py PYTHON ERRORS:
+Traceback Info:
+  File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\InvokeComputeStandNo.py", line 147, in <module>
+    Configurations.Configurations_local_authority_id_fieldName)
+
+Error Info:
+    <type 'exceptions.NameError'>: global name 'logger' is not defined
+
+2016-01-17 19:44:59,253 INFO InvokeComputeStandNo.py Geoprocessing  Errors :
+
+
+2016-01-17 19:44:59,253 INFO 
+Failed 
+-------------------------------Compute Stand No-----------------------------------
+End Time : -16-01-17_19-44-59
 ------------------------------------------------------------------
 
-2016-01-15 14:33:20,631 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-33-20
+2016-01-17 19:45:06,213 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_19-45-06
 ------------------------------------------------------------------
 
-2016-01-15 14:33:20,634 INFO 
- Local Authority : tsumeb
-2016-01-15 14:33:20,634 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\Config.ini
-2016-01-15 14:33:20,634 INFO currDirDotNet path : 
+2016-01-17 19:45:06,213 INFO 
+ Local Authority : katima_mulilo
+2016-01-17 19:45:06,213 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
+2016-01-17 19:45:06,213 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:33:20,634 INFO ConnSDE path : 
+2016-01-17 19:45:06,213 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\sde@katima_mulilo@localhost.sde
+
+2016-01-17 19:45:06,213 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\katima_mulilo_reconcile.log
+2016-01-17 19:45:32,207 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_19-45-32
+------------------------------------------------------------------
+
+2016-01-17 19:45:39,605 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_19-45-39
+------------------------------------------------------------------
+
+2016-01-17 19:45:39,607 INFO 
+ Local Authority : tsumeb
+2016-01-17 19:45:39,607 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\Config.ini
+2016-01-17 19:45:39,607 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 19:45:39,608 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\connection_files\sde@tsumeb@localhost.sde
 
-2016-01-15 14:33:20,634 INFO 
+2016-01-17 19:45:39,608 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\tsumeb_reconcile.log
-2016-01-15 14:33:43,796 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-33-43
-------------------------------------------------------------------
-
-2016-01-15 14:33:50,334 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-33-50
+2016-01-17 19:45:48,684 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_19-45-48
 ------------------------------------------------------------------
 
-2016-01-15 14:33:50,335 INFO 
- Local Authority : rundu
-2016-01-15 14:33:50,335 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\Config.ini
-2016-01-15 14:33:50,335 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:33:50,335 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\connection_files\sde@rundu@localhost.sde
-
-2016-01-15 14:33:50,335 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\rundu_reconcile.log
-2016-01-15 14:34:54,148 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-34-54
+2016-01-17 19:45:54,990 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_19-45-54
 ------------------------------------------------------------------
 
-2016-01-15 14:35:00,631 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-35-00
-------------------------------------------------------------------
-
-2016-01-15 14:35:00,632 INFO 
- Local Authority : okahandja
-2016-01-15 14:35:00,632 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\Config.ini
-2016-01-15 14:35:00,634 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:35:00,634 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\connection_files\sde@okahandja@localhost.sde
-
-2016-01-15 14:35:00,634 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\okahandja_reconcile.log
-2016-01-15 14:35:25,161 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-35-25
-------------------------------------------------------------------
-
-2016-01-15 14:38:34,898 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-38-34
-------------------------------------------------------------------
-
-2016-01-15 14:38:34,898 INFO 
- Local Authority : otjiwarongo
-2016-01-15 14:38:34,898 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
-2016-01-15 14:38:34,898 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:38:34,898 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\sde@otjiwarongo@localhost.sde
-
-2016-01-15 14:38:34,898 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\otjiwarongo_reconcile.log
-2016-01-15 14:39:08,555 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-39-08
-------------------------------------------------------------------
-
-2016-01-15 14:39:15,305 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-39-15
-------------------------------------------------------------------
-
-2016-01-15 14:39:15,305 INFO 
- Local Authority : outapi
-2016-01-15 14:39:15,305 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
-2016-01-15 14:39:15,306 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:39:15,306 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\sde@outapi@localhost.sde
-
-2016-01-15 14:39:15,306 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\outapi_reconcile.log
-2016-01-15 14:39:36,361 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-39-36
-------------------------------------------------------------------
-
-2016-01-15 14:39:43,417 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-39-43
-------------------------------------------------------------------
-
-2016-01-15 14:39:43,417 INFO 
- Local Authority : keetmanshoop
-2016-01-15 14:39:43,417 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
-2016-01-15 14:39:43,417 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:39:43,417 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\sde@keetmanshoop@localhost.sde
-
-2016-01-15 14:39:43,417 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\keetmanshoop_reconcile.log
-2016-01-15 14:40:07,907 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-40-07
-------------------------------------------------------------------
-
-2016-01-15 14:40:16,398 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-40-16
-------------------------------------------------------------------
-
-2016-01-15 14:40:16,400 INFO 
- Local Authority : oshakati
-2016-01-15 14:40:16,400 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
-2016-01-15 14:40:16,400 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:40:16,400 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\sde@oshakati@localhost.sde
-
-2016-01-15 14:40:16,401 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\oshakati_reconcile.log
-2016-01-15 14:40:40,125 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-40-40
-------------------------------------------------------------------
-
-2016-01-15 14:40:47,069 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-40-47
-------------------------------------------------------------------
-
-2016-01-15 14:40:47,069 INFO 
- Local Authority : walvis_bay
-2016-01-15 14:40:47,069 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
-2016-01-15 14:40:47,069 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:40:47,069 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\sde@walvis_bay@localhost.sde
-
-2016-01-15 14:40:47,069 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\walvis_bay_reconcile.log
-2016-01-15 14:42:29,318 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-42-29
-------------------------------------------------------------------
-
-2016-01-15 14:42:35,974 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-42-35
-------------------------------------------------------------------
-
-2016-01-15 14:42:35,976 INFO 
- Local Authority : helao_nafidi
-2016-01-15 14:42:35,976 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
-2016-01-15 14:42:35,976 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:42:35,976 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\sde@helao_nafidi@localhost.sde
-
-2016-01-15 14:42:35,976 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\helao_nafidi_reconcile.log
-2016-01-15 14:42:55,815 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-42-55
-------------------------------------------------------------------
-
-2016-01-15 14:43:02,398 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-43-02
-------------------------------------------------------------------
-
-2016-01-15 14:43:02,398 INFO 
- Local Authority : katima_mulilo
-2016-01-15 14:43:02,398 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
-2016-01-15 14:43:02,398 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:43:02,398 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\sde@katima_mulilo@localhost.sde
-
-2016-01-15 14:43:02,398 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\katima_mulilo_reconcile.log
-2016-01-15 14:43:30,118 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-43-30
-------------------------------------------------------------------
-
-2016-01-15 14:43:36,625 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-43-36
-------------------------------------------------------------------
-
-2016-01-15 14:43:36,625 INFO 
+2016-01-17 19:45:54,992 INFO 
  Local Authority : tsumeb
-2016-01-15 14:43:36,625 INFO 
+2016-01-17 19:45:54,992 INFO 
  Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\Config.ini
-2016-01-15 14:43:36,625 INFO currDirDotNet path : 
+2016-01-17 19:45:54,992 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:43:36,625 INFO ConnSDE path : 
+2016-01-17 19:45:54,992 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\connection_files\sde@tsumeb@localhost.sde
 
-2016-01-15 14:43:36,625 INFO 
+2016-01-17 19:45:54,992 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\tsumeb_reconcile.log
-2016-01-15 14:44:09,818 INFO 
+2016-01-17 19:46:19,520 INFO autoReconcileAndPost.py : arcpy.RebuildIndexes_management(connGISADMIN, 'NO_SYSTEM', dataList, 'ALL')PYTHON ERRORS:
+Traceback Info:
+  File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\AutoReconcileAndPost.py", line 299, in <module>
+    arcpy.RebuildIndexes_management(env.workspace, "NO_SYSTEM", dataList, "ALL")
+
+Error Info:
+    <class 'arcgisscripting.ExecuteError'>: Could not rebuild indexes for dataset tsumeb.GISADMIN_TSUMEB.T_Dimensions_1128K.[Operation Failed [[Microsoft][SQL Server Native Client 11.0][SQL Server]SHUTDOWN is in progress.]]
+Failed to execute (RebuildIndexes).
+
+
+2016-01-17 19:46:19,520 INFO autoReconcileAndPost.py Geoprocessing  Errors :
+Could not rebuild indexes for dataset tsumeb.GISADMIN_TSUMEB.T_Dimensions_1128K.[Operation Failed [[Microsoft][SQL Server Native Client 11.0][SQL Server]SHUTDOWN is in progress.]]
+Failed to execute (RebuildIndexes).
+
+
+2016-01-17 19:46:19,536 INFO 
+Failed 
+----------------------Auto Reconcile and Post--------------------------------------------
+End Time : -16-01-17_19-46-19
+------------------------------------------------------------------
+
+2016-01-17 19:46:19,536 INFO 
 Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-44-09
-------------------------------------------------------------------
-
-2016-01-15 14:44:16,555 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-44-16
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_19-46-19
 ------------------------------------------------------------------
 
-2016-01-15 14:44:16,555 INFO 
- Local Authority : rundu
-2016-01-15 14:44:16,555 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\Config.ini
-2016-01-15 14:44:16,555 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:44:16,555 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\connection_files\sde@rundu@localhost.sde
-
-2016-01-15 14:44:16,555 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\rundu_reconcile.log
-2016-01-15 14:45:27,219 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-45-27
+2016-01-17 20:36:16,367 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-36-16
 ------------------------------------------------------------------
 
-2016-01-15 14:45:33,595 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-45-33
-------------------------------------------------------------------
-
-2016-01-15 14:45:33,596 INFO 
- Local Authority : okahandja
-2016-01-15 14:45:33,596 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\Config.ini
-2016-01-15 14:45:33,596 INFO currDirDotNet path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
-
-2016-01-15 14:45:33,596 INFO ConnSDE path : 
-E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\connection_files\sde@okahandja@localhost.sde
-
-2016-01-15 14:45:33,596 INFO 
- Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\okahandja_reconcile.log
-2016-01-15 14:45:58,302 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-45-58
-------------------------------------------------------------------
-
-2016-01-15 14:48:34,937 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-48-34
-------------------------------------------------------------------
-
-2016-01-15 14:48:34,938 INFO 
+2016-01-17 20:36:16,430 INFO 
  Local Authority : otjiwarongo
-2016-01-15 14:48:34,938 INFO 
+2016-01-17 20:36:16,430 INFO 
  Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
-2016-01-15 14:48:34,938 INFO currDirDotNet path : 
+2016-01-17 20:36:16,430 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:48:34,938 INFO ConnSDE path : 
+2016-01-17 20:36:16,430 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\sde@otjiwarongo@localhost.sde
 
-2016-01-15 14:48:34,938 INFO 
+2016-01-17 20:36:16,430 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\otjiwarongo_reconcile.log
-2016-01-15 14:49:12,555 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-49-12
-------------------------------------------------------------------
-
-2016-01-15 14:49:19,262 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-49-19
+2016-01-17 20:36:34,040 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-36-34
 ------------------------------------------------------------------
 
-2016-01-15 14:49:19,263 INFO 
- Local Authority : outapi
-2016-01-15 14:49:19,263 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
-2016-01-15 14:49:19,263 INFO currDirDotNet path : 
+2016-01-17 20:36:45,357 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-36-45
+------------------------------------------------------------------
+
+2016-01-17 20:36:45,358 INFO 
+ Local Authority : otjiwarongo
+2016-01-17 20:36:45,358 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
+2016-01-17 20:36:45,358 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:49:19,263 INFO ConnSDE path : 
+2016-01-17 20:36:45,358 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\sde@otjiwarongo@localhost.sde
+
+2016-01-17 20:36:45,358 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\otjiwarongo_reconcile.log
+2016-01-17 20:37:53,098 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-37-53
+------------------------------------------------------------------
+
+2016-01-17 20:38:03,016 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-38-03
+------------------------------------------------------------------
+
+2016-01-17 20:38:03,020 INFO 
+ Local Authority : outapi
+2016-01-17 20:38:03,020 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
+2016-01-17 20:38:03,020 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:38:03,020 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\sde@outapi@localhost.sde
 
-2016-01-15 14:49:19,263 INFO 
+2016-01-17 20:38:03,020 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\outapi_reconcile.log
-2016-01-15 14:49:41,391 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-49-41
-------------------------------------------------------------------
-
-2016-01-15 14:49:47,540 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-49-47
+2016-01-17 20:38:23,885 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-38-23
 ------------------------------------------------------------------
 
-2016-01-15 14:49:47,540 INFO 
- Local Authority : keetmanshoop
-2016-01-15 14:49:47,540 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
-2016-01-15 14:49:47,542 INFO currDirDotNet path : 
+2016-01-17 20:38:32,197 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-38-32
+------------------------------------------------------------------
+
+2016-01-17 20:38:32,197 INFO 
+ Local Authority : outapi
+2016-01-17 20:38:32,197 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
+2016-01-17 20:38:32,197 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:49:47,542 INFO ConnSDE path : 
+2016-01-17 20:38:32,197 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\sde@outapi@localhost.sde
+
+2016-01-17 20:38:32,197 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\outapi_reconcile.log
+2016-01-17 20:38:55,602 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-38-55
+------------------------------------------------------------------
+
+2016-01-17 20:39:03,868 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-39-03
+------------------------------------------------------------------
+
+2016-01-17 20:39:03,871 INFO 
+ Local Authority : keetmanshoop
+2016-01-17 20:39:03,871 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
+2016-01-17 20:39:03,871 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:39:03,872 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\sde@keetmanshoop@localhost.sde
 
-2016-01-15 14:49:47,542 INFO 
+2016-01-17 20:39:03,872 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\keetmanshoop_reconcile.log
-2016-01-15 14:50:13,168 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-50-13
-------------------------------------------------------------------
-
-2016-01-15 14:50:19,887 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-50-19
+2016-01-17 20:39:08,846 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-39-08
 ------------------------------------------------------------------
 
-2016-01-15 14:50:19,887 INFO 
- Local Authority : oshakati
-2016-01-15 14:50:19,888 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
-2016-01-15 14:50:19,888 INFO currDirDotNet path : 
+2016-01-17 20:39:17,799 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-39-17
+------------------------------------------------------------------
+
+2016-01-17 20:39:17,799 INFO 
+ Local Authority : keetmanshoop
+2016-01-17 20:39:17,799 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
+2016-01-17 20:39:17,799 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:50:19,888 INFO ConnSDE path : 
+2016-01-17 20:39:17,801 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\sde@keetmanshoop@localhost.sde
+
+2016-01-17 20:39:17,801 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\keetmanshoop_reconcile.log
+2016-01-17 20:39:40,170 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-39-40
+------------------------------------------------------------------
+
+2016-01-17 20:39:48,447 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-39-48
+------------------------------------------------------------------
+
+2016-01-17 20:39:48,450 INFO 
+ Local Authority : oshakati
+2016-01-17 20:39:48,450 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
+2016-01-17 20:39:48,450 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:39:48,450 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\sde@oshakati@localhost.sde
 
-2016-01-15 14:50:19,888 INFO 
+2016-01-17 20:39:48,450 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\oshakati_reconcile.log
-2016-01-15 14:50:41,062 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-50-41
-------------------------------------------------------------------
-
-2016-01-15 14:50:47,592 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-50-47
+2016-01-17 20:40:05,141 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-40-05
 ------------------------------------------------------------------
 
-2016-01-15 14:50:47,594 INFO 
- Local Authority : walvis_bay
-2016-01-15 14:50:47,594 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
-2016-01-15 14:50:47,594 INFO currDirDotNet path : 
+2016-01-17 20:40:11,572 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-40-11
+------------------------------------------------------------------
+
+2016-01-17 20:40:11,573 INFO 
+ Local Authority : oshakati
+2016-01-17 20:40:11,573 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
+2016-01-17 20:40:11,573 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:50:47,594 INFO ConnSDE path : 
+2016-01-17 20:40:11,573 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\sde@oshakati@localhost.sde
+
+2016-01-17 20:40:11,575 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\oshakati_reconcile.log
+2016-01-17 20:40:30,851 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-40-30
+------------------------------------------------------------------
+
+2016-01-17 20:40:38,844 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-40-38
+------------------------------------------------------------------
+
+2016-01-17 20:40:38,846 INFO 
+ Local Authority : walvis_bay
+2016-01-17 20:40:38,846 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
+2016-01-17 20:40:38,846 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:40:38,846 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\sde@walvis_bay@localhost.sde
 
-2016-01-15 14:50:47,594 INFO 
+2016-01-17 20:40:38,846 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\walvis_bay_reconcile.log
-2016-01-15 14:52:26,032 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-52-26
-------------------------------------------------------------------
-
-2016-01-15 14:52:32,461 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-52-32
+2016-01-17 20:40:58,654 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-40-58
 ------------------------------------------------------------------
 
-2016-01-15 14:52:32,463 INFO 
- Local Authority : helao_nafidi
-2016-01-15 14:52:32,463 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
-2016-01-15 14:52:32,463 INFO currDirDotNet path : 
+2016-01-17 20:41:04,740 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-41-04
+------------------------------------------------------------------
+
+2016-01-17 20:41:04,740 INFO 
+ Local Authority : walvis_bay
+2016-01-17 20:41:04,740 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
+2016-01-17 20:41:04,740 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:52:32,463 INFO ConnSDE path : 
+2016-01-17 20:41:04,740 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\sde@walvis_bay@localhost.sde
+
+2016-01-17 20:41:04,740 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\walvis_bay_reconcile.log
+2016-01-17 20:42:39,983 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-42-39
+------------------------------------------------------------------
+
+2016-01-17 20:42:47,157 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-42-47
+------------------------------------------------------------------
+
+2016-01-17 20:42:47,158 INFO 
+ Local Authority : helao_nafidi
+2016-01-17 20:42:47,158 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
+2016-01-17 20:42:47,160 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:42:47,160 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\sde@helao_nafidi@localhost.sde
 
-2016-01-15 14:52:32,463 INFO 
+2016-01-17 20:42:47,160 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\helao_nafidi_reconcile.log
-2016-01-15 14:52:53,408 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-52-53
-------------------------------------------------------------------
-
-2016-01-15 14:53:00,154 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-53-00
+2016-01-17 20:42:55,651 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-42-55
 ------------------------------------------------------------------
 
-2016-01-15 14:53:00,154 INFO 
- Local Authority : katima_mulilo
-2016-01-15 14:53:00,154 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
-2016-01-15 14:53:00,154 INFO currDirDotNet path : 
+2016-01-17 20:43:01,861 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-43-01
+------------------------------------------------------------------
+
+2016-01-17 20:43:01,862 INFO 
+ Local Authority : helao_nafidi
+2016-01-17 20:43:01,862 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
+2016-01-17 20:43:01,862 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:53:00,154 INFO ConnSDE path : 
+2016-01-17 20:43:01,862 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\sde@helao_nafidi@localhost.sde
+
+2016-01-17 20:43:01,862 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\helao_nafidi_reconcile.log
+2016-01-17 20:43:14,631 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-43-14
+------------------------------------------------------------------
+
+2016-01-17 20:43:21,677 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-43-21
+------------------------------------------------------------------
+
+2016-01-17 20:43:21,680 INFO 
+ Local Authority : katima_mulilo
+2016-01-17 20:43:21,680 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
+2016-01-17 20:43:21,680 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:43:21,680 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\sde@katima_mulilo@localhost.sde
 
-2016-01-15 14:53:00,154 INFO 
+2016-01-17 20:43:21,680 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\katima_mulilo_reconcile.log
-2016-01-15 14:53:27,670 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-53-27
+2016-01-17 20:43:23,522 INFO InvokeComputeStandNo.py PYTHON ERRORS:
+Traceback Info:
+  File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\InvokeComputeStandNo.py", line 147, in <module>
+    Configurations.Configurations_local_authority_id_fieldName)
+
+Error Info:
+    <type 'exceptions.NameError'>: global name 'logger' is not defined
+
+2016-01-17 20:43:23,522 INFO InvokeComputeStandNo.py Geoprocessing  Errors :
+
+
+2016-01-17 20:43:23,522 INFO 
+Failed 
+-------------------------------Compute Stand No-----------------------------------
+End Time : -16-01-17_20-43-23
 ------------------------------------------------------------------
 
-2016-01-15 14:53:34,753 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-53-34
+2016-01-17 20:43:30,526 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-43-30
 ------------------------------------------------------------------
 
-2016-01-15 14:53:34,753 INFO 
- Local Authority : tsumeb
-2016-01-15 14:53:34,753 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\Config.ini
-2016-01-15 14:53:34,753 INFO currDirDotNet path : 
+2016-01-17 20:43:30,528 INFO 
+ Local Authority : katima_mulilo
+2016-01-17 20:43:30,528 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
+2016-01-17 20:43:30,528 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:53:34,753 INFO ConnSDE path : 
+2016-01-17 20:43:30,528 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\sde@katima_mulilo@localhost.sde
+
+2016-01-17 20:43:30,528 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\katima_mulilo_reconcile.log
+2016-01-17 20:43:48,836 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-43-48
+------------------------------------------------------------------
+
+2016-01-17 20:43:55,285 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-43-55
+------------------------------------------------------------------
+
+2016-01-17 20:43:55,286 INFO 
+ Local Authority : tsumeb
+2016-01-17 20:43:55,286 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\Config.ini
+2016-01-17 20:43:55,286 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:43:55,286 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\connection_files\sde@tsumeb@localhost.sde
 
-2016-01-15 14:53:34,753 INFO 
+2016-01-17 20:43:55,286 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\tsumeb_reconcile.log
-2016-01-15 14:54:01,062 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-54-01
-------------------------------------------------------------------
-
-2016-01-15 14:54:07,747 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-54-07
+2016-01-17 20:44:01,982 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-44-01
 ------------------------------------------------------------------
 
-2016-01-15 14:54:07,749 INFO 
- Local Authority : rundu
-2016-01-15 14:54:07,749 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\Config.ini
-2016-01-15 14:54:07,749 INFO currDirDotNet path : 
+2016-01-17 20:44:07,937 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-44-07
+------------------------------------------------------------------
+
+2016-01-17 20:44:07,937 INFO 
+ Local Authority : tsumeb
+2016-01-17 20:44:07,937 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\Config.ini
+2016-01-17 20:44:07,937 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:54:07,749 INFO ConnSDE path : 
+2016-01-17 20:44:07,937 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\connection_files\sde@tsumeb@localhost.sde
+
+2016-01-17 20:44:07,937 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\tsumeb_reconcile.log
+2016-01-17 20:44:24,355 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-44-24
+------------------------------------------------------------------
+
+2016-01-17 20:44:30,848 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-44-30
+------------------------------------------------------------------
+
+2016-01-17 20:44:30,851 INFO 
+ Local Authority : rundu
+2016-01-17 20:44:30,851 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\Config.ini
+2016-01-17 20:44:30,851 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:44:30,851 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\connection_files\sde@rundu@localhost.sde
 
-2016-01-15 14:54:07,750 INFO 
+2016-01-17 20:44:30,851 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\rundu_reconcile.log
-2016-01-15 14:55:22,569 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-55-22
-------------------------------------------------------------------
-
-2016-01-15 14:55:28,976 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-55-28
+2016-01-17 20:44:43,703 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-44-43
 ------------------------------------------------------------------
 
-2016-01-15 14:55:28,976 INFO 
- Local Authority : okahandja
-2016-01-15 14:55:28,976 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\Config.ini
-2016-01-15 14:55:28,976 INFO currDirDotNet path : 
+2016-01-17 20:44:49,953 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-44-49
+------------------------------------------------------------------
+
+2016-01-17 20:44:49,954 INFO 
+ Local Authority : rundu
+2016-01-17 20:44:49,954 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\Config.ini
+2016-01-17 20:44:49,954 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:55:28,976 INFO ConnSDE path : 
+2016-01-17 20:44:49,954 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\connection_files\sde@rundu@localhost.sde
+
+2016-01-17 20:44:49,954 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\rundu_reconcile.log
+2016-01-17 20:45:55,384 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-45-55
+------------------------------------------------------------------
+
+2016-01-17 20:46:02,428 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-46-02
+------------------------------------------------------------------
+
+2016-01-17 20:46:02,433 INFO 
+ Local Authority : okahandja
+2016-01-17 20:46:02,433 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\Config.ini
+2016-01-17 20:46:02,433 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:46:02,433 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\connection_files\sde@okahandja@localhost.sde
 
-2016-01-15 14:55:28,976 INFO 
+2016-01-17 20:46:02,433 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\okahandja_reconcile.log
-2016-01-15 14:55:54,266 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-55-54
-------------------------------------------------------------------
-
-2016-01-15 14:58:34,869 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-58-34
+2016-01-17 20:46:10,476 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-46-10
 ------------------------------------------------------------------
 
-2016-01-15 14:58:34,869 INFO 
- Local Authority : otjiwarongo
-2016-01-15 14:58:34,871 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
-2016-01-15 14:58:34,871 INFO currDirDotNet path : 
+2016-01-17 20:46:17,062 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-46-17
+------------------------------------------------------------------
+
+2016-01-17 20:46:17,062 INFO 
+ Local Authority : okahandja
+2016-01-17 20:46:17,062 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\Config.ini
+2016-01-17 20:46:17,062 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:58:34,871 INFO ConnSDE path : 
+2016-01-17 20:46:17,062 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\connection_files\sde@okahandja@localhost.sde
+
+2016-01-17 20:46:17,062 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\okahandja_reconcile.log
+2016-01-17 20:46:36,423 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-46-36
+------------------------------------------------------------------
+
+2016-01-17 20:51:13,440 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-51-13
+------------------------------------------------------------------
+
+2016-01-17 20:51:13,440 INFO 
+ Local Authority : otjiwarongo
+2016-01-17 20:51:13,440 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
+2016-01-17 20:51:13,440 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:51:13,440 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\sde@otjiwarongo@localhost.sde
 
-2016-01-15 14:58:34,871 INFO 
+2016-01-17 20:51:13,440 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\otjiwarongo_reconcile.log
-2016-01-15 14:59:12,105 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-59-12
-------------------------------------------------------------------
-
-2016-01-15 14:59:18,493 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-59-18
+2016-01-17 20:51:16,729 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-51-16
 ------------------------------------------------------------------
 
-2016-01-15 14:59:18,493 INFO 
- Local Authority : outapi
-2016-01-15 14:59:18,493 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
-2016-01-15 14:59:18,493 INFO currDirDotNet path : 
+2016-01-17 20:51:22,721 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-51-22
+------------------------------------------------------------------
+
+2016-01-17 20:51:22,723 INFO 
+ Local Authority : otjiwarongo
+2016-01-17 20:51:22,723 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
+2016-01-17 20:51:22,723 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:59:18,493 INFO ConnSDE path : 
+2016-01-17 20:51:22,723 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\sde@otjiwarongo@localhost.sde
+
+2016-01-17 20:51:22,723 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\otjiwarongo_reconcile.log
+2016-01-17 20:51:46,127 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-51-46
+------------------------------------------------------------------
+
+2016-01-17 20:51:52,736 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-51-52
+------------------------------------------------------------------
+
+2016-01-17 20:51:52,736 INFO 
+ Local Authority : outapi
+2016-01-17 20:51:52,736 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
+2016-01-17 20:51:52,736 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:51:52,736 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\sde@outapi@localhost.sde
 
-2016-01-15 14:59:18,493 INFO 
+2016-01-17 20:51:52,736 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\outapi_reconcile.log
-2016-01-15 14:59:40,502 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_14-59-40
-------------------------------------------------------------------
-
-2016-01-15 14:59:46,799 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_14-59-46
+2016-01-17 20:51:55,611 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-51-55
 ------------------------------------------------------------------
 
-2016-01-15 14:59:46,799 INFO 
- Local Authority : keetmanshoop
-2016-01-15 14:59:46,799 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
-2016-01-15 14:59:46,799 INFO currDirDotNet path : 
+2016-01-17 20:52:01,644 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-52-01
+------------------------------------------------------------------
+
+2016-01-17 20:52:01,645 INFO 
+ Local Authority : outapi
+2016-01-17 20:52:01,645 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
+2016-01-17 20:52:01,645 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 14:59:46,799 INFO ConnSDE path : 
+2016-01-17 20:52:01,645 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\sde@outapi@localhost.sde
+
+2016-01-17 20:52:01,647 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\outapi_reconcile.log
+2016-01-17 20:52:11,732 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-52-11
+------------------------------------------------------------------
+
+2016-01-17 20:52:18,325 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-52-18
+------------------------------------------------------------------
+
+2016-01-17 20:52:18,325 INFO 
+ Local Authority : keetmanshoop
+2016-01-17 20:52:18,325 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
+2016-01-17 20:52:18,325 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:52:18,325 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\sde@keetmanshoop@localhost.sde
 
-2016-01-15 14:59:46,799 INFO 
+2016-01-17 20:52:18,325 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\keetmanshoop_reconcile.log
-2016-01-15 15:00:12,359 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_15-00-12
-------------------------------------------------------------------
-
-2016-01-15 15:00:18,891 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_15-00-18
+2016-01-17 20:52:21,670 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-52-21
 ------------------------------------------------------------------
 
-2016-01-15 15:00:18,892 INFO 
- Local Authority : oshakati
-2016-01-15 15:00:18,892 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
-2016-01-15 15:00:18,892 INFO currDirDotNet path : 
+2016-01-17 20:52:30,619 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-52-30
+------------------------------------------------------------------
+
+2016-01-17 20:52:30,619 INFO 
+ Local Authority : keetmanshoop
+2016-01-17 20:52:30,619 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
+2016-01-17 20:52:30,619 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 15:00:18,892 INFO ConnSDE path : 
+2016-01-17 20:52:30,621 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\sde@keetmanshoop@localhost.sde
+
+2016-01-17 20:52:30,621 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\keetmanshoop_reconcile.log
+2016-01-17 20:52:44,990 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-52-44
+------------------------------------------------------------------
+
+2016-01-17 20:53:00,404 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-53-00
+------------------------------------------------------------------
+
+2016-01-17 20:53:00,404 INFO 
+ Local Authority : oshakati
+2016-01-17 20:53:00,404 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
+2016-01-17 20:53:00,404 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:53:00,404 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\sde@oshakati@localhost.sde
 
-2016-01-15 15:00:18,892 INFO 
+2016-01-17 20:53:00,405 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\oshakati_reconcile.log
-2016-01-15 15:00:40,349 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_15-00-40
-------------------------------------------------------------------
-
-2016-01-15 15:00:46,845 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_15-00-46
+2016-01-17 20:53:03,753 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-53-03
 ------------------------------------------------------------------
 
-2016-01-15 15:00:46,845 INFO 
- Local Authority : walvis_bay
-2016-01-15 15:00:46,845 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
-2016-01-15 15:00:46,845 INFO currDirDotNet path : 
+2016-01-17 20:53:13,641 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-53-13
+------------------------------------------------------------------
+
+2016-01-17 20:53:13,641 INFO 
+ Local Authority : oshakati
+2016-01-17 20:53:13,641 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
+2016-01-17 20:53:13,641 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 15:00:46,845 INFO ConnSDE path : 
+2016-01-17 20:53:13,641 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\sde@oshakati@localhost.sde
+
+2016-01-17 20:53:13,641 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\oshakati_reconcile.log
+2016-01-17 20:53:26,983 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-53-26
+------------------------------------------------------------------
+
+2016-01-17 20:53:42,936 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-53-42
+------------------------------------------------------------------
+
+2016-01-17 20:53:42,937 INFO 
+ Local Authority : walvis_bay
+2016-01-17 20:53:42,937 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
+2016-01-17 20:53:42,937 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:53:42,937 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\sde@walvis_bay@localhost.sde
 
-2016-01-15 15:00:46,845 INFO 
+2016-01-17 20:53:42,937 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\walvis_bay_reconcile.log
-2016-01-15 15:02:23,030 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_15-02-23
-------------------------------------------------------------------
-
-2016-01-15 15:02:29,542 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_15-02-29
+2016-01-17 20:53:48,706 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-53-48
 ------------------------------------------------------------------
 
-2016-01-15 15:02:29,542 INFO 
- Local Authority : helao_nafidi
-2016-01-15 15:02:29,542 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
-2016-01-15 15:02:29,542 INFO currDirDotNet path : 
+2016-01-17 20:53:57,526 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-53-57
+------------------------------------------------------------------
+
+2016-01-17 20:53:57,526 INFO 
+ Local Authority : walvis_bay
+2016-01-17 20:53:57,526 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\Config.ini
+2016-01-17 20:53:57,526 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 15:02:29,542 INFO ConnSDE path : 
+2016-01-17 20:53:57,528 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\sde@walvis_bay@localhost.sde
+
+2016-01-17 20:53:57,528 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\walvis_bay_reconcile.log
+2016-01-17 20:55:38,707 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-55-38
+------------------------------------------------------------------
+
+2016-01-17 20:55:52,766 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-55-52
+------------------------------------------------------------------
+
+2016-01-17 20:55:52,766 INFO 
+ Local Authority : helao_nafidi
+2016-01-17 20:55:52,766 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
+2016-01-17 20:55:52,766 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:55:52,766 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\sde@helao_nafidi@localhost.sde
 
-2016-01-15 15:02:29,543 INFO 
+2016-01-17 20:55:52,766 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\helao_nafidi_reconcile.log
-2016-01-15 15:02:49,769 INFO 
-Exited with Spectacular Success 
-------------------------------------------------------------------
-End Time : -16-01-15_15-02-49
-------------------------------------------------------------------
-
-2016-01-15 15:02:56,762 INFO 
-------------------------------------------------------------------
-Start Time : -16-01-15_15-02-56
+2016-01-17 20:55:55,766 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-55-55
 ------------------------------------------------------------------
 
-2016-01-15 15:02:56,763 INFO 
- Local Authority : katima_mulilo
-2016-01-15 15:02:56,763 INFO 
- Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
-2016-01-15 15:02:56,763 INFO currDirDotNet path : 
+2016-01-17 20:56:05,167 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-56-05
+------------------------------------------------------------------
+
+2016-01-17 20:56:05,167 INFO 
+ Local Authority : helao_nafidi
+2016-01-17 20:56:05,167 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\Config.ini
+2016-01-17 20:56:05,167 INFO currDirDotNet path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
 
-2016-01-15 15:02:56,763 INFO ConnSDE path : 
+2016-01-17 20:56:05,167 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\sde@helao_nafidi@localhost.sde
+
+2016-01-17 20:56:05,167 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\helao_nafidi_reconcile.log
+2016-01-17 20:56:23,006 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-56-23
+------------------------------------------------------------------
+
+2016-01-17 20:56:34,214 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-56-34
+------------------------------------------------------------------
+
+2016-01-17 20:56:34,216 INFO 
+ Local Authority : katima_mulilo
+2016-01-17 20:56:34,216 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
+2016-01-17 20:56:34,216 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:56:34,216 INFO ConnSDE path : 
 E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\sde@katima_mulilo@localhost.sde
 
-2016-01-15 15:02:56,763 INFO 
+2016-01-17 20:56:34,216 INFO 
  Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\katima_mulilo_reconcile.log
-2016-01-15 15:03:24,940 INFO 
-Exited with Spectacular Success 
+2016-01-17 20:56:37,138 INFO InvokeComputeStandNo.py PYTHON ERRORS:
+Traceback Info:
+  File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\InvokeComputeStandNo.py", line 147, in <module>
+    Configurations.Configurations_local_authority_id_fieldName)
+
+Error Info:
+    <type 'exceptions.NameError'>: global name 'logger' is not defined
+
+2016-01-17 20:56:37,138 INFO InvokeComputeStandNo.py Geoprocessing  Errors :
+
+
+2016-01-17 20:56:37,138 INFO 
+Failed 
+-------------------------------Compute Stand No-----------------------------------
+End Time : -16-01-17_20-56-37
 ------------------------------------------------------------------
-End Time : -16-01-15_15-03-24
+
+2016-01-17 20:56:47,678 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-56-47
+------------------------------------------------------------------
+
+2016-01-17 20:56:47,680 INFO 
+ Local Authority : katima_mulilo
+2016-01-17 20:56:47,680 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\Config.ini
+2016-01-17 20:56:47,680 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:56:47,680 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\sde@katima_mulilo@localhost.sde
+
+2016-01-17 20:56:47,680 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\katima_mulilo_reconcile.log
+2016-01-17 20:57:17,088 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-57-17
+------------------------------------------------------------------
+
+2016-01-17 20:57:26,572 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-57-26
+------------------------------------------------------------------
+
+2016-01-17 20:57:26,572 INFO 
+ Local Authority : tsumeb
+2016-01-17 20:57:26,572 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\Config.ini
+2016-01-17 20:57:26,573 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:57:26,573 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\connection_files\sde@tsumeb@localhost.sde
+
+2016-01-17 20:57:26,573 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\tsumeb_reconcile.log
+2016-01-17 20:57:29,786 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-57-29
+------------------------------------------------------------------
+
+2016-01-17 20:57:36,657 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-57-36
+------------------------------------------------------------------
+
+2016-01-17 20:57:36,657 INFO 
+ Local Authority : tsumeb
+2016-01-17 20:57:36,657 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\Config.ini
+2016-01-17 20:57:36,657 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:57:36,657 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\connection_files\sde@tsumeb@localhost.sde
+
+2016-01-17 20:57:36,657 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\tsumeb_reconcile.log
+2016-01-17 20:57:52,519 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-57-52
+------------------------------------------------------------------
+
+2016-01-17 20:58:00,588 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-58-00
+------------------------------------------------------------------
+
+2016-01-17 20:58:00,588 INFO 
+ Local Authority : rundu
+2016-01-17 20:58:00,588 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\Config.ini
+2016-01-17 20:58:00,588 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:58:00,588 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\connection_files\sde@rundu@localhost.sde
+
+2016-01-17 20:58:00,588 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\rundu_reconcile.log
+2016-01-17 20:58:05,640 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-58-05
+------------------------------------------------------------------
+
+2016-01-17 20:58:18,486 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_20-58-18
+------------------------------------------------------------------
+
+2016-01-17 20:58:18,487 INFO 
+ Local Authority : rundu
+2016-01-17 20:58:18,487 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\Config.ini
+2016-01-17 20:58:18,487 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:58:18,487 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\connection_files\sde@rundu@localhost.sde
+
+2016-01-17 20:58:18,487 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\rundu_reconcile.log
+2016-01-17 20:59:31,234 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_20-59-31
+------------------------------------------------------------------
+
+2016-01-17 20:59:44,911 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_20-59-44
+------------------------------------------------------------------
+
+2016-01-17 20:59:44,913 INFO 
+ Local Authority : okahandja
+2016-01-17 20:59:44,913 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\Config.ini
+2016-01-17 20:59:44,913 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 20:59:44,913 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\connection_files\sde@okahandja@localhost.sde
+
+2016-01-17 20:59:44,913 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\okahandja_reconcile.log
+2016-01-17 20:59:48,823 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_20-59-48
+------------------------------------------------------------------
+
+2016-01-17 21:00:00,242 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_21-00-00
+------------------------------------------------------------------
+
+2016-01-17 21:00:00,243 INFO 
+ Local Authority : okahandja
+2016-01-17 21:00:00,243 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\Config.ini
+2016-01-17 21:00:00,243 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 21:00:00,243 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\connection_files\sde@okahandja@localhost.sde
+
+2016-01-17 21:00:00,243 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\okahandja_reconcile.log
+2016-01-17 21:00:35,688 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_21-00-35
+------------------------------------------------------------------
+
+2016-01-17 21:01:28,532 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_21-01-28
+------------------------------------------------------------------
+
+2016-01-17 21:01:28,536 INFO 
+ Local Authority : otjiwarongo
+2016-01-17 21:01:28,536 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
+2016-01-17 21:01:28,536 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 21:01:28,536 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\sde@otjiwarongo@localhost.sde
+
+2016-01-17 21:01:28,536 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\otjiwarongo_reconcile.log
+2016-01-17 21:01:37,121 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_21-01-37
+------------------------------------------------------------------
+
+2016-01-17 21:02:00,773 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_21-02-00
+------------------------------------------------------------------
+
+2016-01-17 21:02:00,775 INFO 
+ Local Authority : otjiwarongo
+2016-01-17 21:02:00,775 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\Config.ini
+2016-01-17 21:02:00,776 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 21:02:00,776 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\sde@otjiwarongo@localhost.sde
+
+2016-01-17 21:02:00,776 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\otjiwarongo_reconcile.log
+2016-01-17 21:02:37,996 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_21-02-37
+------------------------------------------------------------------
+
+2016-01-17 21:02:45,714 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_21-02-45
+------------------------------------------------------------------
+
+2016-01-17 21:02:45,719 INFO 
+ Local Authority : outapi
+2016-01-17 21:02:45,719 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
+2016-01-17 21:02:45,719 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 21:02:45,719 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\sde@outapi@localhost.sde
+
+2016-01-17 21:02:45,719 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\outapi_reconcile.log
+2016-01-17 21:02:50,191 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_21-02-50
+------------------------------------------------------------------
+
+2016-01-17 21:02:57,141 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_21-02-57
+------------------------------------------------------------------
+
+2016-01-17 21:02:57,141 INFO 
+ Local Authority : outapi
+2016-01-17 21:02:57,141 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\Config.ini
+2016-01-17 21:02:57,142 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 21:02:57,142 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\sde@outapi@localhost.sde
+
+2016-01-17 21:02:57,142 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\outapi_reconcile.log
+2016-01-17 21:03:16,530 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_21-03-16
+------------------------------------------------------------------
+
+2016-01-17 21:03:26,631 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_21-03-26
+------------------------------------------------------------------
+
+2016-01-17 21:03:26,634 INFO 
+ Local Authority : keetmanshoop
+2016-01-17 21:03:26,634 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
+2016-01-17 21:03:26,635 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 21:03:26,635 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\sde@keetmanshoop@localhost.sde
+
+2016-01-17 21:03:26,635 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\keetmanshoop_reconcile.log
+2016-01-17 21:03:31,680 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_21-03-31
+------------------------------------------------------------------
+
+2016-01-17 21:03:41,418 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_21-03-41
+------------------------------------------------------------------
+
+2016-01-17 21:03:41,420 INFO 
+ Local Authority : keetmanshoop
+2016-01-17 21:03:41,420 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\Config.ini
+2016-01-17 21:03:41,421 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 21:03:41,421 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\sde@keetmanshoop@localhost.sde
+
+2016-01-17 21:03:41,421 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\keetmanshoop_reconcile.log
+2016-01-17 21:04:05,247 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_21-04-05
+------------------------------------------------------------------
+
+2016-01-17 21:04:13,086 INFO 
+---------------------------------Compute Stand No---------------------------------
+Start Time : -16-01-17_21-04-13
+------------------------------------------------------------------
+
+2016-01-17 21:04:13,088 INFO 
+ Local Authority : oshakati
+2016-01-17 21:04:13,088 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
+2016-01-17 21:04:13,088 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 21:04:13,088 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\sde@oshakati@localhost.sde
+
+2016-01-17 21:04:13,088 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\oshakati_reconcile.log
+2016-01-17 21:04:17,563 INFO 
+Exited Computing Stand No In Spectacular Success 
+-------------Compute Stand No-----------------------------------------------------
+End Time : -16-01-17_21-04-17
+------------------------------------------------------------------
+
+2016-01-17 21:04:25,446 INFO 
+--------------------------------Auto Reconcile and Post----------------------------------
+Start Time : -16-01-17_21-04-25
+------------------------------------------------------------------
+
+2016-01-17 21:04:25,447 INFO 
+ Local Authority : oshakati
+2016-01-17 21:04:25,447 INFO 
+ Config File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\Config.ini
+2016-01-17 21:04:25,447 INFO currDirDotNet path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities
+
+2016-01-17 21:04:25,447 INFO ConnSDE path : 
+E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\sde@oshakati@localhost.sde
+
+2016-01-17 21:04:25,447 INFO 
+ Reconcile Log File Path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\oshakati_reconcile.log
+2016-01-17 21:04:42,006 INFO 
+Exited with Spectacular Success 
+------------------Auto Reconcile and Post------------------------------------------------
+End Time : -16-01-17_21-04-42
 ------------------------------------------------------------------
 

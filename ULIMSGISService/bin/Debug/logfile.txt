@@ -1,528 +1,1125 @@
-15/01/2016 14:03:29: ULIMS GIS Synchonization Service started
-15/01/2016 14:08:29: Timer ticked and executePythonCode()  method or 
+17/01/2016 17:49:56: ULIMS GIS Synchonization Service started
+17/01/2016 17:54:56: Timer ticked and executePythonCode()  method or 
                 job has been done fired
-15/01/2016 14:09:35: 
-[1] - ------------------------------------------------------------------
-[2] - Start Time : -16-01-15_14-08-39
+17/01/2016 17:55:09: 
+[1] - ---------------------------------Compute Stand No---------------------------------
+[2] - Start Time : -16-01-17_17-55-03
 [3] - ------------------------------------------------------------------
 [4] -  Local Authority : otjiwarongo
-[5] - Exited with Spectacular Success 
-[6] - ------------------------------------------------------------------
-[7] - End Time : -16-01-15_14-09-33
-[8] - ------------------------------------------------------------------
-15/01/2016 14:10:08: 
-[9] - ------------------------------------------------------------------
-[10] - Start Time : -16-01-15_14-09-41
-[11] - ------------------------------------------------------------------
-[12] -  Local Authority : outapi
-[13] - Exited with Spectacular Success 
+[5] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\gisadmin_otjiwarongo@otjiwarongo@localhost.sde
+[6] -  Reference Number/Stand No : ot_stand_no
+[7] -  Feature Class to compute stand number : otjiwarongo_Parcels
+[8] -  Object ID Field Name : OBJECTID
+[9] -  Local Authority ID Field Name : ot_local_authority_id
+[10] - Computation of Stand No's is complete
+[11] - Exited Computing Stand No In Spectacular Success 
+[12] - -------------Compute Stand No-----------------------------------------------------
+[13] - End Time : -16-01-17_17-55-09
 [14] - ------------------------------------------------------------------
-[15] - End Time : -16-01-15_14-10-07
-[16] - ------------------------------------------------------------------
-15/01/2016 14:10:47: 
+17/01/2016 17:55:49: 
+[15] - --------------------------------Auto Reconcile and Post----------------------------------
+[16] - Start Time : -16-01-17_17-55-15
 [17] - ------------------------------------------------------------------
-[18] - Start Time : -16-01-15_14-10-14
-[19] - ------------------------------------------------------------------
-[20] -  Local Authority : keetmanshoop
-[21] - Exited with Spectacular Success 
+[18] -  Local Authority : otjiwarongo
+[19] - Exited with Spectacular Success 
+[20] - ------------------Auto Reconcile and Post------------------------------------------------
+[21] - End Time : -16-01-17_17-55-48
 [22] - ------------------------------------------------------------------
-[23] - End Time : -16-01-15_14-10-46
-[24] - ------------------------------------------------------------------
-15/01/2016 14:11:19: 
+17/01/2016 17:55:59: 
+[23] - ---------------------------------Compute Stand No---------------------------------
+[24] - Start Time : -16-01-17_17-55-55
 [25] - ------------------------------------------------------------------
-[26] - Start Time : -16-01-15_14-10-52
-[27] - ------------------------------------------------------------------
-[28] -  Local Authority : oshakati
-[29] - Exited with Spectacular Success 
-[30] - ------------------------------------------------------------------
-[31] - End Time : -16-01-15_14-11-18
-[32] - ------------------------------------------------------------------
-15/01/2016 14:13:06: 
-[33] - ------------------------------------------------------------------
-[34] - Start Time : -16-01-15_14-11-24
-[35] - ------------------------------------------------------------------
-[36] -  Local Authority : walvis_bay
-[37] - Exited with Spectacular Success 
-[38] - ------------------------------------------------------------------
-[39] - End Time : -16-01-15_14-13-05
-[40] - ------------------------------------------------------------------
-15/01/2016 14:13:39: 
-[41] - ------------------------------------------------------------------
-[42] - Start Time : -16-01-15_14-13-12
-[43] - ------------------------------------------------------------------
-[44] -  Local Authority : helao_nafidi
-[45] - Exited with Spectacular Success 
-[46] - ------------------------------------------------------------------
-[47] - End Time : -16-01-15_14-13-38
-[48] - ------------------------------------------------------------------
-15/01/2016 14:14:18: 
-[49] - ------------------------------------------------------------------
-[50] - Start Time : -16-01-15_14-13-44
-[51] - ------------------------------------------------------------------
-[52] -  Local Authority : katima_mulilo
-[53] - Exited with Spectacular Success 
-[54] - ------------------------------------------------------------------
-[55] - End Time : -16-01-15_14-14-17
-[56] - ------------------------------------------------------------------
-15/01/2016 14:15:02: 
-[57] - ------------------------------------------------------------------
-[58] - Start Time : -16-01-15_14-14-24
-[59] - ------------------------------------------------------------------
-[60] -  Local Authority : tsumeb
-[61] - Exited with Spectacular Success 
-[62] - ------------------------------------------------------------------
-[63] - End Time : -16-01-15_14-15-01
-[64] - ------------------------------------------------------------------
-15/01/2016 14:16:52: 
-[65] - ------------------------------------------------------------------
-[66] - Start Time : -16-01-15_14-15-08
-[67] - ------------------------------------------------------------------
-[68] -  Local Authority : rundu
-[69] - Exited with Spectacular Success 
-[70] - ------------------------------------------------------------------
-[71] - End Time : -16-01-15_14-16-51
-[72] - ------------------------------------------------------------------
-15/01/2016 14:17:31: 
-[73] - ------------------------------------------------------------------
-[74] - Start Time : -16-01-15_14-16-57
-[75] - ------------------------------------------------------------------
-[76] -  Local Authority : okahandja
-[77] - Exited with Spectacular Success 
-[78] - ------------------------------------------------------------------
-[79] - End Time : -16-01-15_14-17-29
+[26] -  Local Authority : outapi
+[27] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\gisadmin_outapi@outapi@localhost.sde
+[28] -  Reference Number/Stand No : up_stand_no
+[29] -  Feature Class to compute stand number : outapi_Parcels
+[30] -  Object ID Field Name : OBJECTID
+[31] -  Local Authority ID Field Name : up_local_authority_id
+[32] - Computation of Stand No's is complete
+[33] - Exited Computing Stand No In Spectacular Success 
+[34] - -------------Compute Stand No-----------------------------------------------------
+[35] - End Time : -16-01-17_17-55-59
+[36] - ------------------------------------------------------------------
+17/01/2016 17:56:21: 
+[37] - --------------------------------Auto Reconcile and Post----------------------------------
+[38] - Start Time : -16-01-17_17-56-05
+[39] - ------------------------------------------------------------------
+[40] -  Local Authority : outapi
+[41] - Exited with Spectacular Success 
+[42] - ------------------Auto Reconcile and Post------------------------------------------------
+[43] - End Time : -16-01-17_17-56-19
+[44] - ------------------------------------------------------------------
+17/01/2016 17:56:31: 
+[45] - ---------------------------------Compute Stand No---------------------------------
+[46] - Start Time : -16-01-17_17-56-26
+[47] - ------------------------------------------------------------------
+[48] -  Local Authority : keetmanshoop
+[49] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\gisadmin_keetmanshoop@keetmanshoop@localhost.sde
+[50] -  Reference Number/Stand No : k_stand_no
+[51] -  Feature Class to compute stand number : keetmanshoop_Parcels
+[52] -  Object ID Field Name : OBJECTID
+[53] -  Local Authority ID Field Name : k_local_authority_id
+[54] - Computation of Stand No's is complete
+[55] - Exited Computing Stand No In Spectacular Success 
+[56] - -------------Compute Stand No-----------------------------------------------------
+[57] - End Time : -16-01-17_17-56-31
+[58] - ------------------------------------------------------------------
+17/01/2016 17:56:56: 
+[59] - --------------------------------Auto Reconcile and Post----------------------------------
+[60] - Start Time : -16-01-17_17-56-37
+[61] - ------------------------------------------------------------------
+[62] -  Local Authority : keetmanshoop
+[63] - Exited with Spectacular Success 
+[64] - ------------------Auto Reconcile and Post------------------------------------------------
+[65] - End Time : -16-01-17_17-56-55
+[66] - ------------------------------------------------------------------
+17/01/2016 17:57:06: 
+[67] - ---------------------------------Compute Stand No---------------------------------
+[68] - Start Time : -16-01-17_17-57-02
+[69] - ------------------------------------------------------------------
+[70] -  Local Authority : oshakati
+[71] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\gisadmin_oshakati@oshakati@localhost.sde
+[72] -  Reference Number/Stand No : sh_stand_no
+[73] -  Feature Class to compute stand number : oshakati_Parcels
+[74] -  Object ID Field Name : OBJECTID
+[75] -  Local Authority ID Field Name : sh_local_authority_id
+[76] - Computation of Stand No's is complete
+[77] - Exited Computing Stand No In Spectacular Success 
+[78] - -------------Compute Stand No-----------------------------------------------------
+[79] - End Time : -16-01-17_17-57-06
 [80] - ------------------------------------------------------------------
-15/01/2016 14:17:31: Timer ticked and executePythonCode()  method or 
-                job has successfully completed(But with a pinch of salt-There could be errors)
-15/01/2016 14:18:29: Timer ticked and executePythonCode()  method or 
-                job has been done fired
-15/01/2016 14:19:10: 
-[81] - ------------------------------------------------------------------
-[82] - Start Time : -16-01-15_14-18-35
+17/01/2016 17:57:31: 
+[81] - --------------------------------Auto Reconcile and Post----------------------------------
+[82] - Start Time : -16-01-17_17-57-12
 [83] - ------------------------------------------------------------------
-[84] -  Local Authority : otjiwarongo
+[84] -  Local Authority : oshakati
 [85] - Exited with Spectacular Success 
-[86] - ------------------------------------------------------------------
-[87] - End Time : -16-01-15_14-19-08
+[86] - ------------------Auto Reconcile and Post------------------------------------------------
+[87] - End Time : -16-01-17_17-57-30
 [88] - ------------------------------------------------------------------
-15/01/2016 14:19:37: 
-[89] - ------------------------------------------------------------------
-[90] - Start Time : -16-01-15_14-19-15
+17/01/2016 17:57:41: 
+[89] - ---------------------------------Compute Stand No---------------------------------
+[90] - Start Time : -16-01-17_17-57-36
 [91] - ------------------------------------------------------------------
-[92] -  Local Authority : outapi
-[93] - Exited with Spectacular Success 
-[94] - ------------------------------------------------------------------
-[95] - End Time : -16-01-15_14-19-36
-[96] - ------------------------------------------------------------------
-15/01/2016 14:20:07: 
-[97] - ------------------------------------------------------------------
-[98] - Start Time : -16-01-15_14-19-42
-[99] - ------------------------------------------------------------------
-[100] -  Local Authority : keetmanshoop
-[101] - Exited with Spectacular Success 
+[92] -  Local Authority : walvis_bay
+[93] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\gisadmin_walvis_bay@walvis_bay@localhost.sde
+[94] -  Reference Number/Stand No : wb_stand_no
+[95] -  Feature Class to compute stand number : walvis_bay_Parcels
+[96] -  Object ID Field Name : OBJECTID
+[97] -  Local Authority ID Field Name : wb_local_authority_id
+[98] - Computation of Stand No's is complete
+[99] - Exited Computing Stand No In Spectacular Success 
+[100] - -------------Compute Stand No-----------------------------------------------------
+[101] - End Time : -16-01-17_17-57-40
 [102] - ------------------------------------------------------------------
-[103] - End Time : -16-01-15_14-20-06
-[104] - ------------------------------------------------------------------
-15/01/2016 14:20:36: 
+17/01/2016 17:59:48: 
+[103] - --------------------------------Auto Reconcile and Post----------------------------------
+[104] - Start Time : -16-01-17_17-57-47
 [105] - ------------------------------------------------------------------
-[106] - Start Time : -16-01-15_14-20-13
-[107] - ------------------------------------------------------------------
-[108] -  Local Authority : oshakati
-[109] - Exited with Spectacular Success 
+[106] -  Local Authority : walvis_bay
+[107] - Exited with Spectacular Success 
+[108] - ------------------Auto Reconcile and Post------------------------------------------------
+[109] - End Time : -16-01-17_17-59-46
 [110] - ------------------------------------------------------------------
-[111] - End Time : -16-01-15_14-20-34
-[112] - ------------------------------------------------------------------
-15/01/2016 14:22:10: 
+17/01/2016 17:59:57: 
+[111] - ---------------------------------Compute Stand No---------------------------------
+[112] - Start Time : -16-01-17_17-59-53
 [113] - ------------------------------------------------------------------
-[114] - Start Time : -16-01-15_14-20-42
-[115] - ------------------------------------------------------------------
-[116] -  Local Authority : walvis_bay
-[117] - Exited with Spectacular Success 
-[118] - ------------------------------------------------------------------
-[119] - End Time : -16-01-15_14-22-09
-[120] - ------------------------------------------------------------------
-15/01/2016 14:22:36: 
-[121] - ------------------------------------------------------------------
-[122] - Start Time : -16-01-15_14-22-15
-[123] - ------------------------------------------------------------------
-[124] -  Local Authority : helao_nafidi
-[125] - Exited with Spectacular Success 
-[126] - ------------------------------------------------------------------
-[127] - End Time : -16-01-15_14-22-35
-[128] - ------------------------------------------------------------------
-15/01/2016 14:23:10: 
-[129] - ------------------------------------------------------------------
-[130] - Start Time : -16-01-15_14-22-43
-[131] - ------------------------------------------------------------------
-[132] -  Local Authority : katima_mulilo
-[133] - Exited with Spectacular Success 
-[134] - ------------------------------------------------------------------
-[135] - End Time : -16-01-15_14-23-09
-[136] - ------------------------------------------------------------------
-15/01/2016 14:23:41: 
-[137] - ------------------------------------------------------------------
-[138] - Start Time : -16-01-15_14-23-17
-[139] - ------------------------------------------------------------------
-[140] -  Local Authority : tsumeb
-[141] - Exited with Spectacular Success 
-[142] - ------------------------------------------------------------------
-[143] - End Time : -16-01-15_14-23-40
-[144] - ------------------------------------------------------------------
-15/01/2016 14:24:53: 
-[145] - ------------------------------------------------------------------
-[146] - Start Time : -16-01-15_14-23-47
-[147] - ------------------------------------------------------------------
-[148] -  Local Authority : rundu
-[149] - Exited with Spectacular Success 
-[150] - ------------------------------------------------------------------
-[151] - End Time : -16-01-15_14-24-52
-[152] - ------------------------------------------------------------------
-15/01/2016 14:25:23: 
-[153] - ------------------------------------------------------------------
-[154] - Start Time : -16-01-15_14-24-58
-[155] - ------------------------------------------------------------------
-[156] -  Local Authority : okahandja
-[157] - Exited with Spectacular Success 
-[158] - ------------------------------------------------------------------
-[159] - End Time : -16-01-15_14-25-22
-[160] - ------------------------------------------------------------------
-15/01/2016 14:25:23: Timer ticked and executePythonCode()  method or 
-                job has successfully completed(But with a pinch of salt-There could be errors)
-15/01/2016 14:28:29: Timer ticked and executePythonCode()  method or 
-                job has been done fired
-15/01/2016 14:29:13: 
-[161] - ------------------------------------------------------------------
-[162] - Start Time : -16-01-15_14-28-36
-[163] - ------------------------------------------------------------------
-[164] -  Local Authority : otjiwarongo
-[165] - Exited with Spectacular Success 
-[166] - ------------------------------------------------------------------
-[167] - End Time : -16-01-15_14-29-12
-[168] - ------------------------------------------------------------------
-15/01/2016 14:29:46: 
-[169] - ------------------------------------------------------------------
-[170] - Start Time : -16-01-15_14-29-24
-[171] - ------------------------------------------------------------------
-[172] -  Local Authority : outapi
-[173] - Exited with Spectacular Success 
-[174] - ------------------------------------------------------------------
-[175] - End Time : -16-01-15_14-29-45
+[114] -  Local Authority : helao_nafidi
+[115] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\gisadmin_helao_nafidi@helao_nafidi@localhost.sde
+[116] -  Reference Number/Stand No : hn_stand_no
+[117] -  Feature Class to compute stand number : helao_nafidi_Parcels
+[118] -  Object ID Field Name : OBJECTID
+[119] -  Local Authority ID Field Name : hn_local_authority_id
+[120] - Computation of Stand No's is complete
+[121] - Exited Computing Stand No In Spectacular Success 
+[122] - -------------Compute Stand No-----------------------------------------------------
+[123] - End Time : -16-01-17_17-59-57
+[124] - ------------------------------------------------------------------
+17/01/2016 18:00:17: 
+[125] - --------------------------------Auto Reconcile and Post----------------------------------
+[126] - Start Time : -16-01-17_18-00-03
+[127] - ------------------------------------------------------------------
+[128] -  Local Authority : helao_nafidi
+[129] - Exited with Spectacular Success 
+[130] - ------------------Auto Reconcile and Post------------------------------------------------
+[131] - End Time : -16-01-17_18-00-16
+[132] - ------------------------------------------------------------------
+17/01/2016 18:00:27: 
+[133] - ---------------------------------Compute Stand No---------------------------------
+[134] - Start Time : -16-01-17_18-00-23
+[135] - ------------------------------------------------------------------
+[136] -  Local Authority : katima_mulilo
+[137] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\gisadmin_katima_mulilo@katima_mulilo@localhost.sde
+[138] -  Reference Number/Stand No : km_stand_no
+[139] -  Feature Class to compute stand number : katima_mulilo_Parcels
+[140] -  Object ID Field Name : OBJECTID
+[141] -  Local Authority ID Field Name : km_local_authority_id
+[142] - ERROR: PYTHON ERRORS:
+[143] - Traceback Info:
+[144] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\Compute_Stand_No.py", line 113, in editStandNoField
+[145] -     with arcpy.da.UpdateCursor(featureClass, fields,SQLExp) as cursor:
+[146] - Error Info:
+[147] -     <type 'exceptions.RuntimeError'>: cannot open 'katima_mulilo_Parcels'
+[148] - ERROR: Geoprocessing  Errors :
+[149] - ERROR: PYTHON ERRORS:
+[150] - Traceback Info:
+[151] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\InvokeComputeStandNo.py", line 147, in <module>
+[152] -     Configurations.Configurations_local_authority_id_fieldName)
+[153] - Error Info:
+[154] -     <type 'exceptions.NameError'>: global name 'logger' is not defined
+[155] - ERROR: Geoprocessing  Errors :
+[156] - PYTHON ERRORS:
+[157] - Traceback Info:
+[158] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\Compute_Stand_No.py", line 113, in editStandNoField
+[159] -     with arcpy.da.UpdateCursor(featureClass, fields,SQLExp) as cursor:
+[160] - Error Info:
+[161] -     <type 'exceptions.RuntimeError'>: cannot open 'katima_mulilo_Parcels'
+[162] - Geoprocessing  Errors :
+[163] - PYTHON ERRORS:
+[164] - Traceback Info:
+[165] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\InvokeComputeStandNo.py", line 147, in <module>
+[166] -     Configurations.Configurations_local_authority_id_fieldName)
+[167] - Error Info:
+[168] -     <type 'exceptions.NameError'>: global name 'logger' is not defined
+[169] - Geoprocessing  Errors :
+[170] - Failed 
+[171] - -------------------------------Compute Stand No-----------------------------------
+[172] - End Time : -16-01-17_18-00-26
+[173] - ------------------------------------------------------------------
+17/01/2016 18:00:54: 
+[174] - --------------------------------Auto Reconcile and Post----------------------------------
+[175] - Start Time : -16-01-17_18-00-32
 [176] - ------------------------------------------------------------------
-15/01/2016 14:30:16: 
-[177] - ------------------------------------------------------------------
-[178] - Start Time : -16-01-15_14-29-52
-[179] - ------------------------------------------------------------------
-[180] -  Local Authority : keetmanshoop
-[181] - Exited with Spectacular Success 
-[182] - ------------------------------------------------------------------
-[183] - End Time : -16-01-15_14-30-15
+[177] -  Local Authority : katima_mulilo
+[178] - Exited with Spectacular Success 
+[179] - ------------------Auto Reconcile and Post------------------------------------------------
+[180] - End Time : -16-01-17_18-00-53
+[181] - ------------------------------------------------------------------
+17/01/2016 18:01:04: 
+[182] - ---------------------------------Compute Stand No---------------------------------
+[183] - Start Time : -16-01-17_18-01-00
 [184] - ------------------------------------------------------------------
-15/01/2016 14:30:43: 
-[185] - ------------------------------------------------------------------
-[186] - Start Time : -16-01-15_14-30-22
-[187] - ------------------------------------------------------------------
-[188] -  Local Authority : oshakati
-[189] - Exited with Spectacular Success 
-[190] - ------------------------------------------------------------------
-[191] - End Time : -16-01-15_14-30-42
-[192] - ------------------------------------------------------------------
-15/01/2016 14:32:17: 
-[193] - ------------------------------------------------------------------
-[194] - Start Time : -16-01-15_14-30-48
+[185] -  Local Authority : tsumeb
+[186] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\connection_files\gisadmin_tsumeb@tsumeb@localhost.sde
+[187] -  Reference Number/Stand No : t_stand_no
+[188] -  Feature Class to compute stand number : tsumeb_Parcels
+[189] -  Object ID Field Name : OBJECTID
+[190] -  Local Authority ID Field Name : t_local_authority_id
+[191] - Computation of Stand No's is complete
+[192] - Exited Computing Stand No In Spectacular Success 
+[193] - -------------Compute Stand No-----------------------------------------------------
+[194] - End Time : -16-01-17_18-01-04
 [195] - ------------------------------------------------------------------
-[196] -  Local Authority : walvis_bay
-[197] - Exited with Spectacular Success 
+17/01/2016 18:01:28: 
+[196] - --------------------------------Auto Reconcile and Post----------------------------------
+[197] - Start Time : -16-01-17_18-01-10
 [198] - ------------------------------------------------------------------
-[199] - End Time : -16-01-15_14-32-16
-[200] - ------------------------------------------------------------------
-15/01/2016 14:32:43: 
-[201] - ------------------------------------------------------------------
-[202] - Start Time : -16-01-15_14-32-23
+[199] -  Local Authority : tsumeb
+[200] - Exited with Spectacular Success 
+[201] - ------------------Auto Reconcile and Post------------------------------------------------
+[202] - End Time : -16-01-17_18-01-27
 [203] - ------------------------------------------------------------------
-[204] -  Local Authority : helao_nafidi
-[205] - Exited with Spectacular Success 
+17/01/2016 18:01:40: 
+[204] - ---------------------------------Compute Stand No---------------------------------
+[205] - Start Time : -16-01-17_18-01-34
 [206] - ------------------------------------------------------------------
-[207] - End Time : -16-01-15_14-32-42
-[208] - ------------------------------------------------------------------
-15/01/2016 14:33:15: 
-[209] - ------------------------------------------------------------------
-[210] - Start Time : -16-01-15_14-32-48
-[211] - ------------------------------------------------------------------
-[212] -  Local Authority : katima_mulilo
-[213] - Exited with Spectacular Success 
-[214] - ------------------------------------------------------------------
-[215] - End Time : -16-01-15_14-33-14
-[216] - ------------------------------------------------------------------
-15/01/2016 14:33:44: 
+[207] -  Local Authority : rundu
+[208] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\connection_files\gisadmin_rundu@rundu@localhost.sde
+[209] -  Reference Number/Stand No : ru_stand_no
+[210] -  Feature Class to compute stand number : rundu_Parcels
+[211] -  Object ID Field Name : OBJECTID
+[212] -  Local Authority ID Field Name : ru_local_authority_id
+[213] - Computation of Stand No's is complete
+[214] - Exited Computing Stand No In Spectacular Success 
+[215] - -------------Compute Stand No-----------------------------------------------------
+[216] - End Time : -16-01-17_18-01-40
 [217] - ------------------------------------------------------------------
-[218] - Start Time : -16-01-15_14-33-20
-[219] - ------------------------------------------------------------------
-[220] -  Local Authority : tsumeb
-[221] - Exited with Spectacular Success 
-[222] - ------------------------------------------------------------------
-[223] - End Time : -16-01-15_14-33-43
-[224] - ------------------------------------------------------------------
-15/01/2016 14:34:55: 
+17/01/2016 18:03:05: 
+[218] - --------------------------------Auto Reconcile and Post----------------------------------
+[219] - Start Time : -16-01-17_18-01-46
+[220] - ------------------------------------------------------------------
+[221] -  Local Authority : rundu
+[222] - Exited with Spectacular Success 
+[223] - ------------------Auto Reconcile and Post------------------------------------------------
+[224] - End Time : -16-01-17_18-03-04
 [225] - ------------------------------------------------------------------
-[226] - Start Time : -16-01-15_14-33-50
-[227] - ------------------------------------------------------------------
-[228] -  Local Authority : rundu
-[229] - Exited with Spectacular Success 
-[230] - ------------------------------------------------------------------
-[231] - End Time : -16-01-15_14-34-54
-[232] - ------------------------------------------------------------------
-15/01/2016 14:35:26: 
-[233] - ------------------------------------------------------------------
-[234] - Start Time : -16-01-15_14-35-00
-[235] - ------------------------------------------------------------------
-[236] -  Local Authority : okahandja
-[237] - Exited with Spectacular Success 
-[238] - ------------------------------------------------------------------
-[239] - End Time : -16-01-15_14-35-25
-[240] - ------------------------------------------------------------------
-15/01/2016 14:35:26: Timer ticked and executePythonCode()  method or 
+17/01/2016 18:03:16: 
+[226] - ---------------------------------Compute Stand No---------------------------------
+[227] - Start Time : -16-01-17_18-03-11
+[228] - ------------------------------------------------------------------
+[229] -  Local Authority : okahandja
+[230] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\connection_files\gisadmin_okahandja@okahandja@localhost.sde
+[231] -  Reference Number/Stand No : oh_stand_no
+[232] -  Feature Class to compute stand number : okahandja_Parcels
+[233] -  Object ID Field Name : OBJECTID
+[234] -  Local Authority ID Field Name : oh_local_authority_id
+[235] - Computation of Stand No's is complete
+[236] - Exited Computing Stand No In Spectacular Success 
+[237] - -------------Compute Stand No-----------------------------------------------------
+[238] - End Time : -16-01-17_18-03-15
+[239] - ------------------------------------------------------------------
+17/01/2016 18:03:43: 
+[240] - --------------------------------Auto Reconcile and Post----------------------------------
+[241] - Start Time : -16-01-17_18-03-21
+[242] - ------------------------------------------------------------------
+[243] -  Local Authority : okahandja
+[244] - Exited with Spectacular Success 
+[245] - ------------------Auto Reconcile and Post------------------------------------------------
+[246] - End Time : -16-01-17_18-03-42
+[247] - ------------------------------------------------------------------
+17/01/2016 18:03:43: Timer ticked and executePythonCode()  method or 
                 job has successfully completed(But with a pinch of salt-There could be errors)
-15/01/2016 14:38:29: Timer ticked and executePythonCode()  method or 
+17/01/2016 18:04:56: Timer ticked and executePythonCode()  method or 
                 job has been done fired
-15/01/2016 14:39:09: 
-[241] - ------------------------------------------------------------------
-[242] - Start Time : -16-01-15_14-38-34
-[243] - ------------------------------------------------------------------
-[244] -  Local Authority : otjiwarongo
-[245] - Exited with Spectacular Success 
-[246] - ------------------------------------------------------------------
-[247] - End Time : -16-01-15_14-39-08
-[248] - ------------------------------------------------------------------
-15/01/2016 14:39:37: 
-[249] - ------------------------------------------------------------------
-[250] - Start Time : -16-01-15_14-39-15
-[251] - ------------------------------------------------------------------
-[252] -  Local Authority : outapi
-[253] - Exited with Spectacular Success 
-[254] - ------------------------------------------------------------------
-[255] - End Time : -16-01-15_14-39-36
-[256] - ------------------------------------------------------------------
-15/01/2016 14:40:09: 
-[257] - ------------------------------------------------------------------
-[258] - Start Time : -16-01-15_14-39-43
-[259] - ------------------------------------------------------------------
-[260] -  Local Authority : keetmanshoop
-[261] - Exited with Spectacular Success 
-[262] - ------------------------------------------------------------------
-[263] - End Time : -16-01-15_14-40-07
+17/01/2016 18:05:36: 
+[248] - ---------------------------------Compute Stand No---------------------------------
+[249] - Start Time : -16-01-17_18-05-03
+[250] - ------------------------------------------------------------------
+[251] -  Local Authority : otjiwarongo
+[252] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\gisadmin_otjiwarongo@otjiwarongo@localhost.sde
+[253] -  Reference Number/Stand No : ot_stand_no
+[254] -  Feature Class to compute stand number : otjiwarongo_Parcels
+[255] -  Object ID Field Name : OBJECTID
+[256] -  Local Authority ID Field Name : ot_local_authority_id
+[257] - Computation of Stand No's is complete
+[258] - Exited Computing Stand No In Spectacular Success 
+[259] - -------------Compute Stand No-----------------------------------------------------
+[260] - End Time : -16-01-17_18-05-36
+[261] - ------------------------------------------------------------------
+17/01/2016 19:39:16: 
+[262] - --------------------------------Auto Reconcile and Post----------------------------------
+[263] - Start Time : -16-01-17_18-06-40
 [264] - ------------------------------------------------------------------
-15/01/2016 14:40:41: 
-[265] - ------------------------------------------------------------------
-[266] - Start Time : -16-01-15_14-40-16
-[267] - ------------------------------------------------------------------
-[268] -  Local Authority : oshakati
-[269] - Exited with Spectacular Success 
-[270] - ------------------------------------------------------------------
-[271] - End Time : -16-01-15_14-40-40
+[265] -  Local Authority : otjiwarongo
+[266] - Exited with Spectacular Success 
+[267] - ------------------Auto Reconcile and Post------------------------------------------------
+[268] - End Time : -16-01-17_19-39-15
+[269] - ------------------------------------------------------------------
+17/01/2016 19:39:32: 
+[270] - ---------------------------------Compute Stand No---------------------------------
+[271] - Start Time : -16-01-17_19-39-22
 [272] - ------------------------------------------------------------------
-15/01/2016 14:42:30: 
-[273] - ------------------------------------------------------------------
-[274] - Start Time : -16-01-15_14-40-47
-[275] - ------------------------------------------------------------------
-[276] -  Local Authority : walvis_bay
-[277] - Exited with Spectacular Success 
-[278] - ------------------------------------------------------------------
-[279] - End Time : -16-01-15_14-42-29
-[280] - ------------------------------------------------------------------
-15/01/2016 14:42:56: 
-[281] - ------------------------------------------------------------------
-[282] - Start Time : -16-01-15_14-42-35
+[273] -  Local Authority : outapi
+[274] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\gisadmin_outapi@outapi@localhost.sde
+[275] -  Reference Number/Stand No : up_stand_no
+[276] -  Feature Class to compute stand number : outapi_Parcels
+[277] -  Object ID Field Name : OBJECTID
+[278] -  Local Authority ID Field Name : up_local_authority_id
+[279] - Computation of Stand No's is complete
+[280] - Exited Computing Stand No In Spectacular Success 
+[281] - -------------Compute Stand No-----------------------------------------------------
+[282] - End Time : -16-01-17_19-39-31
 [283] - ------------------------------------------------------------------
-[284] -  Local Authority : helao_nafidi
-[285] - Exited with Spectacular Success 
+17/01/2016 19:40:03: 
+[284] - --------------------------------Auto Reconcile and Post----------------------------------
+[285] - Start Time : -16-01-17_19-39-38
 [286] - ------------------------------------------------------------------
-[287] - End Time : -16-01-15_14-42-55
-[288] - ------------------------------------------------------------------
-15/01/2016 14:43:31: 
-[289] - ------------------------------------------------------------------
-[290] - Start Time : -16-01-15_14-43-02
+[287] -  Local Authority : outapi
+[288] - Exited with Spectacular Success 
+[289] - ------------------Auto Reconcile and Post------------------------------------------------
+[290] - End Time : -16-01-17_19-40-01
 [291] - ------------------------------------------------------------------
-[292] -  Local Authority : katima_mulilo
-[293] - Exited with Spectacular Success 
+17/01/2016 19:40:17: 
+[292] - ---------------------------------Compute Stand No---------------------------------
+[293] - Start Time : -16-01-17_19-40-08
 [294] - ------------------------------------------------------------------
-[295] - End Time : -16-01-15_14-43-30
-[296] - ------------------------------------------------------------------
-15/01/2016 14:44:10: 
-[297] - ------------------------------------------------------------------
-[298] - Start Time : -16-01-15_14-43-36
-[299] - ------------------------------------------------------------------
-[300] -  Local Authority : tsumeb
-[301] - Exited with Spectacular Success 
-[302] - ------------------------------------------------------------------
-[303] - End Time : -16-01-15_14-44-09
-[304] - ------------------------------------------------------------------
-15/01/2016 14:45:28: 
+[295] -  Local Authority : keetmanshoop
+[296] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\gisadmin_keetmanshoop@keetmanshoop@localhost.sde
+[297] -  Reference Number/Stand No : k_stand_no
+[298] -  Feature Class to compute stand number : keetmanshoop_Parcels
+[299] -  Object ID Field Name : OBJECTID
+[300] -  Local Authority ID Field Name : k_local_authority_id
+[301] - Computation of Stand No's is complete
+[302] - Exited Computing Stand No In Spectacular Success 
+[303] - -------------Compute Stand No-----------------------------------------------------
+[304] - End Time : -16-01-17_19-40-17
 [305] - ------------------------------------------------------------------
-[306] - Start Time : -16-01-15_14-44-16
-[307] - ------------------------------------------------------------------
-[308] -  Local Authority : rundu
-[309] - Exited with Spectacular Success 
-[310] - ------------------------------------------------------------------
-[311] - End Time : -16-01-15_14-45-27
-[312] - ------------------------------------------------------------------
-15/01/2016 14:45:59: 
+17/01/2016 19:40:46: 
+[306] - --------------------------------Auto Reconcile and Post----------------------------------
+[307] - Start Time : -16-01-17_19-40-23
+[308] - ------------------------------------------------------------------
+[309] -  Local Authority : keetmanshoop
+[310] - Exited with Spectacular Success 
+[311] - ------------------Auto Reconcile and Post------------------------------------------------
+[312] - End Time : -16-01-17_19-40-44
 [313] - ------------------------------------------------------------------
-[314] - Start Time : -16-01-15_14-45-33
-[315] - ------------------------------------------------------------------
-[316] -  Local Authority : okahandja
-[317] - Exited with Spectacular Success 
-[318] - ------------------------------------------------------------------
-[319] - End Time : -16-01-15_14-45-58
-[320] - ------------------------------------------------------------------
-15/01/2016 14:45:59: Timer ticked and executePythonCode()  method or 
-                job has successfully completed(But with a pinch of salt-There could be errors)
-15/01/2016 14:48:29: Timer ticked and executePythonCode()  method or 
-                job has been done fired
-15/01/2016 14:49:13: 
-[321] - ------------------------------------------------------------------
-[322] - Start Time : -16-01-15_14-48-34
-[323] - ------------------------------------------------------------------
-[324] -  Local Authority : otjiwarongo
-[325] - Exited with Spectacular Success 
-[326] - ------------------------------------------------------------------
-[327] - End Time : -16-01-15_14-49-12
-[328] - ------------------------------------------------------------------
-15/01/2016 14:49:42: 
-[329] - ------------------------------------------------------------------
-[330] - Start Time : -16-01-15_14-49-19
-[331] - ------------------------------------------------------------------
-[332] -  Local Authority : outapi
-[333] - Exited with Spectacular Success 
-[334] - ------------------------------------------------------------------
-[335] - End Time : -16-01-15_14-49-41
-[336] - ------------------------------------------------------------------
-15/01/2016 14:50:14: 
-[337] - ------------------------------------------------------------------
-[338] - Start Time : -16-01-15_14-49-47
-[339] - ------------------------------------------------------------------
-[340] -  Local Authority : keetmanshoop
-[341] - Exited with Spectacular Success 
-[342] - ------------------------------------------------------------------
-[343] - End Time : -16-01-15_14-50-13
-[344] - ------------------------------------------------------------------
-15/01/2016 14:50:42: 
-[345] - ------------------------------------------------------------------
-[346] - Start Time : -16-01-15_14-50-19
-[347] - ------------------------------------------------------------------
-[348] -  Local Authority : oshakati
-[349] - Exited with Spectacular Success 
-[350] - ------------------------------------------------------------------
-[351] - End Time : -16-01-15_14-50-41
+17/01/2016 19:41:07: 
+[314] - ---------------------------------Compute Stand No---------------------------------
+[315] - Start Time : -16-01-17_19-40-58
+[316] - ------------------------------------------------------------------
+[317] -  Local Authority : oshakati
+[318] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\gisadmin_oshakati@oshakati@localhost.sde
+[319] -  Reference Number/Stand No : sh_stand_no
+[320] -  Feature Class to compute stand number : oshakati_Parcels
+[321] -  Object ID Field Name : OBJECTID
+[322] -  Local Authority ID Field Name : sh_local_authority_id
+[323] - Computation of Stand No's is complete
+[324] - Exited Computing Stand No In Spectacular Success 
+[325] - -------------Compute Stand No-----------------------------------------------------
+[326] - End Time : -16-01-17_19-41-07
+[327] - ------------------------------------------------------------------
+17/01/2016 19:41:43: 
+[328] - --------------------------------Auto Reconcile and Post----------------------------------
+[329] - Start Time : -16-01-17_19-41-13
+[330] - ------------------------------------------------------------------
+[331] -  Local Authority : oshakati
+[332] - Exited with Spectacular Success 
+[333] - ------------------Auto Reconcile and Post------------------------------------------------
+[334] - End Time : -16-01-17_19-41-41
+[335] - ------------------------------------------------------------------
+17/01/2016 19:41:58: 
+[336] - ---------------------------------Compute Stand No---------------------------------
+[337] - Start Time : -16-01-17_19-41-48
+[338] - ------------------------------------------------------------------
+[339] -  Local Authority : walvis_bay
+[340] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\gisadmin_walvis_bay@walvis_bay@localhost.sde
+[341] -  Reference Number/Stand No : wb_stand_no
+[342] -  Feature Class to compute stand number : walvis_bay_Parcels
+[343] -  Object ID Field Name : OBJECTID
+[344] -  Local Authority ID Field Name : wb_local_authority_id
+[345] - Computation of Stand No's is complete
+[346] - Exited Computing Stand No In Spectacular Success 
+[347] - -------------Compute Stand No-----------------------------------------------------
+[348] - End Time : -16-01-17_19-41-57
+[349] - ------------------------------------------------------------------
+17/01/2016 19:44:12: 
+[350] - --------------------------------Auto Reconcile and Post----------------------------------
+[351] - Start Time : -16-01-17_19-42-04
 [352] - ------------------------------------------------------------------
-15/01/2016 14:52:27: 
-[353] - ------------------------------------------------------------------
-[354] - Start Time : -16-01-15_14-50-47
-[355] - ------------------------------------------------------------------
-[356] -  Local Authority : walvis_bay
-[357] - Exited with Spectacular Success 
-[358] - ------------------------------------------------------------------
-[359] - End Time : -16-01-15_14-52-26
+[353] -  Local Authority : walvis_bay
+[354] - Exited with Spectacular Success 
+[355] - ------------------Auto Reconcile and Post------------------------------------------------
+[356] - End Time : -16-01-17_19-44-11
+[357] - ------------------------------------------------------------------
+17/01/2016 19:44:26: 
+[358] - ---------------------------------Compute Stand No---------------------------------
+[359] - Start Time : -16-01-17_19-44-18
 [360] - ------------------------------------------------------------------
-15/01/2016 14:52:54: 
-[361] - ------------------------------------------------------------------
-[362] - Start Time : -16-01-15_14-52-32
-[363] - ------------------------------------------------------------------
-[364] -  Local Authority : helao_nafidi
-[365] - Exited with Spectacular Success 
-[366] - ------------------------------------------------------------------
-[367] - End Time : -16-01-15_14-52-53
-[368] - ------------------------------------------------------------------
-15/01/2016 14:53:28: 
-[369] - ------------------------------------------------------------------
-[370] - Start Time : -16-01-15_14-53-00
+[361] -  Local Authority : helao_nafidi
+[362] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\gisadmin_helao_nafidi@helao_nafidi@localhost.sde
+[363] -  Reference Number/Stand No : hn_stand_no
+[364] -  Feature Class to compute stand number : helao_nafidi_Parcels
+[365] -  Object ID Field Name : OBJECTID
+[366] -  Local Authority ID Field Name : hn_local_authority_id
+[367] - Computation of Stand No's is complete
+[368] - Exited Computing Stand No In Spectacular Success 
+[369] - -------------Compute Stand No-----------------------------------------------------
+[370] - End Time : -16-01-17_19-44-26
 [371] - ------------------------------------------------------------------
-[372] -  Local Authority : katima_mulilo
-[373] - Exited with Spectacular Success 
+17/01/2016 19:44:49: 
+[372] - --------------------------------Auto Reconcile and Post----------------------------------
+[373] - Start Time : -16-01-17_19-44-32
 [374] - ------------------------------------------------------------------
-[375] - End Time : -16-01-15_14-53-27
-[376] - ------------------------------------------------------------------
-15/01/2016 14:54:02: 
-[377] - ------------------------------------------------------------------
-[378] - Start Time : -16-01-15_14-53-34
+[375] -  Local Authority : helao_nafidi
+[376] - Exited with Spectacular Success 
+[377] - ------------------Auto Reconcile and Post------------------------------------------------
+[378] - End Time : -16-01-17_19-44-48
 [379] - ------------------------------------------------------------------
-[380] -  Local Authority : tsumeb
-[381] - Exited with Spectacular Success 
+17/01/2016 19:45:00: 
+[380] - ---------------------------------Compute Stand No---------------------------------
+[381] - Start Time : -16-01-17_19-44-55
 [382] - ------------------------------------------------------------------
-[383] - End Time : -16-01-15_14-54-01
-[384] - ------------------------------------------------------------------
-15/01/2016 14:55:23: 
-[385] - ------------------------------------------------------------------
-[386] - Start Time : -16-01-15_14-54-07
-[387] - ------------------------------------------------------------------
-[388] -  Local Authority : rundu
-[389] - Exited with Spectacular Success 
-[390] - ------------------------------------------------------------------
-[391] - End Time : -16-01-15_14-55-22
-[392] - ------------------------------------------------------------------
-15/01/2016 14:55:55: 
-[393] - ------------------------------------------------------------------
-[394] - Start Time : -16-01-15_14-55-28
-[395] - ------------------------------------------------------------------
-[396] -  Local Authority : okahandja
-[397] - Exited with Spectacular Success 
-[398] - ------------------------------------------------------------------
-[399] - End Time : -16-01-15_14-55-54
-[400] - ------------------------------------------------------------------
-15/01/2016 14:55:55: Timer ticked and executePythonCode()  method or 
-                job has successfully completed(But with a pinch of salt-There could be errors)
-15/01/2016 14:58:29: Timer ticked and executePythonCode()  method or 
+[383] -  Local Authority : katima_mulilo
+[384] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\gisadmin_katima_mulilo@katima_mulilo@localhost.sde
+[385] -  Reference Number/Stand No : km_stand_no
+[386] -  Feature Class to compute stand number : katima_mulilo_Parcels
+[387] -  Object ID Field Name : OBJECTID
+[388] -  Local Authority ID Field Name : km_local_authority_id
+[389] - ERROR: PYTHON ERRORS:
+[390] - Traceback Info:
+[391] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\Compute_Stand_No.py", line 113, in editStandNoField
+[392] -     with arcpy.da.UpdateCursor(featureClass, fields,SQLExp) as cursor:
+[393] - Error Info:
+[394] -     <type 'exceptions.RuntimeError'>: cannot open 'katima_mulilo_Parcels'
+[395] - ERROR: Geoprocessing  Errors :
+[396] - ERROR: PYTHON ERRORS:
+[397] - Traceback Info:
+[398] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\InvokeComputeStandNo.py", line 147, in <module>
+[399] -     Configurations.Configurations_local_authority_id_fieldName)
+[400] - Error Info:
+[401] -     <type 'exceptions.NameError'>: global name 'logger' is not defined
+[402] - ERROR: Geoprocessing  Errors :
+[403] - PYTHON ERRORS:
+[404] - Traceback Info:
+[405] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\Compute_Stand_No.py", line 113, in editStandNoField
+[406] -     with arcpy.da.UpdateCursor(featureClass, fields,SQLExp) as cursor:
+[407] - Error Info:
+[408] -     <type 'exceptions.RuntimeError'>: cannot open 'katima_mulilo_Parcels'
+[409] - Geoprocessing  Errors :
+[410] - PYTHON ERRORS:
+[411] - Traceback Info:
+[412] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\InvokeComputeStandNo.py", line 147, in <module>
+[413] -     Configurations.Configurations_local_authority_id_fieldName)
+[414] - Error Info:
+[415] -     <type 'exceptions.NameError'>: global name 'logger' is not defined
+[416] - Geoprocessing  Errors :
+[417] - Failed 
+[418] - -------------------------------Compute Stand No-----------------------------------
+[419] - End Time : -16-01-17_19-44-59
+[420] - ------------------------------------------------------------------
+17/01/2016 19:45:33: 
+[421] - --------------------------------Auto Reconcile and Post----------------------------------
+[422] - Start Time : -16-01-17_19-45-06
+[423] - ------------------------------------------------------------------
+[424] -  Local Authority : katima_mulilo
+[425] - Exited with Spectacular Success 
+[426] - ------------------Auto Reconcile and Post------------------------------------------------
+[427] - End Time : -16-01-17_19-45-32
+[428] - ------------------------------------------------------------------
+17/01/2016 19:45:49: 
+[429] - ---------------------------------Compute Stand No---------------------------------
+[430] - Start Time : -16-01-17_19-45-39
+[431] - ------------------------------------------------------------------
+[432] -  Local Authority : tsumeb
+[433] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\connection_files\gisadmin_tsumeb@tsumeb@localhost.sde
+[434] -  Reference Number/Stand No : t_stand_no
+[435] -  Feature Class to compute stand number : tsumeb_Parcels
+[436] -  Object ID Field Name : OBJECTID
+[437] -  Local Authority ID Field Name : t_local_authority_id
+[438] - Computation of Stand No's is complete
+[439] - Exited Computing Stand No In Spectacular Success 
+[440] - -------------Compute Stand No-----------------------------------------------------
+[441] - End Time : -16-01-17_19-45-48
+[442] - ------------------------------------------------------------------
+17/01/2016 20:31:07: ULIMS GIS Synchonization Service started
+17/01/2016 20:36:07: Timer ticked and executePythonCode()  method or 
                 job has been done fired
-15/01/2016 14:59:13: 
-[401] - ------------------------------------------------------------------
-[402] - Start Time : -16-01-15_14-58-34
-[403] - ------------------------------------------------------------------
-[404] -  Local Authority : otjiwarongo
-[405] - Exited with Spectacular Success 
-[406] - ------------------------------------------------------------------
-[407] - End Time : -16-01-15_14-59-12
-[408] - ------------------------------------------------------------------
-15/01/2016 14:59:41: 
-[409] - ------------------------------------------------------------------
-[410] - Start Time : -16-01-15_14-59-18
-[411] - ------------------------------------------------------------------
-[412] -  Local Authority : outapi
-[413] - Exited with Spectacular Success 
-[414] - ------------------------------------------------------------------
-[415] - End Time : -16-01-15_14-59-40
-[416] - ------------------------------------------------------------------
-15/01/2016 15:00:13: 
-[417] - ------------------------------------------------------------------
-[418] - Start Time : -16-01-15_14-59-46
-[419] - ------------------------------------------------------------------
-[420] -  Local Authority : keetmanshoop
-[421] - Exited with Spectacular Success 
-[422] - ------------------------------------------------------------------
-[423] - End Time : -16-01-15_15-00-12
-[424] - ------------------------------------------------------------------
-15/01/2016 15:00:41: 
-[425] - ------------------------------------------------------------------
-[426] - Start Time : -16-01-15_15-00-18
-[427] - ------------------------------------------------------------------
-[428] -  Local Authority : oshakati
-[429] - Exited with Spectacular Success 
-[430] - ------------------------------------------------------------------
-[431] - End Time : -16-01-15_15-00-40
-[432] - ------------------------------------------------------------------
-15/01/2016 15:02:24: 
-[433] - ------------------------------------------------------------------
-[434] - Start Time : -16-01-15_15-00-46
-[435] - ------------------------------------------------------------------
-[436] -  Local Authority : walvis_bay
-[437] - Exited with Spectacular Success 
-[438] - ------------------------------------------------------------------
-[439] - End Time : -16-01-15_15-02-23
-[440] - ------------------------------------------------------------------
-15/01/2016 15:02:50: 
-[441] - ------------------------------------------------------------------
-[442] - Start Time : -16-01-15_15-02-29
-[443] - ------------------------------------------------------------------
-[444] -  Local Authority : helao_nafidi
-[445] - Exited with Spectacular Success 
-[446] - ------------------------------------------------------------------
-[447] - End Time : -16-01-15_15-02-49
-[448] - ------------------------------------------------------------------
-15/01/2016 15:03:23: ULIMS GIS Synchronize Service Stopped
+17/01/2016 20:36:34: 
+[1] - ---------------------------------Compute Stand No---------------------------------
+[2] - Start Time : -16-01-17_20-36-16
+[3] - ------------------------------------------------------------------
+[4] -  Local Authority : otjiwarongo
+[5] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\gisadmin_otjiwarongo@otjiwarongo@localhost.sde
+[6] -  Reference Number/Stand No : ot_stand_no
+[7] -  Feature Class to compute stand number : otjiwarongo_Parcels
+[8] -  Object ID Field Name : OBJECTID
+[9] -  Local Authority ID Field Name : ot_local_authority_id
+[10] - Computation of Stand No's is complete
+[11] - Exited Computing Stand No In Spectacular Success 
+[12] - -------------Compute Stand No-----------------------------------------------------
+[13] - End Time : -16-01-17_20-36-34
+[14] - ------------------------------------------------------------------
+17/01/2016 20:37:54: 
+[15] - --------------------------------Auto Reconcile and Post----------------------------------
+[16] - Start Time : -16-01-17_20-36-45
+[17] - ------------------------------------------------------------------
+[18] -  Local Authority : otjiwarongo
+[19] - Exited with Spectacular Success 
+[20] - ------------------Auto Reconcile and Post------------------------------------------------
+[21] - End Time : -16-01-17_20-37-53
+[22] - ------------------------------------------------------------------
+17/01/2016 20:38:24: 
+[23] - ---------------------------------Compute Stand No---------------------------------
+[24] - Start Time : -16-01-17_20-38-03
+[25] - ------------------------------------------------------------------
+[26] -  Local Authority : outapi
+[27] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\gisadmin_outapi@outapi@localhost.sde
+[28] -  Reference Number/Stand No : up_stand_no
+[29] -  Feature Class to compute stand number : outapi_Parcels
+[30] -  Object ID Field Name : OBJECTID
+[31] -  Local Authority ID Field Name : up_local_authority_id
+[32] - Computation of Stand No's is complete
+[33] - Exited Computing Stand No In Spectacular Success 
+[34] - -------------Compute Stand No-----------------------------------------------------
+[35] - End Time : -16-01-17_20-38-23
+[36] - ------------------------------------------------------------------
+17/01/2016 20:38:56: 
+[37] - --------------------------------Auto Reconcile and Post----------------------------------
+[38] - Start Time : -16-01-17_20-38-32
+[39] - ------------------------------------------------------------------
+[40] -  Local Authority : outapi
+[41] - Exited with Spectacular Success 
+[42] - ------------------Auto Reconcile and Post------------------------------------------------
+[43] - End Time : -16-01-17_20-38-55
+[44] - ------------------------------------------------------------------
+17/01/2016 20:39:09: 
+[45] - ---------------------------------Compute Stand No---------------------------------
+[46] - Start Time : -16-01-17_20-39-03
+[47] - ------------------------------------------------------------------
+[48] -  Local Authority : keetmanshoop
+[49] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\gisadmin_keetmanshoop@keetmanshoop@localhost.sde
+[50] -  Reference Number/Stand No : k_stand_no
+[51] -  Feature Class to compute stand number : keetmanshoop_Parcels
+[52] -  Object ID Field Name : OBJECTID
+[53] -  Local Authority ID Field Name : k_local_authority_id
+[54] - Computation of Stand No's is complete
+[55] - Exited Computing Stand No In Spectacular Success 
+[56] - -------------Compute Stand No-----------------------------------------------------
+[57] - End Time : -16-01-17_20-39-08
+[58] - ------------------------------------------------------------------
+17/01/2016 20:39:41: 
+[59] - --------------------------------Auto Reconcile and Post----------------------------------
+[60] - Start Time : -16-01-17_20-39-17
+[61] - ------------------------------------------------------------------
+[62] -  Local Authority : keetmanshoop
+[63] - Exited with Spectacular Success 
+[64] - ------------------Auto Reconcile and Post------------------------------------------------
+[65] - End Time : -16-01-17_20-39-40
+[66] - ------------------------------------------------------------------
+17/01/2016 20:40:05: 
+[67] - ---------------------------------Compute Stand No---------------------------------
+[68] - Start Time : -16-01-17_20-39-48
+[69] - ------------------------------------------------------------------
+[70] -  Local Authority : oshakati
+[71] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\gisadmin_oshakati@oshakati@localhost.sde
+[72] -  Reference Number/Stand No : sh_stand_no
+[73] -  Feature Class to compute stand number : oshakati_Parcels
+[74] -  Object ID Field Name : OBJECTID
+[75] -  Local Authority ID Field Name : sh_local_authority_id
+[76] - Computation of Stand No's is complete
+[77] - Exited Computing Stand No In Spectacular Success 
+[78] - -------------Compute Stand No-----------------------------------------------------
+[79] - End Time : -16-01-17_20-40-05
+[80] - ------------------------------------------------------------------
+17/01/2016 20:40:31: 
+[81] - --------------------------------Auto Reconcile and Post----------------------------------
+[82] - Start Time : -16-01-17_20-40-11
+[83] - ------------------------------------------------------------------
+[84] -  Local Authority : oshakati
+[85] - Exited with Spectacular Success 
+[86] - ------------------Auto Reconcile and Post------------------------------------------------
+[87] - End Time : -16-01-17_20-40-30
+[88] - ------------------------------------------------------------------
+17/01/2016 20:40:59: 
+[89] - ---------------------------------Compute Stand No---------------------------------
+[90] - Start Time : -16-01-17_20-40-38
+[91] - ------------------------------------------------------------------
+[92] -  Local Authority : walvis_bay
+[93] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\gisadmin_walvis_bay@walvis_bay@localhost.sde
+[94] -  Reference Number/Stand No : wb_stand_no
+[95] -  Feature Class to compute stand number : walvis_bay_Parcels
+[96] -  Object ID Field Name : OBJECTID
+[97] -  Local Authority ID Field Name : wb_local_authority_id
+[98] - Computation of Stand No's is complete
+[99] - Exited Computing Stand No In Spectacular Success 
+[100] - -------------Compute Stand No-----------------------------------------------------
+[101] - End Time : -16-01-17_20-40-58
+[102] - ------------------------------------------------------------------
+17/01/2016 20:42:41: 
+[103] - --------------------------------Auto Reconcile and Post----------------------------------
+[104] - Start Time : -16-01-17_20-41-04
+[105] - ------------------------------------------------------------------
+[106] -  Local Authority : walvis_bay
+[107] - Exited with Spectacular Success 
+[108] - ------------------Auto Reconcile and Post------------------------------------------------
+[109] - End Time : -16-01-17_20-42-39
+[110] - ------------------------------------------------------------------
+17/01/2016 20:42:56: 
+[111] - ---------------------------------Compute Stand No---------------------------------
+[112] - Start Time : -16-01-17_20-42-47
+[113] - ------------------------------------------------------------------
+[114] -  Local Authority : helao_nafidi
+[115] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\gisadmin_helao_nafidi@helao_nafidi@localhost.sde
+[116] -  Reference Number/Stand No : hn_stand_no
+[117] -  Feature Class to compute stand number : helao_nafidi_Parcels
+[118] -  Object ID Field Name : OBJECTID
+[119] -  Local Authority ID Field Name : hn_local_authority_id
+[120] - Computation of Stand No's is complete
+[121] - Exited Computing Stand No In Spectacular Success 
+[122] - -------------Compute Stand No-----------------------------------------------------
+[123] - End Time : -16-01-17_20-42-55
+[124] - ------------------------------------------------------------------
+17/01/2016 20:43:15: 
+[125] - --------------------------------Auto Reconcile and Post----------------------------------
+[126] - Start Time : -16-01-17_20-43-01
+[127] - ------------------------------------------------------------------
+[128] -  Local Authority : helao_nafidi
+[129] - Exited with Spectacular Success 
+[130] - ------------------Auto Reconcile and Post------------------------------------------------
+[131] - End Time : -16-01-17_20-43-14
+[132] - ------------------------------------------------------------------
+17/01/2016 20:43:24: 
+[133] - ---------------------------------Compute Stand No---------------------------------
+[134] - Start Time : -16-01-17_20-43-21
+[135] - ------------------------------------------------------------------
+[136] -  Local Authority : katima_mulilo
+[137] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\gisadmin_katima_mulilo@katima_mulilo@localhost.sde
+[138] -  Reference Number/Stand No : km_stand_no
+[139] -  Feature Class to compute stand number : katima_mulilo_Parcels
+[140] -  Object ID Field Name : OBJECTID
+[141] -  Local Authority ID Field Name : km_local_authority_id
+[142] - ERROR: PYTHON ERRORS:
+[143] - Traceback Info:
+[144] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\Compute_Stand_No.py", line 113, in editStandNoField
+[145] -     with arcpy.da.UpdateCursor(featureClass, fields,SQLExp) as cursor:
+[146] - Error Info:
+[147] -     <type 'exceptions.RuntimeError'>: cannot open 'katima_mulilo_Parcels'
+[148] - ERROR: Geoprocessing  Errors :
+[149] - ERROR: PYTHON ERRORS:
+[150] - Traceback Info:
+[151] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\InvokeComputeStandNo.py", line 147, in <module>
+[152] -     Configurations.Configurations_local_authority_id_fieldName)
+[153] - Error Info:
+[154] -     <type 'exceptions.NameError'>: global name 'logger' is not defined
+[155] - ERROR: Geoprocessing  Errors :
+[156] - PYTHON ERRORS:
+[157] - Traceback Info:
+[158] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\Compute_Stand_No.py", line 113, in editStandNoField
+[159] -     with arcpy.da.UpdateCursor(featureClass, fields,SQLExp) as cursor:
+[160] - Error Info:
+[161] -     <type 'exceptions.RuntimeError'>: cannot open 'katima_mulilo_Parcels'
+[162] - Geoprocessing  Errors :
+[163] - PYTHON ERRORS:
+[164] - Traceback Info:
+[165] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\InvokeComputeStandNo.py", line 147, in <module>
+[166] -     Configurations.Configurations_local_authority_id_fieldName)
+[167] - Error Info:
+[168] -     <type 'exceptions.NameError'>: global name 'logger' is not defined
+[169] - Geoprocessing  Errors :
+[170] - Failed 
+[171] - -------------------------------Compute Stand No-----------------------------------
+[172] - End Time : -16-01-17_20-43-23
+[173] - ------------------------------------------------------------------
+17/01/2016 20:43:49: 
+[174] - --------------------------------Auto Reconcile and Post----------------------------------
+[175] - Start Time : -16-01-17_20-43-30
+[176] - ------------------------------------------------------------------
+[177] -  Local Authority : katima_mulilo
+[178] - Exited with Spectacular Success 
+[179] - ------------------Auto Reconcile and Post------------------------------------------------
+[180] - End Time : -16-01-17_20-43-48
+[181] - ------------------------------------------------------------------
+17/01/2016 20:44:02: 
+[182] - ---------------------------------Compute Stand No---------------------------------
+[183] - Start Time : -16-01-17_20-43-55
+[184] - ------------------------------------------------------------------
+[185] -  Local Authority : tsumeb
+[186] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\connection_files\gisadmin_tsumeb@tsumeb@localhost.sde
+[187] -  Reference Number/Stand No : t_stand_no
+[188] -  Feature Class to compute stand number : tsumeb_Parcels
+[189] -  Object ID Field Name : OBJECTID
+[190] -  Local Authority ID Field Name : t_local_authority_id
+[191] - Computation of Stand No's is complete
+[192] - Exited Computing Stand No In Spectacular Success 
+[193] - -------------Compute Stand No-----------------------------------------------------
+[194] - End Time : -16-01-17_20-44-01
+[195] - ------------------------------------------------------------------
+17/01/2016 20:44:25: 
+[196] - --------------------------------Auto Reconcile and Post----------------------------------
+[197] - Start Time : -16-01-17_20-44-07
+[198] - ------------------------------------------------------------------
+[199] -  Local Authority : tsumeb
+[200] - Exited with Spectacular Success 
+[201] - ------------------Auto Reconcile and Post------------------------------------------------
+[202] - End Time : -16-01-17_20-44-24
+[203] - ------------------------------------------------------------------
+17/01/2016 20:44:44: 
+[204] - ---------------------------------Compute Stand No---------------------------------
+[205] - Start Time : -16-01-17_20-44-30
+[206] - ------------------------------------------------------------------
+[207] -  Local Authority : rundu
+[208] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\connection_files\gisadmin_rundu@rundu@localhost.sde
+[209] -  Reference Number/Stand No : ru_stand_no
+[210] -  Feature Class to compute stand number : rundu_Parcels
+[211] -  Object ID Field Name : OBJECTID
+[212] -  Local Authority ID Field Name : ru_local_authority_id
+[213] - Computation of Stand No's is complete
+[214] - Exited Computing Stand No In Spectacular Success 
+[215] - -------------Compute Stand No-----------------------------------------------------
+[216] - End Time : -16-01-17_20-44-43
+[217] - ------------------------------------------------------------------
+17/01/2016 20:45:56: 
+[218] - --------------------------------Auto Reconcile and Post----------------------------------
+[219] - Start Time : -16-01-17_20-44-49
+[220] - ------------------------------------------------------------------
+[221] -  Local Authority : rundu
+[222] - Exited with Spectacular Success 
+[223] - ------------------Auto Reconcile and Post------------------------------------------------
+[224] - End Time : -16-01-17_20-45-55
+[225] - ------------------------------------------------------------------
+17/01/2016 20:46:11: 
+[226] - ---------------------------------Compute Stand No---------------------------------
+[227] - Start Time : -16-01-17_20-46-02
+[228] - ------------------------------------------------------------------
+[229] -  Local Authority : okahandja
+[230] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\connection_files\gisadmin_okahandja@okahandja@localhost.sde
+[231] -  Reference Number/Stand No : oh_stand_no
+[232] -  Feature Class to compute stand number : okahandja_Parcels
+[233] -  Object ID Field Name : OBJECTID
+[234] -  Local Authority ID Field Name : oh_local_authority_id
+[235] - Computation of Stand No's is complete
+[236] - Exited Computing Stand No In Spectacular Success 
+[237] - -------------Compute Stand No-----------------------------------------------------
+[238] - End Time : -16-01-17_20-46-10
+[239] - ------------------------------------------------------------------
+17/01/2016 20:46:37: 
+[240] - --------------------------------Auto Reconcile and Post----------------------------------
+[241] - Start Time : -16-01-17_20-46-17
+[242] - ------------------------------------------------------------------
+[243] -  Local Authority : okahandja
+[244] - Exited with Spectacular Success 
+[245] - ------------------Auto Reconcile and Post------------------------------------------------
+[246] - End Time : -16-01-17_20-46-36
+[247] - ------------------------------------------------------------------
+17/01/2016 20:46:37: Timer ticked and executePythonCode()  method or 
+                job has successfully completed(But with a pinch of salt-There could be errors)
+17/01/2016 20:51:07: Timer ticked and executePythonCode()  method or 
+                job has been done fired
+17/01/2016 20:51:17: 
+[248] - ---------------------------------Compute Stand No---------------------------------
+[249] - Start Time : -16-01-17_20-51-13
+[250] - ------------------------------------------------------------------
+[251] -  Local Authority : otjiwarongo
+[252] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\gisadmin_otjiwarongo@otjiwarongo@localhost.sde
+[253] -  Reference Number/Stand No : ot_stand_no
+[254] -  Feature Class to compute stand number : otjiwarongo_Parcels
+[255] -  Object ID Field Name : OBJECTID
+[256] -  Local Authority ID Field Name : ot_local_authority_id
+[257] - Computation of Stand No's is complete
+[258] - Exited Computing Stand No In Spectacular Success 
+[259] - -------------Compute Stand No-----------------------------------------------------
+[260] - End Time : -16-01-17_20-51-16
+[261] - ------------------------------------------------------------------
+17/01/2016 20:51:47: 
+[262] - --------------------------------Auto Reconcile and Post----------------------------------
+[263] - Start Time : -16-01-17_20-51-22
+[264] - ------------------------------------------------------------------
+[265] -  Local Authority : otjiwarongo
+[266] - Exited with Spectacular Success 
+[267] - ------------------Auto Reconcile and Post------------------------------------------------
+[268] - End Time : -16-01-17_20-51-46
+[269] - ------------------------------------------------------------------
+17/01/2016 20:51:56: 
+[270] - ---------------------------------Compute Stand No---------------------------------
+[271] - Start Time : -16-01-17_20-51-52
+[272] - ------------------------------------------------------------------
+[273] -  Local Authority : outapi
+[274] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\gisadmin_outapi@outapi@localhost.sde
+[275] -  Reference Number/Stand No : up_stand_no
+[276] -  Feature Class to compute stand number : outapi_Parcels
+[277] -  Object ID Field Name : OBJECTID
+[278] -  Local Authority ID Field Name : up_local_authority_id
+[279] - Computation of Stand No's is complete
+[280] - Exited Computing Stand No In Spectacular Success 
+[281] - -------------Compute Stand No-----------------------------------------------------
+[282] - End Time : -16-01-17_20-51-55
+[283] - ------------------------------------------------------------------
+17/01/2016 20:52:12: 
+[284] - --------------------------------Auto Reconcile and Post----------------------------------
+[285] - Start Time : -16-01-17_20-52-01
+[286] - ------------------------------------------------------------------
+[287] -  Local Authority : outapi
+[288] - Exited with Spectacular Success 
+[289] - ------------------Auto Reconcile and Post------------------------------------------------
+[290] - End Time : -16-01-17_20-52-11
+[291] - ------------------------------------------------------------------
+17/01/2016 20:52:22: 
+[292] - ---------------------------------Compute Stand No---------------------------------
+[293] - Start Time : -16-01-17_20-52-18
+[294] - ------------------------------------------------------------------
+[295] -  Local Authority : keetmanshoop
+[296] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\gisadmin_keetmanshoop@keetmanshoop@localhost.sde
+[297] -  Reference Number/Stand No : k_stand_no
+[298] -  Feature Class to compute stand number : keetmanshoop_Parcels
+[299] -  Object ID Field Name : OBJECTID
+[300] -  Local Authority ID Field Name : k_local_authority_id
+[301] - Computation of Stand No's is complete
+[302] - Exited Computing Stand No In Spectacular Success 
+[303] - -------------Compute Stand No-----------------------------------------------------
+[304] - End Time : -16-01-17_20-52-21
+[305] - ------------------------------------------------------------------
+17/01/2016 20:52:51: 
+[306] - --------------------------------Auto Reconcile and Post----------------------------------
+[307] - Start Time : -16-01-17_20-52-30
+[308] - ------------------------------------------------------------------
+[309] -  Local Authority : keetmanshoop
+[310] - Exited with Spectacular Success 
+[311] - ------------------Auto Reconcile and Post------------------------------------------------
+[312] - End Time : -16-01-17_20-52-44
+[313] - ------------------------------------------------------------------
+17/01/2016 20:53:04: 
+[314] - ---------------------------------Compute Stand No---------------------------------
+[315] - Start Time : -16-01-17_20-53-00
+[316] - ------------------------------------------------------------------
+[317] -  Local Authority : oshakati
+[318] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\gisadmin_oshakati@oshakati@localhost.sde
+[319] -  Reference Number/Stand No : sh_stand_no
+[320] -  Feature Class to compute stand number : oshakati_Parcels
+[321] -  Object ID Field Name : OBJECTID
+[322] -  Local Authority ID Field Name : sh_local_authority_id
+[323] - Computation of Stand No's is complete
+[324] - Exited Computing Stand No In Spectacular Success 
+[325] - -------------Compute Stand No-----------------------------------------------------
+[326] - End Time : -16-01-17_20-53-03
+[327] - ------------------------------------------------------------------
+17/01/2016 20:53:28: 
+[328] - --------------------------------Auto Reconcile and Post----------------------------------
+[329] - Start Time : -16-01-17_20-53-13
+[330] - ------------------------------------------------------------------
+[331] -  Local Authority : oshakati
+[332] - Exited with Spectacular Success 
+[333] - ------------------Auto Reconcile and Post------------------------------------------------
+[334] - End Time : -16-01-17_20-53-26
+[335] - ------------------------------------------------------------------
+17/01/2016 20:53:49: 
+[336] - ---------------------------------Compute Stand No---------------------------------
+[337] - Start Time : -16-01-17_20-53-42
+[338] - ------------------------------------------------------------------
+[339] -  Local Authority : walvis_bay
+[340] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\walvis_bay\connection_files\gisadmin_walvis_bay@walvis_bay@localhost.sde
+[341] -  Reference Number/Stand No : wb_stand_no
+[342] -  Feature Class to compute stand number : walvis_bay_Parcels
+[343] -  Object ID Field Name : OBJECTID
+[344] -  Local Authority ID Field Name : wb_local_authority_id
+[345] - Computation of Stand No's is complete
+[346] - Exited Computing Stand No In Spectacular Success 
+[347] - -------------Compute Stand No-----------------------------------------------------
+[348] - End Time : -16-01-17_20-53-48
+[349] - ------------------------------------------------------------------
+17/01/2016 20:55:43: 
+[350] - --------------------------------Auto Reconcile and Post----------------------------------
+[351] - Start Time : -16-01-17_20-53-57
+[352] - ------------------------------------------------------------------
+[353] -  Local Authority : walvis_bay
+[354] - Exited with Spectacular Success 
+[355] - ------------------Auto Reconcile and Post------------------------------------------------
+[356] - End Time : -16-01-17_20-55-38
+[357] - ------------------------------------------------------------------
+17/01/2016 20:55:56: 
+[358] - ---------------------------------Compute Stand No---------------------------------
+[359] - Start Time : -16-01-17_20-55-52
+[360] - ------------------------------------------------------------------
+[361] -  Local Authority : helao_nafidi
+[362] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\helao_nafidi\connection_files\gisadmin_helao_nafidi@helao_nafidi@localhost.sde
+[363] -  Reference Number/Stand No : hn_stand_no
+[364] -  Feature Class to compute stand number : helao_nafidi_Parcels
+[365] -  Object ID Field Name : OBJECTID
+[366] -  Local Authority ID Field Name : hn_local_authority_id
+[367] - Computation of Stand No's is complete
+[368] - Exited Computing Stand No In Spectacular Success 
+[369] - -------------Compute Stand No-----------------------------------------------------
+[370] - End Time : -16-01-17_20-55-55
+[371] - ------------------------------------------------------------------
+17/01/2016 20:56:24: 
+[372] - --------------------------------Auto Reconcile and Post----------------------------------
+[373] - Start Time : -16-01-17_20-56-05
+[374] - ------------------------------------------------------------------
+[375] -  Local Authority : helao_nafidi
+[376] - Exited with Spectacular Success 
+[377] - ------------------Auto Reconcile and Post------------------------------------------------
+[378] - End Time : -16-01-17_20-56-23
+[379] - ------------------------------------------------------------------
+17/01/2016 20:56:38: 
+[380] - ---------------------------------Compute Stand No---------------------------------
+[381] - Start Time : -16-01-17_20-56-34
+[382] - ------------------------------------------------------------------
+[383] -  Local Authority : katima_mulilo
+[384] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\katima_mulilo\connection_files\gisadmin_katima_mulilo@katima_mulilo@localhost.sde
+[385] -  Reference Number/Stand No : km_stand_no
+[386] -  Feature Class to compute stand number : katima_mulilo_Parcels
+[387] -  Object ID Field Name : OBJECTID
+[388] -  Local Authority ID Field Name : km_local_authority_id
+[389] - ERROR: PYTHON ERRORS:
+[390] - Traceback Info:
+[391] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\Compute_Stand_No.py", line 113, in editStandNoField
+[392] -     with arcpy.da.UpdateCursor(featureClass, fields,SQLExp) as cursor:
+[393] - Error Info:
+[394] -     <type 'exceptions.RuntimeError'>: cannot open 'katima_mulilo_Parcels'
+[395] - ERROR: Geoprocessing  Errors :
+[396] - ERROR: PYTHON ERRORS:
+[397] - Traceback Info:
+[398] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\InvokeComputeStandNo.py", line 147, in <module>
+[399] -     Configurations.Configurations_local_authority_id_fieldName)
+[400] - Error Info:
+[401] -     <type 'exceptions.NameError'>: global name 'logger' is not defined
+[402] - ERROR: Geoprocessing  Errors :
+[403] - PYTHON ERRORS:
+[404] - Traceback Info:
+[405] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\Compute_Stand_No.py", line 113, in editStandNoField
+[406] -     with arcpy.da.UpdateCursor(featureClass, fields,SQLExp) as cursor:
+[407] - Error Info:
+[408] -     <type 'exceptions.RuntimeError'>: cannot open 'katima_mulilo_Parcels'
+[409] - Geoprocessing  Errors :
+[410] - PYTHON ERRORS:
+[411] - Traceback Info:
+[412] -   File "E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\python_code\InvokeComputeStandNo.py", line 147, in <module>
+[413] -     Configurations.Configurations_local_authority_id_fieldName)
+[414] - Error Info:
+[415] -     <type 'exceptions.NameError'>: global name 'logger' is not defined
+[416] - Geoprocessing  Errors :
+[417] - Failed 
+[418] - -------------------------------Compute Stand No-----------------------------------
+[419] - End Time : -16-01-17_20-56-37
+[420] - ------------------------------------------------------------------
+17/01/2016 20:57:18: 
+[421] - --------------------------------Auto Reconcile and Post----------------------------------
+[422] - Start Time : -16-01-17_20-56-47
+[423] - ------------------------------------------------------------------
+[424] -  Local Authority : katima_mulilo
+[425] - Exited with Spectacular Success 
+[426] - ------------------Auto Reconcile and Post------------------------------------------------
+[427] - End Time : -16-01-17_20-57-17
+[428] - ------------------------------------------------------------------
+17/01/2016 20:57:30: 
+[429] - ---------------------------------Compute Stand No---------------------------------
+[430] - Start Time : -16-01-17_20-57-26
+[431] - ------------------------------------------------------------------
+[432] -  Local Authority : tsumeb
+[433] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\tsumeb\connection_files\gisadmin_tsumeb@tsumeb@localhost.sde
+[434] -  Reference Number/Stand No : t_stand_no
+[435] -  Feature Class to compute stand number : tsumeb_Parcels
+[436] -  Object ID Field Name : OBJECTID
+[437] -  Local Authority ID Field Name : t_local_authority_id
+[438] - Computation of Stand No's is complete
+[439] - Exited Computing Stand No In Spectacular Success 
+[440] - -------------Compute Stand No-----------------------------------------------------
+[441] - End Time : -16-01-17_20-57-29
+[442] - ------------------------------------------------------------------
+17/01/2016 20:57:53: 
+[443] - --------------------------------Auto Reconcile and Post----------------------------------
+[444] - Start Time : -16-01-17_20-57-36
+[445] - ------------------------------------------------------------------
+[446] -  Local Authority : tsumeb
+[447] - Exited with Spectacular Success 
+[448] - ------------------Auto Reconcile and Post------------------------------------------------
+[449] - End Time : -16-01-17_20-57-52
+[450] - ------------------------------------------------------------------
+17/01/2016 20:58:06: 
+[451] - ---------------------------------Compute Stand No---------------------------------
+[452] - Start Time : -16-01-17_20-58-00
+[453] - ------------------------------------------------------------------
+[454] -  Local Authority : rundu
+[455] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\rundu\connection_files\gisadmin_rundu@rundu@localhost.sde
+[456] -  Reference Number/Stand No : ru_stand_no
+[457] -  Feature Class to compute stand number : rundu_Parcels
+[458] -  Object ID Field Name : OBJECTID
+[459] -  Local Authority ID Field Name : ru_local_authority_id
+[460] - Computation of Stand No's is complete
+[461] - Exited Computing Stand No In Spectacular Success 
+[462] - -------------Compute Stand No-----------------------------------------------------
+[463] - End Time : -16-01-17_20-58-05
+[464] - ------------------------------------------------------------------
+17/01/2016 20:59:32: 
+[465] - --------------------------------Auto Reconcile and Post----------------------------------
+[466] - Start Time : -16-01-17_20-58-18
+[467] - ------------------------------------------------------------------
+[468] -  Local Authority : rundu
+[469] - Exited with Spectacular Success 
+[470] - ------------------Auto Reconcile and Post------------------------------------------------
+[471] - End Time : -16-01-17_20-59-31
+[472] - ------------------------------------------------------------------
+17/01/2016 20:59:49: 
+[473] - ---------------------------------Compute Stand No---------------------------------
+[474] - Start Time : -16-01-17_20-59-44
+[475] - ------------------------------------------------------------------
+[476] -  Local Authority : okahandja
+[477] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\okahandja\connection_files\gisadmin_okahandja@okahandja@localhost.sde
+[478] -  Reference Number/Stand No : oh_stand_no
+[479] -  Feature Class to compute stand number : okahandja_Parcels
+[480] -  Object ID Field Name : OBJECTID
+[481] -  Local Authority ID Field Name : oh_local_authority_id
+[482] - Computation of Stand No's is complete
+[483] - Exited Computing Stand No In Spectacular Success 
+[484] - -------------Compute Stand No-----------------------------------------------------
+[485] - End Time : -16-01-17_20-59-48
+[486] - ------------------------------------------------------------------
+17/01/2016 21:00:36: 
+[487] - --------------------------------Auto Reconcile and Post----------------------------------
+[488] - Start Time : -16-01-17_21-00-00
+[489] - ------------------------------------------------------------------
+[490] -  Local Authority : okahandja
+[491] - Exited with Spectacular Success 
+[492] - ------------------Auto Reconcile and Post------------------------------------------------
+[493] - End Time : -16-01-17_21-00-35
+[494] - ------------------------------------------------------------------
+17/01/2016 21:00:36: Timer ticked and executePythonCode()  method or 
+                job has successfully completed(But with a pinch of salt-There could be errors)
+17/01/2016 21:01:07: Timer ticked and executePythonCode()  method or 
+                job has been done fired
+17/01/2016 21:01:37: 
+[495] - ---------------------------------Compute Stand No---------------------------------
+[496] - Start Time : -16-01-17_21-01-28
+[497] - ------------------------------------------------------------------
+[498] -  Local Authority : otjiwarongo
+[499] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\otjiwarongo\connection_files\gisadmin_otjiwarongo@otjiwarongo@localhost.sde
+[500] -  Reference Number/Stand No : ot_stand_no
+[501] -  Feature Class to compute stand number : otjiwarongo_Parcels
+[502] -  Object ID Field Name : OBJECTID
+[503] -  Local Authority ID Field Name : ot_local_authority_id
+[504] - Computation of Stand No's is complete
+[505] - Exited Computing Stand No In Spectacular Success 
+[506] - -------------Compute Stand No-----------------------------------------------------
+[507] - End Time : -16-01-17_21-01-37
+[508] - ------------------------------------------------------------------
+17/01/2016 21:02:39: 
+[509] - --------------------------------Auto Reconcile and Post----------------------------------
+[510] - Start Time : -16-01-17_21-02-00
+[511] - ------------------------------------------------------------------
+[512] -  Local Authority : otjiwarongo
+[513] - Exited with Spectacular Success 
+[514] - ------------------Auto Reconcile and Post------------------------------------------------
+[515] - End Time : -16-01-17_21-02-37
+[516] - ------------------------------------------------------------------
+17/01/2016 21:02:50: 
+[517] - ---------------------------------Compute Stand No---------------------------------
+[518] - Start Time : -16-01-17_21-02-45
+[519] - ------------------------------------------------------------------
+[520] -  Local Authority : outapi
+[521] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\outapi\connection_files\gisadmin_outapi@outapi@localhost.sde
+[522] -  Reference Number/Stand No : up_stand_no
+[523] -  Feature Class to compute stand number : outapi_Parcels
+[524] -  Object ID Field Name : OBJECTID
+[525] -  Local Authority ID Field Name : up_local_authority_id
+[526] - Computation of Stand No's is complete
+[527] - Exited Computing Stand No In Spectacular Success 
+[528] - -------------Compute Stand No-----------------------------------------------------
+[529] - End Time : -16-01-17_21-02-50
+[530] - ------------------------------------------------------------------
+17/01/2016 21:03:17: 
+[531] - --------------------------------Auto Reconcile and Post----------------------------------
+[532] - Start Time : -16-01-17_21-02-57
+[533] - ------------------------------------------------------------------
+[534] -  Local Authority : outapi
+[535] - Exited with Spectacular Success 
+[536] - ------------------Auto Reconcile and Post------------------------------------------------
+[537] - End Time : -16-01-17_21-03-16
+[538] - ------------------------------------------------------------------
+17/01/2016 21:03:32: 
+[539] - ---------------------------------Compute Stand No---------------------------------
+[540] - Start Time : -16-01-17_21-03-26
+[541] - ------------------------------------------------------------------
+[542] -  Local Authority : keetmanshoop
+[543] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\keetmanshoop\connection_files\gisadmin_keetmanshoop@keetmanshoop@localhost.sde
+[544] -  Reference Number/Stand No : k_stand_no
+[545] -  Feature Class to compute stand number : keetmanshoop_Parcels
+[546] -  Object ID Field Name : OBJECTID
+[547] -  Local Authority ID Field Name : k_local_authority_id
+[548] - Computation of Stand No's is complete
+[549] - Exited Computing Stand No In Spectacular Success 
+[550] - -------------Compute Stand No-----------------------------------------------------
+[551] - End Time : -16-01-17_21-03-31
+[552] - ------------------------------------------------------------------
+17/01/2016 21:04:06: 
+[553] - --------------------------------Auto Reconcile and Post----------------------------------
+[554] - Start Time : -16-01-17_21-03-41
+[555] - ------------------------------------------------------------------
+[556] -  Local Authority : keetmanshoop
+[557] - Exited with Spectacular Success 
+[558] - ------------------Auto Reconcile and Post------------------------------------------------
+[559] - End Time : -16-01-17_21-04-05
+[560] - ------------------------------------------------------------------
+17/01/2016 21:04:18: 
+[561] - ---------------------------------Compute Stand No---------------------------------
+[562] - Start Time : -16-01-17_21-04-13
+[563] - ------------------------------------------------------------------
+[564] -  Local Authority : oshakati
+[565] -  Data owner(GIS Admin) connection file path : E:\GIS Data\Namibia ULIMS\Code\ULIMSGISService\ULIMSGISService\bin\Debug\local_authorities\oshakati\connection_files\gisadmin_oshakati@oshakati@localhost.sde
+[566] -  Reference Number/Stand No : sh_stand_no
+[567] -  Feature Class to compute stand number : oshakati_Parcels
+[568] -  Object ID Field Name : OBJECTID
+[569] -  Local Authority ID Field Name : sh_local_authority_id
+[570] - Computation of Stand No's is complete
+[571] - Exited Computing Stand No In Spectacular Success 
+[572] - -------------Compute Stand No-----------------------------------------------------
+[573] - End Time : -16-01-17_21-04-17
+[574] - ------------------------------------------------------------------
+17/01/2016 21:04:43: 
+[575] - --------------------------------Auto Reconcile and Post----------------------------------
+[576] - Start Time : -16-01-17_21-04-25
+[577] - ------------------------------------------------------------------
+[578] -  Local Authority : oshakati
+[579] - Exited with Spectacular Success 
+[580] - ------------------Auto Reconcile and Post------------------------------------------------
+[581] - End Time : -16-01-17_21-04-42
+[582] - ------------------------------------------------------------------

@@ -14,8 +14,9 @@ namespace ULIMSGISService
         /// Creates a python process, passess it parameers and waits for completion. 
         /// Stdout from the python script is read asynchronously and captured into the .net log file
         /// </summary>
-        /// <param name="townName"></param>          
-        void executePythonProcess(string townName);
+        /// <param name="townName"></param>
+        /// <param name="pythonFileExecute"></param>  
+        void executePythonProcess(string townName, String pythonFileToExecute);
         /// <summary>
         /// Property : mExecutablePath
         /// Wrapped up in a getter and setter

@@ -84,8 +84,12 @@ namespace ULIMSGISService
                 //Loop over pairs with foreach loop
                 foreach (KeyValuePair<string, string> townpair in dictionary)
                 {
-                    //Call function to execute python process for each town         
-                    executePythonProcess((String)townpair.Value);
+                    //Call function to execute python process for computing stand number for each town    
+                    executePythonProcess((String)townpair.Value, "InvokeComputeStandNo.py");
+                    
+                    //Call function to execute python process for auto reconcile for each town   
+                    executePythonProcess((String)townpair.Value, "AutoReconcileAndPost.py");
+                    
                 }
             }
             catch (Exception)
@@ -99,8 +103,9 @@ namespace ULIMSGISService
         /// Creates a python process, passess it parameers and waits for completion. 
         /// Stdout from the python script is read asynchronously and captured into the .net log file
         /// </summary>
-        /// <param name="townName"></param>      
-        public  void executePythonProcess(String townName)
+        /// <param name="townName"></param>
+        /// <param name="pythonFileExecute"></param>  
+        public void executePythonProcess(String townName, String pythonFileToExecute)
         {
             try
             {
@@ -111,7 +116,7 @@ namespace ULIMSGISService
                 String configFilePath = "\"" + mExecutableRootDirectory + String.Format("\\local_authorities\\{0}\\Config.ini", townName) + "\"";
 
                 //Get path of main python file
-                String pathToPythonMainFile = "\"" + mExecutableRootDirectory + String.Format("\\local_authorities\\{0}\\AutoReconcileAndPost.py", mPythonCodeFolder) + "\"";
+                String pathToPythonMainFile = "\"" + mExecutableRootDirectory + String.Format("\\local_authorities\\{0}\\{1}", mPythonCodeFolder, pythonFileToExecute) + "\"";
 
                 //Get path of reconcile log file
                 String reconcileLogFilePath = "\"" + mExecutableRootDirectory + String.Format("\\local_authorities\\{0}\\{0}_reconcile.log", townName) + "\"";

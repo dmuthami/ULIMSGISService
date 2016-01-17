@@ -7,7 +7,7 @@ from datetime import datetime
 
 ##Custom module containing functions
 import Configurations
-import Compute_Stand_No
+#import Compute_Stand_No
 
 #Set-up logging
 logger = logging.getLogger('myapp')
@@ -20,7 +20,7 @@ logger.addHandler(hdlr)
 logger.setLevel(logging.INFO)
 
 #start time
-msg ="\n------------------------------------------------------------------\n"+"Start Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
+msg ="\n--------------------------------Auto Reconcile and Post----------------------------------\n"+"Start Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
 print msg
 #Logging
 logger.info(msg)
@@ -71,7 +71,7 @@ try:
     else:
         #Output path for currDir
         msg=  "\n"+currDir+"\n"
-        logger.info("currDirDotNet path : "+msg)
+        logger.info("currDir path : "+msg)
         #print msg
 
     # Get the Connection to the geodatabase administrator
@@ -127,23 +127,24 @@ try:
     ##----------------------------------------------------------
     ##-------------------------Call code to compute stand number
     ##----------------------------------------------------------
-    print "\n Data owner(GIS Admin) connection file path : "+connGISADMIN
-    print "\n Reference Number/Stand No : "+Configurations.Configurations_standNo_fieldName
-    print "\n Feature Class to compute stand number : "+Configurations.Configurations_featureClass
-    print "\n Object ID Field Name : "+Configurations.Configurations_objectID_fieldName
-    print "\n Local Authority ID Field Name : "+Configurations.Configurations_local_authority_id_fieldName
+##    print "\n Data owner(GIS Admin) connection file path : "+connGISADMIN
+##    print "\n Reference Number/Stand No : "+Configurations.Configurations_standNo_fieldName
+##    print "\n Feature Class to compute stand number : "+Configurations.Configurations_featureClass
+##    print "\n Object ID Field Name : "+Configurations.Configurations_objectID_fieldName
+##    print "\n Local Authority ID Field Name : "+Configurations.Configurations_local_authority_id_fieldName
 
     ##-----------Set workspace again to GIS admin so as to compute stand no
     ##------------
 
-    env.workspace = connGISADMIN
+##    env.workspace = connGISADMIN
 
-    # Call to compute
-    Compute_Stand_No.mainMethod(connGISADMIN,\
-    Configurations.Configurations_featureClass,
-    Configurations.Configurations_objectID_fieldName,\
-    Configurations.Configurations_standNo_fieldName,\
-    Configurations.Configurations_local_authority_id_fieldName)
+    ## Call to compute stand no
+    ##------------------------
+##    Compute_Stand_No.mainMethod(connGISADMIN,\
+##    Configurations.Configurations_featureClass,
+##    Configurations.Configurations_objectID_fieldName,\
+##    Configurations.Configurations_standNo_fieldName,\
+##    Configurations.Configurations_local_authority_id_fieldName)
 
     ##---- Re-set the workspace
     ##------
@@ -196,7 +197,7 @@ try:
     ##---Block connections to the geodatabase
     ##---
 
-    #block new connections to the database.
+    #Block new connections to the database.
     arcpy.AcceptConnections(connSDE, False)
 
     ##---
@@ -262,11 +263,8 @@ try:
     for dataset in arcpy.ListDatasets('*.' + userName + '.*'):
         dataList += arcpy.ListFeatureClasses(feature_dataset=dataset)
 
-
     # Execute rebuild indexes and analyze datasets
     # Note: to use the "SYSTEM" option, the user must be an administrator.
-
-    #workspace = "Database Connections/user1.sde"
 
     arcpy.RebuildIndexes_management(connSDE, "SYSTEM", dataList, "ALL")
 
@@ -276,10 +274,7 @@ try:
     ### Rebuild indices and update statistics for second data owner gisadmin user
     ###-------------------------------------------------------------
 
-    # set the workspace
-    env.workspace = None
-
-    #reset the worksapce
+    #reset the workspace
     env.workspace = connGISADMIN
 
     # Get the user name for the workspace
@@ -289,22 +284,22 @@ try:
 
     # Get a list of all the datasets the user has access to.
     # First, get all the stand alone tables, feature classes and rasters owned by the current user.
-    dataList2 = arcpy.ListTables('*.' + userName + '.*') + arcpy.ListFeatureClasses('*.' + userName + '.*') + arcpy.ListRasters('*.' + userName + '.*')
+    dataList = arcpy.ListTables('*.' + userName + '.*') + arcpy.ListFeatureClasses('*.' + userName + '.*') + arcpy.ListRasters('*.' + userName + '.*')
 
     # Next, for feature datasets owned by the current user
     # get all of the featureclasses and add them to the master list.
     for dataset in arcpy.ListDatasets('*.' + userName + '.*'):
-        dataList2 += arcpy.ListFeatureClasses(feature_dataset=dataset)
+        dataList += arcpy.ListFeatureClasses(feature_dataset=dataset)
 
 
     # Execute rebuild indexes and analyze datasets
     # Note: to use the "SYSTEM" option, the user must be an administrator.
 
-    #workspace = "Database Connections/user1.sde"
-
     try:
+        arcpy.RebuildIndexes_management(env.workspace, "NO_SYSTEM", dataList, "ALL")
+        #Try the below as well
+        arcpy.AnalyzeDatasets_management(env.workspace, "NO_SYSTEM", dataList, "ANALYZE_BASE", "ANALYZE_DELTA", "ANALYZE_ARCHIVE")
 
-        arcpy.RebuildIndexes_management(env.workspace, "NO_SYSTEM", dataList2, "ALL")
     except:
         ## Return any Python specific errors and any error returned by the geoprocessor
         ##
@@ -324,22 +319,21 @@ try:
         print "\n" +msgs
         logger.info("autoReconcileAndPost.py : arcpy.RebuildIndexes_management(connGISADMIN, 'NO_SYSTEM', dataList, 'ALL')"+pymsg)
         logger.info("autoReconcileAndPost.py "+msgs)
-        msg ="\nFailed \n------------------------------------------------------------------\n"+"End Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
+        msg ="\nFailed \n----------------------Auto Reconcile and Post--------------------------------------------\n"+"End Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
         print msg
 
         #Logging
         logger.info(msg)
-
-    #Try the below
-    arcpy.AnalyzeDatasets_management(env.workspace, "NO_SYSTEM", dataList2, "ANALYZE_BASE", "ANALYZE_DELTA", "ANALYZE_ARCHIVE")
 
     ##---------END--------------------------------------------------------------------------
     ##---------End of Rebuild indexes  and update statistics -------------------------------
     ##--------------------------------------------------------------------------------------
     ##--------------------------------------------------------------------------------------
 
-    msg ="\nExited with Spectacular Success \n------------------------------------------------------------------\n"+"End Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
 
+    msg ="\nExited with Spectacular Success \n------------------Auto Reconcile and Post------------------------------------------------\n"+"End Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
+
+    #Write to Console
     print msg
     #Logging
     logger.info(msg)
@@ -362,8 +356,8 @@ except:
     print "\n" +msgs
     logger.info("autoReconcileAndPost.py "+pymsg)
     logger.info("autoReconcileAndPost.py "+msgs)
-    msg ="\nFailed \n------------------------------------------------------------------\n"+"End Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
+    msg ="\nFailed \n----------------Auto Reconcile and Post--------------------------------------------------\n"+"End Time : " + datetime.now().strftime("-%y-%m-%d_%H-%M-%S")+ "\n------------------------------------------------------------------\n"
+    #Write to Console
     print msg
-
     #Logging
     logger.info(msg)

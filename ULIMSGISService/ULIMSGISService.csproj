@@ -164,7 +164,14 @@
       <DependentUpon>ProjectInstaller.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="local_authorities\python_code\Compute_Stand_No.py">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="local_authorities\python_code\InvokeComputeStandNo.py">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
   <ItemGroup>
     <None Include="local_authorities\python_code\AutoReconcileAndPost.py">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
