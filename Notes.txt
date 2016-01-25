@@ -1,4 +1,6 @@
---- Script to shrink database
+--- Script to shrink database 
+--- The log file grows wild and can easily consume allocated disk space for the SQL Server database files
+
 USE helao_nafidi;
 GO
 -- Truncate the log by changing the database recovery model to SIMPLE.
@@ -12,3 +14,4 @@ GO
 ALTER DATABASE helao_nafidi
 SET RECOVERY FULL;
 GO
+
